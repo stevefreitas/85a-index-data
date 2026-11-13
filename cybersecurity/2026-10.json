@@ -16,10 +16,10 @@
   "source": "SEC EDGAR XBRL filings; month-end market prices."
  },
  "subsegments": [
-  "Network and cloud security",
-  "Endpoint and security operations",
-  "Identity and access",
-  "Data security, vulnerability and resilience"
+  "Network security",
+  "Security operations",
+  "Identity",
+  "Data security"
  ],
  "index_series": [
   {
@@ -619,7 +619,7 @@
   }
  ],
  "subsegment_series": {
-  "Network and cloud security": [
+  "Network security": [
    {
     "month": "2019-10",
     "n": 4,
@@ -1216,7 +1216,7 @@
     "median_ev_adj_ebitda": 41.9
    }
   ],
-  "Endpoint and security operations": [
+  "Security operations": [
    {
     "month": "2019-10",
     "n": 4,
@@ -1813,7 +1813,7 @@
     "median_ev_adj_ebitda": 39.1
    }
   ],
-  "Identity and access": [
+  "Identity": [
    {
     "month": "2019-10",
     "n": 3,
@@ -2410,7 +2410,7 @@
     "median_ev_adj_ebitda": 14.5
    }
   ],
-  "Data security, vulnerability and resilience": [
+  "Data security": [
    {
     "month": "2019-10",
     "n": 7,
@@ -3050,8 +3050,8 @@
   {
    "ticker": "PANW",
    "name": "Palo Alto Networks",
-   "area": "Network and cloud security",
-   "subsegment": "Network and cloud security",
+   "area": "Network security",
+   "subsegment": "Network security",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -3763,8 +3763,8 @@
   {
    "ticker": "FTNT",
    "name": "Fortinet",
-   "area": "Network and cloud security",
-   "subsegment": "Network and cloud security",
+   "area": "Network security",
+   "subsegment": "Network security",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -4476,8 +4476,8 @@
   {
    "ticker": "ZS",
    "name": "Zscaler",
-   "area": "Network and cloud security",
-   "subsegment": "Network and cloud security",
+   "area": "Network security",
+   "subsegment": "Network security",
    "status": "Member",
    "listed": "2018-03-16",
    "exit_month": null,
@@ -5189,8 +5189,8 @@
   {
    "ticker": "NTSK",
    "name": "Netskope",
-   "area": "Network and cloud security",
-   "subsegment": "Network and cloud security",
+   "area": "Network security",
+   "subsegment": "Network security",
    "status": "Member",
    "listed": "2025-09-18",
    "exit_month": null,
@@ -5301,8 +5301,8 @@
   {
    "ticker": "ATEN",
    "name": "A10 Networks",
-   "area": "Network and cloud security",
-   "subsegment": "Network and cloud security",
+   "area": "Network security",
+   "subsegment": "Network security",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -6014,8 +6014,8 @@
   {
    "ticker": "CRWD",
    "name": "CrowdStrike",
-   "area": "Endpoint and security operations",
-   "subsegment": "Endpoint and security operations",
+   "area": "Security operations",
+   "subsegment": "Security operations",
    "status": "Member",
    "listed": "2019-06-12",
    "exit_month": null,
@@ -6727,8 +6727,8 @@
   {
    "ticker": "S",
    "name": "SentinelOne",
-   "area": "Endpoint and security operations",
-   "subsegment": "Endpoint and security operations",
+   "area": "Security operations",
+   "subsegment": "Security operations",
    "status": "Member",
    "listed": "2021-06-30",
    "exit_month": null,
@@ -7247,8 +7247,8 @@
   {
    "ticker": "RPD",
    "name": "Rapid7",
-   "area": "Endpoint and security operations",
-   "subsegment": "Endpoint and security operations",
+   "area": "Security operations",
+   "subsegment": "Security operations",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -7960,8 +7960,8 @@
   {
    "ticker": "BB",
    "name": "BlackBerry",
-   "area": "Endpoint and security operations",
-   "subsegment": "Endpoint and security operations",
+   "area": "Security operations",
+   "subsegment": "Security operations",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -8625,8 +8625,8 @@
   {
    "ticker": "OKTA",
    "name": "Okta",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -9338,8 +9338,8 @@
   {
    "ticker": "SAIL",
    "name": "SailPoint",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Member",
    "listed": "2025-02-13",
    "exit_month": null,
@@ -9507,8 +9507,8 @@
   {
    "ticker": "OSPN",
    "name": "OneSpan",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -10220,8 +10220,8 @@
   {
    "ticker": "MITK",
    "name": "Mitek",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -10933,8 +10933,8 @@
   {
    "ticker": "TLS",
    "name": "Telos",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Member",
    "listed": "2020-11-19",
    "exit_month": null,
@@ -11518,8 +11518,8 @@
   {
    "ticker": "TENB",
    "name": "Tenable",
-   "area": "Data security, vulnerability and resilience",
-   "subsegment": "Data security, vulnerability and resilience",
+   "area": "Data security",
+   "subsegment": "Data security",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -12231,8 +12231,8 @@
   {
    "ticker": "QLYS",
    "name": "Qualys",
-   "area": "Data security, vulnerability and resilience",
-   "subsegment": "Data security, vulnerability and resilience",
+   "area": "Data security",
+   "subsegment": "Data security",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -12944,8 +12944,8 @@
   {
    "ticker": "VRNS",
    "name": "Varonis",
-   "area": "Data security, vulnerability and resilience",
-   "subsegment": "Data security, vulnerability and resilience",
+   "area": "Data security",
+   "subsegment": "Data security",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -13648,8 +13648,8 @@
   {
    "ticker": "RBRK",
    "name": "Rubrik",
-   "area": "Data security, vulnerability and resilience",
-   "subsegment": "Data security, vulnerability and resilience",
+   "area": "Data security",
+   "subsegment": "Data security",
    "status": "Member",
    "listed": "2024-04-25",
    "exit_month": null,
@@ -13904,8 +13904,8 @@
   {
    "ticker": "CVLT",
    "name": "Commvault",
-   "area": "Data security, vulnerability and resilience",
-   "subsegment": "Data security, vulnerability and resilience",
+   "area": "Data security",
+   "subsegment": "Data security",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -14617,8 +14617,8 @@
   {
    "ticker": "TUFN",
    "name": "Tufin",
-   "area": "Network and cloud security",
-   "subsegment": "Network and cloud security",
+   "area": "Network security",
+   "subsegment": "Network security",
    "status": "Exited",
    "listed": null,
    "exit_month": "2022-08",
@@ -14631,8 +14631,8 @@
   {
    "ticker": "MNDT",
    "name": "Mandiant",
-   "area": "Endpoint and security operations",
-   "subsegment": "Endpoint and security operations",
+   "area": "Security operations",
+   "subsegment": "Security operations",
    "status": "Exited",
    "listed": null,
    "exit_month": "2022-09",
@@ -14887,8 +14887,8 @@
   {
    "ticker": "SCWX",
    "name": "SecureWorks",
-   "area": "Endpoint and security operations",
-   "subsegment": "Endpoint and security operations",
+   "area": "Security operations",
+   "subsegment": "Security operations",
    "status": "Exited",
    "listed": null,
    "exit_month": "2025-02",
@@ -15391,8 +15391,8 @@
   {
    "ticker": "KNBE",
    "name": "KnowBe4",
-   "area": "Endpoint and security operations",
-   "subsegment": "Endpoint and security operations",
+   "area": "Security operations",
+   "subsegment": "Security operations",
    "status": "Exited",
    "listed": "2021-04-22",
    "exit_month": "2023-02",
@@ -15536,8 +15536,8 @@
   {
    "ticker": "PING",
    "name": "Ping Identity",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Exited",
    "listed": "2019-09-19",
    "exit_month": "2022-10",
@@ -15833,8 +15833,8 @@
   {
    "ticker": "SAIL_2022",
    "name": "SailPoint (first listing)",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Exited",
    "listed": null,
    "exit_month": "2022-08",
@@ -15847,8 +15847,8 @@
   {
    "ticker": "FORG",
    "name": "ForgeRock",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Exited",
    "listed": "2021-09-16",
    "exit_month": "2023-08",
@@ -15959,8 +15959,8 @@
   {
    "ticker": "CYBR",
    "name": "CyberArk",
-   "area": "Identity and access",
-   "subsegment": "Identity and access",
+   "area": "Identity",
+   "subsegment": "Identity",
    "status": "Exited",
    "listed": null,
    "exit_month": "2026-02",
@@ -15973,8 +15973,8 @@
   {
    "ticker": "PFPT",
    "name": "Proofpoint",
-   "area": "Data security, vulnerability and resilience",
-   "subsegment": "Data security, vulnerability and resilience",
+   "area": "Data security",
+   "subsegment": "Data security",
    "status": "Exited",
    "listed": null,
    "exit_month": "2021-08",
@@ -16150,8 +16150,8 @@
   {
    "ticker": "ZIXI",
    "name": "Zix",
-   "area": "Data security, vulnerability and resilience",
-   "subsegment": "Data security, vulnerability and resilience",
+   "area": "Data security",
+   "subsegment": "Data security",
    "status": "Exited",
    "listed": null,
    "exit_month": "2021-12",
@@ -16383,8 +16383,8 @@
   {
    "ticker": "CARB",
    "name": "Carbonite",
-   "area": "Data security, vulnerability and resilience",
-   "subsegment": "Data security, vulnerability and resilience",
+   "area": "Data security",
+   "subsegment": "Data security",
    "status": "Exited",
    "listed": null,
    "exit_month": "2019-12",
@@ -16430,7 +16430,7 @@
   {
    "ticker": "MNDT",
    "name": "Mandiant",
-   "subsegment": "Endpoint and security operations",
+   "subsegment": "Security operations",
    "buyer": "Google",
    "announced": "2022-03-08",
    "exit_month": "2022-09",
@@ -16446,7 +16446,7 @@
   {
    "ticker": "SCWX",
    "name": "SecureWorks",
-   "subsegment": "Endpoint and security operations",
+   "subsegment": "Security operations",
    "buyer": "Sophos",
    "announced": "2024-10-21",
    "exit_month": "2025-02",
@@ -16462,7 +16462,7 @@
   {
    "ticker": "KNBE",
    "name": "KnowBe4",
-   "subsegment": "Endpoint and security operations",
+   "subsegment": "Security operations",
    "buyer": "Vista Equity Partners",
    "announced": "2022-10-12",
    "exit_month": "2023-02",
@@ -16478,7 +16478,7 @@
   {
    "ticker": "PING",
    "name": "Ping Identity",
-   "subsegment": "Identity and access",
+   "subsegment": "Identity",
    "buyer": "Thoma Bravo",
    "announced": "2022-08-03",
    "exit_month": "2022-10",
@@ -16494,7 +16494,7 @@
   {
    "ticker": "SAIL_2022",
    "name": "SailPoint (first listing)",
-   "subsegment": "Identity and access",
+   "subsegment": "Identity",
    "buyer": "Thoma Bravo",
    "announced": "2022-04-11",
    "exit_month": "2022-08",
@@ -16510,7 +16510,7 @@
   {
    "ticker": "FORG",
    "name": "ForgeRock",
-   "subsegment": "Identity and access",
+   "subsegment": "Identity",
    "buyer": "Thoma Bravo",
    "announced": "2022-10-11",
    "exit_month": "2023-08",
@@ -16530,7 +16530,7 @@
   {
    "ticker": "PFPT",
    "name": "Proofpoint",
-   "subsegment": "Data security, vulnerability and resilience",
+   "subsegment": "Data security",
    "buyer": "Thoma Bravo",
    "announced": "2021-04-26",
    "exit_month": "2021-08",
@@ -16546,7 +16546,7 @@
   {
    "ticker": "ZIXI",
    "name": "Zix",
-   "subsegment": "Data security, vulnerability and resilience",
+   "subsegment": "Data security",
    "buyer": "OpenText",
    "announced": "2021-11-08",
    "exit_month": "2021-12",
@@ -16562,7 +16562,7 @@
   {
    "ticker": "CARB",
    "name": "Carbonite",
-   "subsegment": "Data security, vulnerability and resilience",
+   "subsegment": "Data security",
    "buyer": "OpenText",
    "announced": "2019-11-11",
    "exit_month": "2019-12",
