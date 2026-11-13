@@ -1,5 +1,5 @@
 {
- "index": "Education technology and content",
+ "index": "Education and training",
  "slug": "education",
  "as_of_month": "2026-10",
  "status": "published",
@@ -16,10 +16,10 @@
   "source": "SEC EDGAR XBRL filings; month-end market prices."
  },
  "subsegments": [
-  "Learning content and platforms",
+  "Learning content",
   "Education services",
   "Consumer learning",
-  "Schools and career education"
+  "Schools and career"
  ],
  "index_series": [
   {
@@ -619,7 +619,7 @@
   }
  ],
  "subsegment_series": {
-  "Learning content and platforms": [
+  "Learning content": [
    {
     "month": "2019-10",
     "n": 7,
@@ -2410,7 +2410,7 @@
     "median_ev_adj_ebitda": 17
    }
   ],
-  "Schools and career education": [
+  "Schools and career": [
    {
     "month": "2019-10",
     "n": 6,
@@ -3050,8 +3050,8 @@
   {
    "ticker": "CLVT",
    "name": "Clarivate",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Member",
    "listed": "2019-05-14",
    "exit_month": null,
@@ -3763,8 +3763,8 @@
   {
    "ticker": "MH",
    "name": "McGraw Hill",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Member",
    "listed": "2025-07-24",
    "exit_month": null,
@@ -3892,8 +3892,8 @@
   {
    "ticker": "WLY",
    "name": "John Wiley",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -4605,8 +4605,8 @@
   {
    "ticker": "SCHL",
    "name": "Scholastic",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -5309,8 +5309,8 @@
   {
    "ticker": "FC",
    "name": "Franklin Covey",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -6022,8 +6022,8 @@
   {
    "ticker": "SKIL",
    "name": "Skillsoft",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Member",
    "listed": "2021-06-14",
    "exit_month": null,
@@ -6446,8 +6446,8 @@
   {
    "ticker": "HSTM",
    "name": "HealthStream",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -7159,8 +7159,8 @@
   {
    "ticker": "KLTR",
    "name": "Kaltura",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Member",
    "listed": "2021-07-21",
    "exit_month": null,
@@ -12285,8 +12285,8 @@
   {
    "ticker": "STRA",
    "name": "Strategic Education",
-   "area": "Schools and career education",
-   "subsegment": "Schools and career education",
+   "area": "Schools and career",
+   "subsegment": "Schools and career",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -12998,8 +12998,8 @@
   {
    "ticker": "LAUR",
    "name": "Laureate Education",
-   "area": "Schools and career education",
-   "subsegment": "Schools and career education",
+   "area": "Schools and career",
+   "subsegment": "Schools and career",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -13702,8 +13702,8 @@
   {
    "ticker": "PRDO",
    "name": "Perdoceo Education",
-   "area": "Schools and career education",
-   "subsegment": "Schools and career education",
+   "area": "Schools and career",
+   "subsegment": "Schools and career",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -14415,8 +14415,8 @@
   {
    "ticker": "APEI",
    "name": "American Public Education",
-   "area": "Schools and career education",
-   "subsegment": "Schools and career education",
+   "area": "Schools and career",
+   "subsegment": "Schools and career",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -15128,8 +15128,8 @@
   {
    "ticker": "UTI",
    "name": "Universal Technical Institute",
-   "area": "Schools and career education",
-   "subsegment": "Schools and career education",
+   "area": "Schools and career",
+   "subsegment": "Schools and career",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -15841,8 +15841,8 @@
   {
    "ticker": "LINC",
    "name": "Lincoln Educational Services",
-   "area": "Schools and career education",
-   "subsegment": "Schools and career education",
+   "area": "Schools and career",
+   "subsegment": "Schools and career",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -16554,8 +16554,8 @@
   {
    "ticker": "HMHC",
    "name": "Houghton Mifflin Harcourt",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Exited",
    "listed": null,
    "exit_month": "2022-04",
@@ -16811,8 +16811,8 @@
   {
    "ticker": "INST",
    "name": "Instructure",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Exited",
    "listed": "2021-07-22",
    "exit_month": "2024-11",
@@ -17100,8 +17100,8 @@
   {
    "ticker": "INST_2020",
    "name": "Instructure (first listing)",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Exited",
    "listed": null,
    "exit_month": "2020-03",
@@ -17114,8 +17114,8 @@
   {
    "ticker": "PWSC",
    "name": "PowerSchool",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Exited",
    "listed": "2021-07-28",
    "exit_month": "2024-10",
@@ -17395,8 +17395,8 @@
   {
    "ticker": "PS",
    "name": "Pluralsight",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Exited",
    "listed": null,
    "exit_month": "2021-04",
@@ -17409,8 +17409,8 @@
   {
    "ticker": "UDMY",
    "name": "Udemy",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Exited",
    "listed": "2021-10-29",
    "exit_month": "2026-05",
@@ -17810,8 +17810,8 @@
   {
    "ticker": "GPX",
    "name": "GP Strategies",
-   "area": "Learning content and platforms",
-   "subsegment": "Learning content and platforms",
+   "area": "Learning content",
+   "subsegment": "Learning content",
    "status": "Exited",
    "listed": null,
    "exit_month": "2021-10",
@@ -18108,7 +18108,7 @@
   {
    "ticker": "HMHC",
    "name": "Houghton Mifflin Harcourt",
-   "subsegment": "Learning content and platforms",
+   "subsegment": "Learning content",
    "buyer": "Veritas Capital",
    "announced": "2022-02-22",
    "exit_month": "2022-04",
@@ -18124,7 +18124,7 @@
   {
    "ticker": "INST",
    "name": "Instructure",
-   "subsegment": "Learning content and platforms",
+   "subsegment": "Learning content",
    "buyer": "KKR",
    "announced": "2024-07-25",
    "exit_month": "2024-11",
@@ -18140,7 +18140,7 @@
   {
    "ticker": "INST_2020",
    "name": "Instructure (first listing)",
-   "subsegment": "Learning content and platforms",
+   "subsegment": "Learning content",
    "buyer": "Thoma Bravo",
    "announced": "2019-12-04",
    "exit_month": "2020-03",
@@ -18156,7 +18156,7 @@
   {
    "ticker": "PWSC",
    "name": "PowerSchool",
-   "subsegment": "Learning content and platforms",
+   "subsegment": "Learning content",
    "buyer": "Bain Capital",
    "announced": "2024-06-07",
    "exit_month": "2024-10",
@@ -18176,7 +18176,7 @@
   {
    "ticker": "UDMY",
    "name": "Udemy",
-   "subsegment": "Learning content and platforms",
+   "subsegment": "Learning content",
    "buyer": "Coursera",
    "announced": "2025-12-17",
    "exit_month": "2026-05",
@@ -18192,7 +18192,7 @@
   {
    "ticker": "GPX",
    "name": "GP Strategies",
-   "subsegment": "Learning content and platforms",
+   "subsegment": "Learning content",
    "buyer": "Learning Technologies Group",
    "announced": "2021-07-15",
    "exit_month": "2021-10",
