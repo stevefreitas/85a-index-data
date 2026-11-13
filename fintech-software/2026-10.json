@@ -16,8 +16,8 @@
   "source": "SEC EDGAR XBRL filings; month-end market prices."
  },
  "subsegments": [
-  "Financial institution software",
-  "B2B payments and spend",
+  "Bank software",
+  "B2B payments",
   "Merchant payments"
  ],
  "index_series": [
@@ -618,7 +618,7 @@
   }
  ],
  "subsegment_series": {
-  "Financial institution software": [
+  "Bank software": [
    {
     "month": "2019-10",
     "n": 10,
@@ -1215,7 +1215,7 @@
     "median_ev_adj_ebitda": 15.6
    }
   ],
-  "B2B payments and spend": [
+  "B2B payments": [
    {
     "month": "2019-10",
     "n": 5,
@@ -2452,8 +2452,8 @@
   {
    "ticker": "JKHY",
    "name": "Jack Henry",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -3165,8 +3165,8 @@
   {
    "ticker": "NCNO",
    "name": "nCino",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": "2020-07-14",
    "exit_month": null,
@@ -3646,8 +3646,8 @@
   {
    "ticker": "QTWO",
    "name": "Q2",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -4359,8 +4359,8 @@
   {
    "ticker": "ALKT",
    "name": "Alkami",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": "2021-04-14",
    "exit_month": null,
@@ -4896,8 +4896,8 @@
   {
    "ticker": "BLND",
    "name": "Blend",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": "2021-07-16",
    "exit_month": null,
@@ -5409,8 +5409,8 @@
   {
    "ticker": "GWRE",
    "name": "Guidewire",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -6122,8 +6122,8 @@
   {
    "ticker": "SSNC",
    "name": "SS&C",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -6835,8 +6835,8 @@
   {
    "ticker": "BR",
    "name": "Broadridge",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -7548,8 +7548,8 @@
   {
    "ticker": "FIS",
    "name": "FIS",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -8261,8 +8261,8 @@
   {
    "ticker": "ACIW",
    "name": "ACI Worldwide",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -8974,8 +8974,8 @@
   {
    "ticker": "BILL",
    "name": "BILL",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": "2019-12-12",
    "exit_month": null,
@@ -9655,8 +9655,8 @@
   {
    "ticker": "FLYW",
    "name": "Flywire",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": "2021-05-26",
    "exit_month": null,
@@ -10192,8 +10192,8 @@
   {
    "ticker": "PAY",
    "name": "Paymentus",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": "2021-05-26",
    "exit_month": null,
@@ -10729,8 +10729,8 @@
   {
    "ticker": "PAYO",
    "name": "Payoneer",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": "2021-06-28",
    "exit_month": null,
@@ -11266,8 +11266,8 @@
   {
    "ticker": "RPAY",
    "name": "Repay",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": "2019-07-11",
    "exit_month": null,
@@ -11971,8 +11971,8 @@
   {
    "ticker": "CPAY",
    "name": "Corpay",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -12684,8 +12684,8 @@
   {
    "ticker": "IIIV",
    "name": "i3 Verticals",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": "2018-06-21",
    "exit_month": null,
@@ -13397,8 +13397,8 @@
   {
    "ticker": "PRTH",
    "name": "Priority Technology",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -14110,8 +14110,8 @@
   {
    "ticker": "WEX",
    "name": "WEX",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -17932,8 +17932,8 @@
   {
    "ticker": "MLNK",
    "name": "MeridianLink",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Exited",
    "listed": "2021-07-28",
    "exit_month": "2025-10",
@@ -18325,8 +18325,8 @@
   {
    "ticker": "BKI",
    "name": "Black Knight",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Exited",
    "listed": null,
    "exit_month": "2023-09",
@@ -18606,8 +18606,8 @@
   {
    "ticker": "ENV",
    "name": "Envestnet",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Exited",
    "listed": null,
    "exit_month": "2024-11",
@@ -19095,8 +19095,8 @@
   {
    "ticker": "DCT",
    "name": "Duck Creek",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Exited",
    "listed": "2020-08-14",
    "exit_month": "2023-03",
@@ -19335,8 +19335,8 @@
   {
    "ticker": "ENFN",
    "name": "Enfusion",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Exited",
    "listed": "2021-10-21",
    "exit_month": "2025-04",
@@ -19648,8 +19648,8 @@
   {
    "ticker": "AMK",
    "name": "AssetMark",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Exited",
    "listed": null,
    "exit_month": "2024-09",
@@ -20104,8 +20104,8 @@
   {
    "ticker": "CWAN",
    "name": "Clearwater Analytics",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Exited",
    "listed": "2021-09-24",
    "exit_month": "2026-06",
@@ -20529,8 +20529,8 @@
   {
    "ticker": "LPRO",
    "name": "Open Lending",
-   "area": "Financial institution software",
-   "subsegment": "Financial institution software",
+   "area": "Bank software",
+   "subsegment": "Bank software",
    "status": "Exited",
    "listed": "2020-06-11",
    "exit_month": "2026-07",
@@ -21122,8 +21122,8 @@
   {
    "ticker": "AVDX",
    "name": "AvidXchange",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Exited",
    "listed": "2021-10-13",
    "exit_month": "2025-10",
@@ -21467,8 +21467,8 @@
   {
    "ticker": "BTRS",
    "name": "Billtrust",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Exited",
    "listed": "2021-01-13",
    "exit_month": "2022-12",
@@ -21619,8 +21619,8 @@
   {
    "ticker": "PAYA",
    "name": "Paya",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Exited",
    "listed": "2020-10-19",
    "exit_month": "2023-02",
@@ -21836,8 +21836,8 @@
   {
    "ticker": "EPAY",
    "name": "Bottomline",
-   "area": "B2B payments and spend",
-   "subsegment": "B2B payments and spend",
+   "area": "B2B payments",
+   "subsegment": "B2B payments",
    "status": "Exited",
    "listed": null,
    "exit_month": "2022-05",
@@ -22384,7 +22384,7 @@
   {
    "ticker": "MLNK",
    "name": "MeridianLink",
-   "subsegment": "Financial institution software",
+   "subsegment": "Bank software",
    "buyer": "Centerbridge",
    "announced": "2025-08-11",
    "exit_month": "2025-10",
@@ -22400,7 +22400,7 @@
   {
    "ticker": "BKI",
    "name": "Black Knight",
-   "subsegment": "Financial institution software",
+   "subsegment": "Bank software",
    "buyer": "Intercontinental Exchange",
    "announced": "2022-05-04",
    "exit_month": "2023-09",
@@ -22416,7 +22416,7 @@
   {
    "ticker": "ENV",
    "name": "Envestnet",
-   "subsegment": "Financial institution software",
+   "subsegment": "Bank software",
    "buyer": "Bain Capital",
    "announced": "2024-07-11",
    "exit_month": "2024-11",
@@ -22432,7 +22432,7 @@
   {
    "ticker": "DCT",
    "name": "Duck Creek",
-   "subsegment": "Financial institution software",
+   "subsegment": "Bank software",
    "buyer": "Vista Equity Partners",
    "announced": "2023-01-09",
    "exit_month": "2023-03",
@@ -22448,7 +22448,7 @@
   {
    "ticker": "ENFN",
    "name": "Enfusion",
-   "subsegment": "Financial institution software",
+   "subsegment": "Bank software",
    "buyer": "Clearwater Analytics",
    "announced": "2025-01-13",
    "exit_month": "2025-04",
@@ -22464,7 +22464,7 @@
   {
    "ticker": "AMK",
    "name": "AssetMark",
-   "subsegment": "Financial institution software",
+   "subsegment": "Bank software",
    "buyer": "GTCR",
    "announced": "2024-04-25",
    "exit_month": "2024-09",
@@ -22480,7 +22480,7 @@
   {
    "ticker": "CWAN",
    "name": "Clearwater Analytics",
-   "subsegment": "Financial institution software",
+   "subsegment": "Bank software",
    "buyer": "Permira and Warburg Pincus",
    "announced": "2025-12-21",
    "exit_month": "2026-06",
@@ -22496,7 +22496,7 @@
   {
    "ticker": "LPRO",
    "name": "Open Lending",
-   "subsegment": "Financial institution software",
+   "subsegment": "Bank software",
    "buyer": "ANV Group Holdings",
    "announced": "2026-06-16",
    "exit_month": "2026-07",
@@ -22512,7 +22512,7 @@
   {
    "ticker": "AVDX",
    "name": "AvidXchange",
-   "subsegment": "B2B payments and spend",
+   "subsegment": "B2B payments",
    "buyer": "TPG",
    "announced": "2025-05-06",
    "exit_month": "2025-10",
@@ -22528,7 +22528,7 @@
   {
    "ticker": "BTRS",
    "name": "Billtrust",
-   "subsegment": "B2B payments and spend",
+   "subsegment": "B2B payments",
    "buyer": "EQT",
    "announced": "2022-09-28",
    "exit_month": "2022-12",
@@ -22544,7 +22544,7 @@
   {
    "ticker": "PAYA",
    "name": "Paya",
-   "subsegment": "B2B payments and spend",
+   "subsegment": "B2B payments",
    "buyer": "Nuvei",
    "announced": "2023-01-09",
    "exit_month": "2023-02",
@@ -22560,7 +22560,7 @@
   {
    "ticker": "EPAY",
    "name": "Bottomline",
-   "subsegment": "B2B payments and spend",
+   "subsegment": "B2B payments",
    "buyer": "Thoma Bravo",
    "announced": "2021-12-17",
    "exit_month": "2022-05",
