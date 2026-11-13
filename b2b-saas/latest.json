@@ -16,11 +16,11 @@
   "source": "SEC EDGAR XBRL filings; month-end market prices."
  },
  "subsegments": [
-  "CRM, marketing and customer engagement",
+  "CRM and marketing",
   "HR and payroll",
-  "Finance and accounting software",
-  "Collaboration, content and work management",
-  "Legal, risk and compliance"
+  "Finance",
+  "Collaboration",
+  "Legal and compliance"
  ],
  "index_series": [
   {
@@ -33,364 +33,364 @@
   {
    "month": "2019-11",
    "n": 36,
-   "median_ev_rev": 9.64,
+   "median_ev_rev": 9.54,
    "n_ebitda": 16,
    "median_ev_adj_ebitda": 53.2
   },
   {
    "month": "2019-12",
    "n": 36,
-   "median_ev_rev": 9.63,
+   "median_ev_rev": 9.42,
    "n_ebitda": 16,
    "median_ev_adj_ebitda": 50.1
   },
   {
    "month": "2020-01",
    "n": 36,
-   "median_ev_rev": 10.77,
+   "median_ev_rev": 10.11,
    "n_ebitda": 16,
    "median_ev_adj_ebitda": 58.8
   },
   {
    "month": "2020-02",
    "n": 37,
-   "median_ev_rev": 9.71,
+   "median_ev_rev": 9.3,
    "n_ebitda": 16,
    "median_ev_adj_ebitda": 51.2
   },
   {
    "month": "2020-03",
    "n": 37,
-   "median_ev_rev": 7.56,
+   "median_ev_rev": 7.21,
    "n_ebitda": 16,
    "median_ev_adj_ebitda": 41.9
   },
   {
    "month": "2020-04",
    "n": 37,
-   "median_ev_rev": 9.45,
+   "median_ev_rev": 8.15,
    "n_ebitda": 16,
    "median_ev_adj_ebitda": 51.3
   },
   {
    "month": "2020-05",
    "n": 37,
-   "median_ev_rev": 11.22,
+   "median_ev_rev": 10.35,
    "n_ebitda": 17,
    "median_ev_adj_ebitda": 59.5
   },
   {
    "month": "2020-06",
    "n": 37,
-   "median_ev_rev": 11.37,
+   "median_ev_rev": 10.74,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 62.9
   },
   {
    "month": "2020-07",
    "n": 37,
-   "median_ev_rev": 11.18,
+   "median_ev_rev": 11.12,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 65.6
   },
   {
    "month": "2020-08",
    "n": 38,
-   "median_ev_rev": 13.55,
+   "median_ev_rev": 12.85,
    "n_ebitda": 20,
    "median_ev_adj_ebitda": 82.6
   },
   {
    "month": "2020-09",
    "n": 38,
-   "median_ev_rev": 12.86,
+   "median_ev_rev": 12.15,
    "n_ebitda": 20,
    "median_ev_adj_ebitda": 69.2
   },
   {
    "month": "2020-10",
    "n": 38,
-   "median_ev_rev": 13.21,
+   "median_ev_rev": 11.74,
    "n_ebitda": 20,
    "median_ev_adj_ebitda": 67
   },
   {
    "month": "2020-11",
    "n": 40,
-   "median_ev_rev": 14.73,
+   "median_ev_rev": 12.47,
    "n_ebitda": 22,
    "median_ev_adj_ebitda": 69.8
   },
   {
    "month": "2020-12",
    "n": 41,
-   "median_ev_rev": 17.19,
+   "median_ev_rev": 13.43,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 72.3
   },
   {
    "month": "2021-01",
    "n": 41,
-   "median_ev_rev": 16.78,
+   "median_ev_rev": 13.38,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 65.7
   },
   {
    "month": "2021-02",
    "n": 42,
-   "median_ev_rev": 15.06,
+   "median_ev_rev": 13.5,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 64.4
   },
   {
    "month": "2021-03",
    "n": 42,
-   "median_ev_rev": 14.46,
+   "median_ev_rev": 13.37,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 57.9
   },
   {
    "month": "2021-04",
    "n": 42,
-   "median_ev_rev": 15.78,
+   "median_ev_rev": 13.84,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 62.8
   },
   {
    "month": "2021-05",
    "n": 44,
-   "median_ev_rev": 15.35,
+   "median_ev_rev": 15.09,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 57.1
   },
   {
    "month": "2021-06",
    "n": 44,
-   "median_ev_rev": 15.69,
+   "median_ev_rev": 15.21,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 56.2
   },
   {
    "month": "2021-07",
    "n": 43,
-   "median_ev_rev": 16.95,
+   "median_ev_rev": 16.78,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 55.6
   },
   {
    "month": "2021-08",
    "n": 45,
-   "median_ev_rev": 17.17,
+   "median_ev_rev": 16.25,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 62.8
   },
   {
    "month": "2021-09",
    "n": 46,
-   "median_ev_rev": 15.18,
+   "median_ev_rev": 14,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 59.1
   },
   {
    "month": "2021-10",
    "n": 46,
-   "median_ev_rev": 17.06,
+   "median_ev_rev": 16,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 66.2
   },
   {
    "month": "2021-11",
    "n": 48,
-   "median_ev_rev": 14.14,
+   "median_ev_rev": 13.91,
    "n_ebitda": 25,
    "median_ev_adj_ebitda": 56.8
   },
   {
    "month": "2021-12",
    "n": 48,
-   "median_ev_rev": 12.62,
+   "median_ev_rev": 12.34,
    "n_ebitda": 25,
    "median_ev_adj_ebitda": 53.7
   },
   {
    "month": "2022-01",
    "n": 48,
-   "median_ev_rev": 11.53,
+   "median_ev_rev": 11.4,
    "n_ebitda": 25,
    "median_ev_adj_ebitda": 49.7
   },
   {
    "month": "2022-02",
    "n": 50,
-   "median_ev_rev": 10.16,
+   "median_ev_rev": 9.92,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 41.5
   },
   {
    "month": "2022-03",
    "n": 50,
-   "median_ev_rev": 9.79,
+   "median_ev_rev": 8.78,
    "n_ebitda": 25,
    "median_ev_adj_ebitda": 46
   },
   {
    "month": "2022-04",
    "n": 50,
-   "median_ev_rev": 7.78,
+   "median_ev_rev": 7.2,
    "n_ebitda": 25,
    "median_ev_adj_ebitda": 37.4
   },
   {
    "month": "2022-05",
    "n": 50,
-   "median_ev_rev": 6.81,
+   "median_ev_rev": 6.35,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 33.2
   },
   {
    "month": "2022-06",
    "n": 49,
-   "median_ev_rev": 6.02,
+   "median_ev_rev": 5.77,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 25.5
   },
   {
    "month": "2022-07",
    "n": 49,
-   "median_ev_rev": 6.45,
+   "median_ev_rev": 6.34,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 29.7
   },
   {
    "month": "2022-08",
    "n": 48,
-   "median_ev_rev": 5.5,
+   "median_ev_rev": 5.41,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 27.5
   },
   {
    "month": "2022-09",
    "n": 48,
-   "median_ev_rev": 4.85,
+   "median_ev_rev": 4.66,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 28
   },
   {
    "month": "2022-10",
    "n": 48,
-   "median_ev_rev": 5.71,
+   "median_ev_rev": 5.51,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 30.4
   },
   {
    "month": "2022-11",
    "n": 47,
-   "median_ev_rev": 5.02,
+   "median_ev_rev": 4.89,
    "n_ebitda": 22,
    "median_ev_adj_ebitda": 29.9
   },
   {
    "month": "2022-12",
    "n": 46,
-   "median_ev_rev": 4.54,
+   "median_ev_rev": 4.47,
    "n_ebitda": 21,
    "median_ev_adj_ebitda": 26.7
   },
   {
    "month": "2023-01",
    "n": 46,
-   "median_ev_rev": 5.36,
+   "median_ev_rev": 5.13,
    "n_ebitda": 21,
    "median_ev_adj_ebitda": 30.2
   },
   {
    "month": "2023-02",
    "n": 46,
-   "median_ev_rev": 5.23,
+   "median_ev_rev": 5.02,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 26.3
   },
   {
    "month": "2023-03",
    "n": 43,
-   "median_ev_rev": 6.19,
+   "median_ev_rev": 5.44,
    "n_ebitda": 22,
    "median_ev_adj_ebitda": 27.6
   },
   {
    "month": "2023-04",
    "n": 43,
-   "median_ev_rev": 5.45,
+   "median_ev_rev": 5.38,
    "n_ebitda": 22,
    "median_ev_adj_ebitda": 26.4
   },
   {
    "month": "2023-05",
    "n": 43,
-   "median_ev_rev": 5.94,
+   "median_ev_rev": 5.28,
    "n_ebitda": 21,
    "median_ev_adj_ebitda": 25.2
   },
   {
    "month": "2023-06",
    "n": 43,
-   "median_ev_rev": 5.65,
+   "median_ev_rev": 5.39,
    "n_ebitda": 21,
    "median_ev_adj_ebitda": 26.2
   },
   {
    "month": "2023-07",
    "n": 43,
-   "median_ev_rev": 6.14,
+   "median_ev_rev": 5.85,
    "n_ebitda": 21,
    "median_ev_adj_ebitda": 28.4
   },
   {
    "month": "2023-08",
    "n": 43,
-   "median_ev_rev": 6.21,
+   "median_ev_rev": 5.93,
    "n_ebitda": 21,
    "median_ev_adj_ebitda": 29.1
   },
   {
    "month": "2023-09",
    "n": 43,
-   "median_ev_rev": 5.57,
+   "median_ev_rev": 5.55,
    "n_ebitda": 22,
    "median_ev_adj_ebitda": 25
   },
   {
    "month": "2023-10",
    "n": 43,
-   "median_ev_rev": 5.04,
+   "median_ev_rev": 5.02,
    "n_ebitda": 22,
    "median_ev_adj_ebitda": 24
   },
   {
    "month": "2023-11",
    "n": 44,
-   "median_ev_rev": 5.61,
+   "median_ev_rev": 5.2,
    "n_ebitda": 23,
    "median_ev_adj_ebitda": 18.7
   },
   {
    "month": "2023-12",
    "n": 44,
-   "median_ev_rev": 6.37,
+   "median_ev_rev": 5.82,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 21
   },
   {
    "month": "2024-01",
    "n": 44,
-   "median_ev_rev": 5.65,
+   "median_ev_rev": 5.5,
    "n_ebitda": 24,
    "median_ev_adj_ebitda": 20.6
   },
   {
    "month": "2024-02",
    "n": 44,
-   "median_ev_rev": 5.34,
+   "median_ev_rev": 5.26,
    "n_ebitda": 25,
    "median_ev_adj_ebitda": 21.9
   },
@@ -425,28 +425,28 @@
   {
    "month": "2024-07",
    "n": 44,
-   "median_ev_rev": 4.74,
+   "median_ev_rev": 4.35,
    "n_ebitda": 28,
    "median_ev_adj_ebitda": 18.3
   },
   {
    "month": "2024-08",
    "n": 44,
-   "median_ev_rev": 4.39,
+   "median_ev_rev": 4.3,
    "n_ebitda": 31,
    "median_ev_adj_ebitda": 17.7
   },
   {
    "month": "2024-09",
    "n": 43,
-   "median_ev_rev": 4.32,
+   "median_ev_rev": 4.18,
    "n_ebitda": 30,
    "median_ev_adj_ebitda": 16.5
   },
   {
    "month": "2024-10",
    "n": 42,
-   "median_ev_rev": 4.67,
+   "median_ev_rev": 4.54,
    "n_ebitda": 29,
    "median_ev_adj_ebitda": 17
   },
@@ -460,70 +460,70 @@
   {
    "month": "2024-12",
    "n": 41,
-   "median_ev_rev": 5.17,
+   "median_ev_rev": 5.15,
    "n_ebitda": 28,
    "median_ev_adj_ebitda": 20.3
   },
   {
    "month": "2025-01",
    "n": 40,
-   "median_ev_rev": 6.15,
+   "median_ev_rev": 5.82,
    "n_ebitda": 27,
    "median_ev_adj_ebitda": 21.2
   },
   {
    "month": "2025-02",
    "n": 40,
-   "median_ev_rev": 4.48,
+   "median_ev_rev": 4.34,
    "n_ebitda": 27,
    "median_ev_adj_ebitda": 19.1
   },
   {
    "month": "2025-03",
    "n": 40,
-   "median_ev_rev": 3.92,
+   "median_ev_rev": 3.76,
    "n_ebitda": 26,
    "median_ev_adj_ebitda": 18.7
   },
   {
    "month": "2025-04",
    "n": 40,
-   "median_ev_rev": 4.31,
+   "median_ev_rev": 3.97,
    "n_ebitda": 26,
    "median_ev_adj_ebitda": 17.7
   },
   {
    "month": "2025-05",
    "n": 40,
-   "median_ev_rev": 4.78,
+   "median_ev_rev": 4.32,
    "n_ebitda": 27,
    "median_ev_adj_ebitda": 18.8
   },
   {
    "month": "2025-06",
    "n": 40,
-   "median_ev_rev": 4.22,
+   "median_ev_rev": 3.9,
    "n_ebitda": 28,
    "median_ev_adj_ebitda": 17.5
   },
   {
    "month": "2025-07",
    "n": 40,
-   "median_ev_rev": 4.21,
+   "median_ev_rev": 3.99,
    "n_ebitda": 28,
    "median_ev_adj_ebitda": 17.4
   },
   {
    "month": "2025-08",
    "n": 39,
-   "median_ev_rev": 4.16,
+   "median_ev_rev": 3.79,
    "n_ebitda": 27,
    "median_ev_adj_ebitda": 17.7
   },
   {
    "month": "2025-09",
    "n": 39,
-   "median_ev_rev": 3.98,
+   "median_ev_rev": 3.8,
    "n_ebitda": 27,
    "median_ev_adj_ebitda": 14.3
   },
@@ -620,7 +620,7 @@
   }
  ],
  "subsegment_series": {
-  "CRM, marketing and customer engagement": [
+  "CRM and marketing": [
    {
     "month": "2019-10",
     "n": 11,
@@ -631,189 +631,189 @@
    {
     "month": "2019-11",
     "n": 11,
-    "median_ev_rev": 9.49,
+    "median_ev_rev": 9.31,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 65.8
    },
    {
     "month": "2019-12",
     "n": 11,
-    "median_ev_rev": 9.7,
+    "median_ev_rev": 8.87,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 65.8
    },
    {
     "month": "2020-01",
     "n": 11,
-    "median_ev_rev": 9.97,
+    "median_ev_rev": 9.62,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 68.7
    },
    {
     "month": "2020-02",
     "n": 12,
-    "median_ev_rev": 8.91,
+    "median_ev_rev": 8.43,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 69.7
    },
    {
     "month": "2020-03",
     "n": 12,
-    "median_ev_rev": 6.94,
+    "median_ev_rev": 6.46,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 59.7
    },
    {
     "month": "2020-04",
     "n": 12,
-    "median_ev_rev": 7.69,
+    "median_ev_rev": 7.16,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 74
    },
    {
     "month": "2020-05",
     "n": 12,
-    "median_ev_rev": 10.02,
+    "median_ev_rev": 8.77,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 88.8
    },
    {
     "month": "2020-06",
     "n": 12,
-    "median_ev_rev": 10.76,
+    "median_ev_rev": 9.55,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 98.2
    },
    {
     "month": "2020-07",
     "n": 12,
-    "median_ev_rev": 11.14,
+    "median_ev_rev": 9.81,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 104.1
    },
    {
     "month": "2020-08",
     "n": 13,
-    "median_ev_rev": 13.09,
+    "median_ev_rev": 12.19,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 100.7
    },
    {
     "month": "2020-09",
     "n": 13,
-    "median_ev_rev": 12.87,
+    "median_ev_rev": 11.46,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 111.2
    },
    {
     "month": "2020-10",
     "n": 13,
-    "median_ev_rev": 13.87,
+    "median_ev_rev": 10.93,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 98.6
    },
    {
     "month": "2020-11",
     "n": 14,
-    "median_ev_rev": 18.01,
+    "median_ev_rev": 13.68,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 112.3
    },
    {
     "month": "2020-12",
     "n": 14,
-    "median_ev_rev": 17.35,
+    "median_ev_rev": 14.62,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 105.8
    },
    {
     "month": "2021-01",
     "n": 14,
-    "median_ev_rev": 18.68,
+    "median_ev_rev": 15.2,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 105.3
    },
    {
     "month": "2021-02",
     "n": 15,
-    "median_ev_rev": 17.03,
+    "median_ev_rev": 12.72,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 80.9
    },
    {
     "month": "2021-03",
     "n": 15,
-    "median_ev_rev": 15.49,
+    "median_ev_rev": 9.39,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 77
    },
    {
     "month": "2021-04",
     "n": 15,
-    "median_ev_rev": 17.03,
+    "median_ev_rev": 9.75,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 82.3
    },
    {
     "month": "2021-05",
     "n": 17,
-    "median_ev_rev": 16.62,
+    "median_ev_rev": 14.96,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 72.2
    },
    {
     "month": "2021-06",
     "n": 17,
-    "median_ev_rev": 21.47,
+    "median_ev_rev": 15.79,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 80.5
    },
    {
     "month": "2021-07",
     "n": 16,
-    "median_ev_rev": 19.15,
+    "median_ev_rev": 16.38,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 81.8
    },
    {
     "month": "2021-08",
     "n": 17,
-    "median_ev_rev": 17.55,
+    "median_ev_rev": 12.88,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 64.3
    },
    {
     "month": "2021-09",
     "n": 18,
-    "median_ev_rev": 13.69,
+    "median_ev_rev": 11.76,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 65.5
    },
    {
     "month": "2021-10",
     "n": 18,
-    "median_ev_rev": 14.77,
+    "median_ev_rev": 11.6,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 75.4
    },
    {
     "month": "2021-11",
     "n": 18,
-    "median_ev_rev": 13.02,
+    "median_ev_rev": 10.97,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 84.3
    },
    {
     "month": "2021-12",
     "n": 18,
-    "median_ev_rev": 11.26,
+    "median_ev_rev": 10.14,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 82
    },
    {
     "month": "2022-01",
     "n": 18,
-    "median_ev_rev": 10.53,
+    "median_ev_rev": 9.43,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 69
    },
@@ -827,168 +827,168 @@
    {
     "month": "2022-03",
     "n": 20,
-    "median_ev_rev": 7.19,
+    "median_ev_rev": 6.93,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 58.9
    },
    {
     "month": "2022-04",
     "n": 20,
-    "median_ev_rev": 6.08,
+    "median_ev_rev": 5.59,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 46.3
    },
    {
     "month": "2022-05",
     "n": 20,
-    "median_ev_rev": 5.52,
+    "median_ev_rev": 5.17,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 38.1
    },
    {
     "month": "2022-06",
     "n": 19,
-    "median_ev_rev": 4.74,
+    "median_ev_rev": 4.68,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 35.4
    },
    {
     "month": "2022-07",
     "n": 19,
-    "median_ev_rev": 5.55,
+    "median_ev_rev": 5.28,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 38.6
    },
    {
     "month": "2022-08",
     "n": 19,
-    "median_ev_rev": 4.96,
+    "median_ev_rev": 4.63,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 32.2
    },
    {
     "month": "2022-09",
     "n": 19,
-    "median_ev_rev": 4.1,
+    "median_ev_rev": 4.02,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 30.3
    },
    {
     "month": "2022-10",
     "n": 19,
-    "median_ev_rev": 4.83,
+    "median_ev_rev": 4.12,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 34
    },
    {
     "month": "2022-11",
     "n": 19,
-    "median_ev_rev": 3.8,
+    "median_ev_rev": 3.7,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 30.6
    },
    {
     "month": "2022-12",
     "n": 19,
-    "median_ev_rev": 3.77,
+    "median_ev_rev": 3.35,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 27.4
    },
    {
     "month": "2023-01",
     "n": 19,
-    "median_ev_rev": 4.74,
+    "median_ev_rev": 4.13,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 34.8
    },
    {
     "month": "2023-02",
     "n": 19,
-    "median_ev_rev": 4.53,
+    "median_ev_rev": 4.13,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 32.5
    },
    {
     "month": "2023-03",
     "n": 16,
-    "median_ev_rev": 5.2,
+    "median_ev_rev": 3.89,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 30.3
    },
    {
     "month": "2023-04",
     "n": 16,
-    "median_ev_rev": 4.88,
+    "median_ev_rev": 3.55,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 28.7
    },
    {
     "month": "2023-05",
     "n": 16,
-    "median_ev_rev": 4.54,
+    "median_ev_rev": 3.07,
     "n_ebitda": 5,
     "median_ev_adj_ebitda": 33.8
    },
    {
     "month": "2023-06",
     "n": 16,
-    "median_ev_rev": 5.12,
+    "median_ev_rev": 3.9,
     "n_ebitda": 5,
     "median_ev_adj_ebitda": 34.3
    },
    {
     "month": "2023-07",
     "n": 16,
-    "median_ev_rev": 5.44,
+    "median_ev_rev": 4.2,
     "n_ebitda": 5,
     "median_ev_adj_ebitda": 36.6
    },
    {
     "month": "2023-08",
     "n": 16,
-    "median_ev_rev": 5.32,
+    "median_ev_rev": 3.79,
     "n_ebitda": 5,
     "median_ev_adj_ebitda": 35.7
    },
    {
     "month": "2023-09",
     "n": 16,
-    "median_ev_rev": 4.76,
+    "median_ev_rev": 3.45,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 21
    },
    {
     "month": "2023-10",
     "n": 16,
-    "median_ev_rev": 4.42,
+    "median_ev_rev": 3.22,
     "n_ebitda": 6,
     "median_ev_adj_ebitda": 20
    },
    {
     "month": "2023-11",
     "n": 17,
-    "median_ev_rev": 5.16,
+    "median_ev_rev": 5.11,
     "n_ebitda": 7,
     "median_ev_adj_ebitda": 17.4
    },
    {
     "month": "2023-12",
     "n": 17,
-    "median_ev_rev": 6.43,
+    "median_ev_rev": 4.4,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 25.9
    },
    {
     "month": "2024-01",
     "n": 17,
-    "median_ev_rev": 5.41,
+    "median_ev_rev": 4.57,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 27
    },
    {
     "month": "2024-02",
     "n": 17,
-    "median_ev_rev": 4.93,
+    "median_ev_rev": 4.78,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 21.9
    },
@@ -1023,112 +1023,112 @@
    {
     "month": "2024-07",
     "n": 17,
-    "median_ev_rev": 4.06,
+    "median_ev_rev": 3.59,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 21.1
    },
    {
     "month": "2024-08",
     "n": 17,
-    "median_ev_rev": 3.62,
+    "median_ev_rev": 3.06,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 17.9
    },
    {
     "month": "2024-09",
     "n": 17,
-    "median_ev_rev": 3.75,
+    "median_ev_rev": 2.45,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 15.6
    },
    {
     "month": "2024-10",
     "n": 17,
-    "median_ev_rev": 3.75,
+    "median_ev_rev": 2.35,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 15.6
    },
    {
     "month": "2024-11",
     "n": 17,
-    "median_ev_rev": 3.96,
+    "median_ev_rev": 3.29,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 19.8
    },
    {
     "month": "2024-12",
     "n": 17,
-    "median_ev_rev": 3.5,
+    "median_ev_rev": 3.25,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 19.3
    },
    {
     "month": "2025-01",
     "n": 17,
-    "median_ev_rev": 3.58,
+    "median_ev_rev": 3.27,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 20.1
    },
    {
     "month": "2025-02",
     "n": 17,
-    "median_ev_rev": 3.01,
+    "median_ev_rev": 2.79,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 18
    },
    {
     "month": "2025-03",
     "n": 17,
-    "median_ev_rev": 2.55,
+    "median_ev_rev": 2.34,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 14
    },
    {
     "month": "2025-04",
     "n": 17,
-    "median_ev_rev": 2.33,
+    "median_ev_rev": 2.25,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 12.5
    },
    {
     "month": "2025-05",
     "n": 17,
-    "median_ev_rev": 2.58,
+    "median_ev_rev": 2.44,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 13.2
    },
    {
     "month": "2025-06",
     "n": 17,
-    "median_ev_rev": 2.65,
+    "median_ev_rev": 2.54,
     "n_ebitda": 11,
     "median_ev_adj_ebitda": 15.9
    },
    {
     "month": "2025-07",
     "n": 17,
-    "median_ev_rev": 2.71,
+    "median_ev_rev": 2.3,
     "n_ebitda": 11,
     "median_ev_adj_ebitda": 16.1
    },
    {
     "month": "2025-08",
     "n": 17,
-    "median_ev_rev": 2.59,
+    "median_ev_rev": 2.32,
     "n_ebitda": 11,
     "median_ev_adj_ebitda": 18.9
    },
    {
     "month": "2025-09",
     "n": 17,
-    "median_ev_rev": 2.24,
+    "median_ev_rev": 2.15,
     "n_ebitda": 11,
     "median_ev_adj_ebitda": 11.7
    },
    {
     "month": "2025-10",
     "n": 17,
-    "median_ev_rev": 2.24,
+    "median_ev_rev": 2.14,
     "n_ebitda": 11,
     "median_ev_adj_ebitda": 12
    },
@@ -1814,7 +1814,7 @@
     "median_ev_adj_ebitda": 14
    }
   ],
-  "Finance and accounting software": [
+  "Finance": [
    {
     "month": "2019-10",
     "n": 6,
@@ -2411,7 +2411,7 @@
     "median_ev_adj_ebitda": 11.3
    }
   ],
-  "Collaboration, content and work management": [
+  "Collaboration": [
    {
     "month": "2019-10",
     "n": 9,
@@ -3008,7 +3008,7 @@
     "median_ev_adj_ebitda": 11.7
    }
   ],
-  "Legal, risk and compliance": [
+  "Legal and compliance": [
    {
     "month": "2019-10",
     "n": 1,
@@ -3610,9 +3610,9 @@
   "ev_rev": {
    "min": 2.61,
    "p10": 3.74,
-   "median": 5.65,
-   "p90": 15.13,
-   "max": 17.19,
+   "median": 5.41,
+   "p90": 13.47,
+   "max": 16.78,
    "current": 3.72,
    "percentile": 11,
    "points": 85
@@ -3648,8 +3648,8 @@
   {
    "ticker": "CRM",
    "name": "Salesforce",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -4361,8 +4361,8 @@
   {
    "ticker": "HUBS",
    "name": "HubSpot",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -5074,8 +5074,8 @@
   {
    "ticker": "KVYO",
    "name": "Klaviyo",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": "2023-09-20",
    "exit_month": null,
@@ -5395,8 +5395,8 @@
   {
    "ticker": "BRZE",
    "name": "Braze",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": "2021-11-17",
    "exit_month": null,
@@ -5867,8 +5867,8 @@
   {
    "ticker": "SPT",
    "name": "Sprout Social",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": "2019-12-13",
    "exit_month": null,
@@ -6548,8 +6548,8 @@
   {
    "ticker": "ZETA",
    "name": "Zeta Global",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": "2021-06-10",
    "exit_month": null,
@@ -7085,8 +7085,8 @@
   {
    "ticker": "FIVN",
    "name": "Five9",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -7798,8 +7798,8 @@
   {
    "ticker": "RNG",
    "name": "RingCentral",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -8511,8 +8511,8 @@
   {
    "ticker": "YEXT",
    "name": "Yext",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -9224,8 +9224,8 @@
   {
    "ticker": "CXM",
    "name": "Sprinklr",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": "2021-06-23",
    "exit_month": null,
@@ -9753,8 +9753,8 @@
   {
    "ticker": "CMRC",
    "name": "Commerce.com",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": "2020-08-05",
    "exit_month": null,
@@ -10353,8 +10353,8 @@
   {
    "ticker": "UPLD",
    "name": "Upland Software",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -11066,8 +11066,8 @@
   {
    "ticker": "GTM",
    "name": "ZoomInfo",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Member",
    "listed": "2020-06-04",
    "exit_month": null,
@@ -15968,8 +15968,8 @@
   {
    "ticker": "INTU",
    "name": "Intuit",
-   "area": "Finance and accounting software",
-   "subsegment": "Finance and accounting software",
+   "area": "Finance",
+   "subsegment": "Finance",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -16681,8 +16681,8 @@
   {
    "ticker": "BL",
    "name": "BlackLine",
-   "area": "Finance and accounting software",
-   "subsegment": "Finance and accounting software",
+   "area": "Finance",
+   "subsegment": "Finance",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -17394,8 +17394,8 @@
   {
    "ticker": "WK",
    "name": "Workiva",
-   "area": "Finance and accounting software",
-   "subsegment": "Finance and accounting software",
+   "area": "Finance",
+   "subsegment": "Finance",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -18107,8 +18107,8 @@
   {
    "ticker": "EXFY",
    "name": "Expensify",
-   "area": "Finance and accounting software",
-   "subsegment": "Finance and accounting software",
+   "area": "Finance",
+   "subsegment": "Finance",
    "status": "Member",
    "listed": "2021-11-10",
    "exit_month": null,
@@ -18596,8 +18596,8 @@
   {
    "ticker": "DOCU",
    "name": "DocuSign",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -19309,8 +19309,8 @@
   {
    "ticker": "BOX",
    "name": "Box",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -20022,8 +20022,8 @@
   {
    "ticker": "DBX",
    "name": "Dropbox",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -20735,8 +20735,8 @@
   {
    "ticker": "ZM",
    "name": "Zoom",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": "2019-04-18",
    "exit_month": null,
@@ -21448,8 +21448,8 @@
   {
    "ticker": "ASAN",
    "name": "Asana",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": "2020-09-30",
    "exit_month": null,
@@ -22040,8 +22040,8 @@
   {
    "ticker": "FIG",
    "name": "Figma",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": "2025-07-31",
    "exit_month": null,
@@ -22169,8 +22169,8 @@
   {
    "ticker": "APPN",
    "name": "Appian",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -22873,8 +22873,8 @@
   {
    "ticker": "PEGA",
    "name": "Pegasystems",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -23586,8 +23586,8 @@
   {
    "ticker": "ADBE",
    "name": "Adobe",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Member",
    "listed": null,
    "exit_month": null,
@@ -24299,8 +24299,8 @@
   {
    "ticker": "INTA",
    "name": "Intapp",
-   "area": "Legal, risk and compliance",
-   "subsegment": "Legal, risk and compliance",
+   "area": "Legal and compliance",
+   "subsegment": "Legal and compliance",
    "status": "Member",
    "listed": "2021-06-30",
    "exit_month": null,
@@ -24836,8 +24836,8 @@
   {
    "ticker": "LAW",
    "name": "CS Disco",
-   "area": "Legal, risk and compliance",
-   "subsegment": "Legal, risk and compliance",
+   "area": "Legal and compliance",
+   "subsegment": "Legal and compliance",
    "status": "Member",
    "listed": "2021-07-21",
    "exit_month": null,
@@ -25340,8 +25340,8 @@
   {
    "ticker": "LZ",
    "name": "LegalZoom",
-   "area": "Legal, risk and compliance",
-   "subsegment": "Legal, risk and compliance",
+   "area": "Legal and compliance",
+   "subsegment": "Legal and compliance",
    "status": "Member",
    "listed": "2021-06-30",
    "exit_month": null,
@@ -25877,8 +25877,8 @@
   {
    "ticker": "VERX",
    "name": "Vertex",
-   "area": "Legal, risk and compliance",
-   "subsegment": "Legal, risk and compliance",
+   "area": "Legal and compliance",
+   "subsegment": "Legal and compliance",
    "status": "Member",
    "listed": "2020-07-29",
    "exit_month": null,
@@ -26486,8 +26486,8 @@
   {
    "ticker": "SEMR",
    "name": "Semrush",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": "2021-03-25",
    "exit_month": "2026-04",
@@ -26951,8 +26951,8 @@
   {
    "ticker": "ZEN",
    "name": "Zendesk",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": null,
    "exit_month": "2022-11",
@@ -27231,8 +27231,8 @@
   {
    "ticker": "XM",
    "name": "Qualtrics",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": "2021-01-28",
    "exit_month": "2023-06",
@@ -27431,8 +27431,8 @@
   {
    "ticker": "MNTV",
    "name": "Momentive (SurveyMonkey)",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": null,
    "exit_month": "2023-05",
@@ -27792,8 +27792,8 @@
   {
    "ticker": "CVT",
    "name": "Cvent",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": "2021-12-09",
    "exit_month": "2023-06",
@@ -27929,8 +27929,8 @@
   {
    "ticker": "MDLA",
    "name": "Medallia",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": null,
    "exit_month": "2021-10",
@@ -28121,15 +28121,15 @@
   {
    "ticker": "LPSN",
    "name": "LivePerson",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": null,
    "exit_month": "2026-09",
    "series": [
     {
      "month": "2019-10",
-     "ev_rev": 150.46,
+     "ev_rev": 9.85,
      "ev_adj_ebitda": null,
      "adj_margin": -0.031,
      "sbc_pct": 0.094,
@@ -28137,7 +28137,7 @@
     },
     {
      "month": "2019-11",
-     "ev_rev": 141.17,
+     "ev_rev": 9.31,
      "ev_adj_ebitda": null,
      "adj_margin": -0.075,
      "sbc_pct": 0.108,
@@ -28145,7 +28145,7 @@
     },
     {
      "month": "2019-12",
-     "ev_rev": 131.6,
+     "ev_rev": 8.67,
      "ev_adj_ebitda": null,
      "adj_margin": -0.075,
      "sbc_pct": 0.108,
@@ -28153,7 +28153,7 @@
     },
     {
      "month": "2020-01",
-     "ev_rev": 145.87,
+     "ev_rev": 9.62,
      "ev_adj_ebitda": null,
      "adj_margin": -0.075,
      "sbc_pct": 0.108,
@@ -28161,7 +28161,7 @@
     },
     {
      "month": "2020-02",
-     "ev_rev": 86.89,
+     "ev_rev": 5.81,
      "ev_adj_ebitda": null,
      "adj_margin": -0.099,
      "sbc_pct": 0.151,
@@ -28169,7 +28169,7 @@
     },
     {
      "month": "2020-03",
-     "ev_rev": 74.71,
+     "ev_rev": 4.99,
      "ev_adj_ebitda": null,
      "adj_margin": -0.099,
      "sbc_pct": 0.151,
@@ -28177,7 +28177,7 @@
     },
     {
      "month": "2020-04",
-     "ev_rev": 78.61,
+     "ev_rev": 5.25,
      "ev_adj_ebitda": null,
      "adj_margin": -0.099,
      "sbc_pct": 0.151,
@@ -28185,7 +28185,7 @@
     },
     {
      "month": "2020-05",
-     "ev_rev": 120.96,
+     "ev_rev": 8.09,
      "ev_adj_ebitda": null,
      "adj_margin": -0.114,
      "sbc_pct": 0.17,
@@ -28193,7 +28193,7 @@
     },
     {
      "month": "2020-06",
-     "ev_rev": 133.81,
+     "ev_rev": 8.95,
      "ev_adj_ebitda": null,
      "adj_margin": -0.114,
      "sbc_pct": 0.17,
@@ -28201,7 +28201,7 @@
     },
     {
      "month": "2020-07",
-     "ev_rev": 138.82,
+     "ev_rev": 9.28,
      "ev_adj_ebitda": null,
      "adj_margin": -0.114,
      "sbc_pct": 0.17,
@@ -28209,7 +28209,7 @@
     },
     {
      "month": "2020-08",
-     "ev_rev": 182.44,
+     "ev_rev": 12.19,
      "ev_adj_ebitda": null,
      "adj_margin": -0.059,
      "sbc_pct": 0.18,
@@ -28217,7 +28217,7 @@
     },
     {
      "month": "2020-09",
-     "ev_rev": 158.99,
+     "ev_rev": 10.63,
      "ev_adj_ebitda": null,
      "adj_margin": -0.059,
      "sbc_pct": 0.18,
@@ -28225,7 +28225,7 @@
     },
     {
      "month": "2020-10",
-     "ev_rev": 163.48,
+     "ev_rev": 10.93,
      "ev_adj_ebitda": null,
      "adj_margin": -0.059,
      "sbc_pct": 0.18,
@@ -28233,7 +28233,7 @@
     },
     {
      "month": "2020-11",
-     "ev_rev": 170.2,
+     "ev_rev": 11.32,
      "ev_adj_ebitda": null,
      "adj_margin": -0.066,
      "sbc_pct": 0.188,
@@ -28241,7 +28241,7 @@
     },
     {
      "month": "2020-12",
-     "ev_rev": 181.3,
+     "ev_rev": 12.06,
      "ev_adj_ebitda": null,
      "adj_margin": -0.066,
      "sbc_pct": 0.188,
@@ -28249,7 +28249,7 @@
     },
     {
      "month": "2021-01",
-     "ev_rev": 184.6,
+     "ev_rev": 12.27,
      "ev_adj_ebitda": null,
      "adj_margin": -0.066,
      "sbc_pct": 0.188,
@@ -28257,7 +28257,7 @@
     },
     {
      "month": "2021-02",
-     "ev_rev": 181.05,
+     "ev_rev": 11.77,
      "ev_adj_ebitda": null,
      "adj_margin": -0.01,
      "sbc_pct": 0.18,
@@ -28265,7 +28265,7 @@
     },
     {
      "month": "2021-03",
-     "ev_rev": 145.45,
+     "ev_rev": 9.39,
      "ev_adj_ebitda": null,
      "adj_margin": -0.01,
      "sbc_pct": 0.18,
@@ -28273,7 +28273,7 @@
     },
     {
      "month": "2021-04",
-     "ev_rev": 150.73,
+     "ev_rev": 9.75,
      "ev_adj_ebitda": null,
      "adj_margin": -0.01,
      "sbc_pct": 0.18,
@@ -28281,7 +28281,7 @@
     },
     {
      "month": "2021-05",
-     "ev_rev": 142.42,
+     "ev_rev": 9.22,
      "ev_adj_ebitda": null,
      "adj_margin": 0.025,
      "sbc_pct": 0.166,
@@ -28289,7 +28289,7 @@
     },
     {
      "month": "2021-06",
-     "ev_rev": 163.95,
+     "ev_rev": 10.65,
      "ev_adj_ebitda": null,
      "adj_margin": 0.025,
      "sbc_pct": 0.166,
@@ -28297,7 +28297,7 @@
     },
     {
      "month": "2021-07",
-     "ev_rev": 165.12,
+     "ev_rev": 10.73,
      "ev_adj_ebitda": null,
      "adj_margin": 0.025,
      "sbc_pct": 0.166,
@@ -28305,7 +28305,7 @@
     },
     {
      "month": "2021-08",
-     "ev_rev": 156.77,
+     "ev_rev": 10.21,
      "ev_adj_ebitda": null,
      "adj_margin": 0.01,
      "sbc_pct": 0.153,
@@ -28313,7 +28313,7 @@
     },
     {
      "month": "2021-09",
-     "ev_rev": 144.15,
+     "ev_rev": 9.37,
      "ev_adj_ebitda": null,
      "adj_margin": 0.01,
      "sbc_pct": 0.153,
@@ -28321,7 +28321,7 @@
     },
     {
      "month": "2021-10",
-     "ev_rev": 125.93,
+     "ev_rev": 8.16,
      "ev_adj_ebitda": null,
      "adj_margin": 0.01,
      "sbc_pct": 0.153,
@@ -28329,7 +28329,7 @@
     },
     {
      "month": "2021-11",
-     "ev_rev": 90.49,
+     "ev_rev": 5.89,
      "ev_adj_ebitda": null,
      "adj_margin": 0.034,
      "sbc_pct": 0.151,
@@ -28337,7 +28337,7 @@
     },
     {
      "month": "2021-12",
-     "ev_rev": 83.6,
+     "ev_rev": 5.43,
      "ev_adj_ebitda": null,
      "adj_margin": 0.034,
      "sbc_pct": 0.151,
@@ -28345,7 +28345,7 @@
     },
     {
      "month": "2022-01",
-     "ev_rev": 69.88,
+     "ev_rev": 4.52,
      "ev_adj_ebitda": null,
      "adj_margin": 0.034,
      "sbc_pct": 0.151,
@@ -28353,7 +28353,7 @@
     },
     {
      "month": "2022-02",
-     "ev_rev": 46.9,
+     "ev_rev": 3.23,
      "ev_adj_ebitda": null,
      "adj_margin": -0.03,
      "sbc_pct": 0.148,
@@ -28361,7 +28361,7 @@
     },
     {
      "month": "2022-03",
-     "ev_rev": 56.45,
+     "ev_rev": 3.87,
      "ev_adj_ebitda": null,
      "adj_margin": -0.03,
      "sbc_pct": 0.148,
@@ -28369,7 +28369,7 @@
     },
     {
      "month": "2022-04",
-     "ev_rev": 52.3,
+     "ev_rev": 3.59,
      "ev_adj_ebitda": null,
      "adj_margin": -0.03,
      "sbc_pct": 0.148,
@@ -28377,7 +28377,7 @@
     },
     {
      "month": "2022-05",
-     "ev_rev": 38.54,
+     "ev_rev": 3.05,
      "ev_adj_ebitda": null,
      "adj_margin": -0.085,
      "sbc_pct": 0.177,
@@ -28385,7 +28385,7 @@
     },
     {
      "month": "2022-06",
-     "ev_rev": 32.56,
+     "ev_rev": 2.65,
      "ev_adj_ebitda": null,
      "adj_margin": -0.085,
      "sbc_pct": 0.177,
@@ -28393,7 +28393,7 @@
     },
     {
      "month": "2022-07",
-     "ev_rev": 31.43,
+     "ev_rev": 2.58,
      "ev_adj_ebitda": null,
      "adj_margin": -0.085,
      "sbc_pct": 0.177,
@@ -28401,7 +28401,7 @@
     },
     {
      "month": "2022-08",
-     "ev_rev": 26.39,
+     "ev_rev": 2.33,
      "ev_adj_ebitda": null,
      "adj_margin": -0.139,
      "sbc_pct": 0.215,
@@ -28409,7 +28409,7 @@
     },
     {
      "month": "2022-09",
-     "ev_rev": 21.55,
+     "ev_rev": 2.01,
      "ev_adj_ebitda": null,
      "adj_margin": -0.139,
      "sbc_pct": 0.215,
@@ -28417,7 +28417,7 @@
     },
     {
      "month": "2022-10",
-     "ev_rev": 24.11,
+     "ev_rev": 2.18,
      "ev_adj_ebitda": null,
      "adj_margin": -0.139,
      "sbc_pct": 0.215,
@@ -28425,7 +28425,7 @@
     },
     {
      "month": "2022-11",
-     "ev_rev": 26.32,
+     "ev_rev": 2.37,
      "ev_adj_ebitda": null,
      "adj_margin": -0.151,
      "sbc_pct": 0.236,
@@ -28433,7 +28433,7 @@
     },
     {
      "month": "2022-12",
-     "ev_rev": 22.82,
+     "ev_rev": 2.14,
      "ev_adj_ebitda": null,
      "adj_margin": -0.151,
      "sbc_pct": 0.236,
@@ -28441,7 +28441,7 @@
     },
     {
      "month": "2023-01",
-     "ev_rev": 28.81,
+     "ev_rev": 2.54,
      "ev_adj_ebitda": null,
      "adj_margin": -0.151,
      "sbc_pct": 0.236,
@@ -28449,7 +28449,7 @@
     },
     {
      "month": "2023-02",
-     "ev_rev": 22.96,
+     "ev_rev": 2.16,
      "ev_adj_ebitda": null,
      "adj_margin": -0.157,
      "sbc_pct": 0.213,
@@ -28457,7 +28457,7 @@
     },
     {
      "month": "2023-03",
-     "ev_rev": 10.38,
+     "ev_rev": 1.32,
      "ev_adj_ebitda": null,
      "adj_margin": -0.157,
      "sbc_pct": 0.213,
@@ -28465,7 +28465,7 @@
     },
     {
      "month": "2023-04",
-     "ev_rev": 10.87,
+     "ev_rev": 1.35,
      "ev_adj_ebitda": null,
      "adj_margin": -0.157,
      "sbc_pct": 0.213,
@@ -28473,7 +28473,7 @@
     },
     {
      "month": "2023-05",
-     "ev_rev": 9.23,
+     "ev_rev": 1.26,
      "ev_adj_ebitda": null,
      "adj_margin": -0.14,
      "sbc_pct": 0.181,
@@ -28481,7 +28481,7 @@
     },
     {
      "month": "2023-06",
-     "ev_rev": 11.18,
+     "ev_rev": 1.39,
      "ev_adj_ebitda": null,
      "adj_margin": -0.14,
      "sbc_pct": 0.181,
@@ -28489,7 +28489,7 @@
     },
     {
      "month": "2023-07",
-     "ev_rev": 11.71,
+     "ev_rev": 1.43,
      "ev_adj_ebitda": null,
      "adj_margin": -0.14,
      "sbc_pct": 0.181,
@@ -28497,7 +28497,7 @@
     },
     {
      "month": "2023-08",
-     "ev_rev": 11.49,
+     "ev_rev": 1.52,
      "ev_adj_ebitda": null,
      "adj_margin": -0.099,
      "sbc_pct": 0.075,
@@ -28505,7 +28505,7 @@
     },
     {
      "month": "2023-09",
-     "ev_rev": 10.7,
+     "ev_rev": 1.47,
      "ev_adj_ebitda": null,
      "adj_margin": -0.099,
      "sbc_pct": 0.075,
@@ -28513,7 +28513,7 @@
     },
     {
      "month": "2023-10",
-     "ev_rev": 7.52,
+     "ev_rev": 1.25,
      "ev_adj_ebitda": null,
      "adj_margin": -0.099,
      "sbc_pct": 0.075,
@@ -28521,7 +28521,7 @@
     },
     {
      "month": "2023-11",
-     "ev_rev": 8.65,
+     "ev_rev": 1.38,
      "ev_adj_ebitda": null,
      "adj_margin": -0.14,
      "sbc_pct": 0.032,
@@ -28529,7 +28529,7 @@
     },
     {
      "month": "2023-12",
-     "ev_rev": 11.26,
+     "ev_rev": 1.56,
      "ev_adj_ebitda": null,
      "adj_margin": -0.14,
      "sbc_pct": 0.032,
@@ -28537,7 +28537,7 @@
     },
     {
      "month": "2024-01",
-     "ev_rev": 8.54,
+     "ev_rev": 1.38,
      "ev_adj_ebitda": null,
      "adj_margin": -0.14,
      "sbc_pct": 0.032,
@@ -28545,7 +28545,7 @@
     },
     {
      "month": "2024-02",
-     "ev_rev": 5.09,
+     "ev_rev": 1.21,
      "ev_adj_ebitda": null,
      "adj_margin": -0.111,
      "sbc_pct": 0.03,
@@ -28553,7 +28553,7 @@
     },
     {
      "month": "2024-03",
-     "ev_rev": 4.2,
+     "ev_rev": 1.15,
      "ev_adj_ebitda": null,
      "adj_margin": -0.111,
      "sbc_pct": 0.03,
@@ -28561,7 +28561,7 @@
     },
     {
      "month": "2024-04",
-     "ev_rev": 2.57,
+     "ev_rev": 1.04,
      "ev_adj_ebitda": null,
      "adj_margin": -0.111,
      "sbc_pct": 0.03,
@@ -28569,7 +28569,7 @@
     },
     {
      "month": "2024-05",
-     "ev_rev": 3.41,
+     "ev_rev": 1.17,
      "ev_adj_ebitda": null,
      "adj_margin": -0.124,
      "sbc_pct": 0.021,
@@ -28577,7 +28577,7 @@
     },
     {
      "month": "2024-06",
-     "ev_rev": 3.04,
+     "ev_rev": 1.15,
      "ev_adj_ebitda": null,
      "adj_margin": -0.124,
      "sbc_pct": 0.021,
@@ -28585,7 +28585,7 @@
     },
     {
      "month": "2024-07",
-     "ev_rev": 5.22,
+     "ev_rev": 1.3,
      "ev_adj_ebitda": null,
      "adj_margin": -0.124,
      "sbc_pct": 0.021,
@@ -28593,7 +28593,7 @@
     },
     {
      "month": "2024-08",
-     "ev_rev": 5.43,
+     "ev_rev": 1.19,
      "ev_adj_ebitda": null,
      "adj_margin": -0.157,
      "sbc_pct": 0.089,
@@ -28601,7 +28601,7 @@
     },
     {
      "month": "2024-09",
-     "ev_rev": 5.61,
+     "ev_rev": 1.21,
      "ev_adj_ebitda": null,
      "adj_margin": -0.157,
      "sbc_pct": 0.089,
@@ -28609,7 +28609,7 @@
     },
     {
      "month": "2024-10",
-     "ev_rev": 5.25,
+     "ev_rev": 1.18,
      "ev_adj_ebitda": null,
      "adj_margin": -0.157,
      "sbc_pct": 0.089,
@@ -28617,7 +28617,7 @@
     },
     {
      "month": "2024-11",
-     "ev_rev": 4.91,
+     "ev_rev": 1.24,
      "ev_adj_ebitda": null,
      "adj_margin": -0.096,
      "sbc_pct": 0.078,
@@ -28625,7 +28625,7 @@
     },
     {
      "month": "2024-12",
-     "ev_rev": 7.13,
+     "ev_rev": 1.39,
      "ev_adj_ebitda": null,
      "adj_margin": -0.096,
      "sbc_pct": 0.078,
@@ -28633,7 +28633,7 @@
     },
     {
      "month": "2025-01",
-     "ev_rev": 6.81,
+     "ev_rev": 1.37,
      "ev_adj_ebitda": null,
      "adj_margin": -0.096,
      "sbc_pct": 0.078,
@@ -28641,7 +28641,7 @@
     },
     {
      "month": "2025-02",
-     "ev_rev": 5.83,
+     "ev_rev": 1.42,
      "ev_adj_ebitda": null,
      "adj_margin": -0.38,
      "sbc_pct": 0.07,
@@ -28649,7 +28649,7 @@
     },
     {
      "month": "2025-03",
-     "ev_rev": 4.6,
+     "ev_rev": 1.33,
      "ev_adj_ebitda": null,
      "adj_margin": -0.38,
      "sbc_pct": 0.07,
@@ -28657,7 +28657,7 @@
     },
     {
      "month": "2025-04",
-     "ev_rev": 4.91,
+     "ev_rev": 1.35,
      "ev_adj_ebitda": null,
      "adj_margin": -0.38,
      "sbc_pct": 0.07,
@@ -28665,7 +28665,7 @@
     },
     {
      "month": "2025-05",
-     "ev_rev": 4.68,
+     "ev_rev": 1.44,
      "ev_adj_ebitda": null,
      "adj_margin": -0.373,
      "sbc_pct": 0.065,
@@ -28673,7 +28673,7 @@
     },
     {
      "month": "2025-06",
-     "ev_rev": 6.05,
+     "ev_rev": 1.53,
      "ev_adj_ebitda": null,
      "adj_margin": -0.373,
      "sbc_pct": 0.065,
@@ -28681,7 +28681,7 @@
     },
     {
      "month": "2025-07",
-     "ev_rev": 5.7,
+     "ev_rev": 1.51,
      "ev_adj_ebitda": null,
      "adj_margin": -0.373,
      "sbc_pct": 0.065,
@@ -28689,7 +28689,7 @@
     },
     {
      "month": "2025-08",
-     "ev_rev": 6.35,
+     "ev_rev": 1.71,
      "ev_adj_ebitda": null,
      "adj_margin": -0.342,
      "sbc_pct": 0.064,
@@ -28697,7 +28697,7 @@
     },
     {
      "month": "2025-09",
-     "ev_rev": 4.49,
+     "ev_rev": 1.59,
      "ev_adj_ebitda": null,
      "adj_margin": -0.342,
      "sbc_pct": 0.064,
@@ -28705,7 +28705,7 @@
     },
     {
      "month": "2025-10",
-     "ev_rev": 3.63,
+     "ev_rev": 1.53,
      "ev_adj_ebitda": null,
      "adj_margin": -0.342,
      "sbc_pct": 0.064,
@@ -28754,13 +28754,13 @@
    ],
    "stats": {
     "ev_rev": {
-     "min": 1.21,
-     "p10": 3.56,
-     "median": 22.89,
-     "p90": 160.34,
-     "max": 184.6,
+     "min": 1.04,
+     "p10": 1.21,
+     "median": 2.15,
+     "p90": 10.64,
+     "max": 12.27,
      "current": 1.34,
-     "percentile": 5,
+     "percentile": 23,
      "points": 78
     },
     "ev_adj_ebitda": null
@@ -28769,8 +28769,8 @@
   {
    "ticker": "ONTF",
    "name": "ON24",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": null,
    "exit_month": "2026-03",
@@ -29266,8 +29266,8 @@
   {
    "ticker": "RAMP",
    "name": "LiveRamp",
-   "area": "CRM, marketing and customer engagement",
-   "subsegment": "CRM, marketing and customer engagement",
+   "area": "CRM and marketing",
+   "subsegment": "CRM and marketing",
    "status": "Exited",
    "listed": null,
    "exit_month": "2026-11",
@@ -31399,8 +31399,8 @@
   {
    "ticker": "PLAN",
    "name": "Anaplan",
-   "area": "Finance and accounting software",
-   "subsegment": "Finance and accounting software",
+   "area": "Finance",
+   "subsegment": "Finance",
    "status": "Exited",
    "listed": null,
    "exit_month": "2022-06",
@@ -31655,8 +31655,8 @@
   {
    "ticker": "COUP",
    "name": "Coupa",
-   "area": "Finance and accounting software",
-   "subsegment": "Finance and accounting software",
+   "area": "Finance",
+   "subsegment": "Finance",
    "status": "Exited",
    "listed": null,
    "exit_month": "2023-02",
@@ -31992,8 +31992,8 @@
   {
    "ticker": "ZUO",
    "name": "Zuora",
-   "area": "Finance and accounting software",
-   "subsegment": "Finance and accounting software",
+   "area": "Finance",
+   "subsegment": "Finance",
    "status": "Exited",
    "listed": null,
    "exit_month": "2025-02",
@@ -32505,8 +32505,8 @@
   {
    "ticker": "WORK",
    "name": "Slack",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Exited",
    "listed": "2019-06-20",
    "exit_month": "2021-07",
@@ -32519,8 +32519,8 @@
   {
    "ticker": "SMAR",
    "name": "Smartsheet",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Exited",
    "listed": null,
    "exit_month": "2025-01",
@@ -33024,8 +33024,8 @@
   {
    "ticker": "BCOV",
    "name": "Brightcove",
-   "area": "Collaboration, content and work management",
-   "subsegment": "Collaboration, content and work management",
+   "area": "Collaboration",
+   "subsegment": "Collaboration",
    "status": "Exited",
    "listed": null,
    "exit_month": "2025-02",
@@ -33545,8 +33545,8 @@
   {
    "ticker": "AVLR",
    "name": "Avalara",
-   "area": "Legal, risk and compliance",
-   "subsegment": "Legal, risk and compliance",
+   "area": "Legal and compliance",
+   "subsegment": "Legal and compliance",
    "status": "Exited",
    "listed": null,
    "exit_month": "2022-10",
@@ -33843,7 +33843,7 @@
   {
    "ticker": "SEMR",
    "name": "Semrush",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "Adobe",
    "announced": "2025-11-19",
    "exit_month": "2026-04",
@@ -33859,7 +33859,7 @@
   {
    "ticker": "ZEN",
    "name": "Zendesk",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "Hellman & Friedman and Permira",
    "announced": "2022-06-24",
    "exit_month": "2022-11",
@@ -33869,13 +33869,13 @@
    "ev_adj_ebitda": null,
    "adj_margin": 0.063,
    "rev_growth": 0.311,
-   "index_median_ev_rev": 6.02,
+   "index_median_ev_rev": 5.77,
    "own_ev_rev_month_before": 7.96
   },
   {
    "ticker": "XM",
    "name": "Qualtrics",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "Silver Lake and CPP Investments",
    "announced": "2023-03-13",
    "exit_month": "2023-06",
@@ -33885,13 +33885,13 @@
    "ev_adj_ebitda": null,
    "adj_margin": 0.057,
    "rev_growth": 0.356,
-   "index_median_ev_rev": 6.19,
+   "index_median_ev_rev": 5.44,
    "own_ev_rev_month_before": 6.28
   },
   {
    "ticker": "MNTV",
    "name": "Momentive (SurveyMonkey)",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "STG",
    "announced": "2023-03-13",
    "exit_month": "2023-05",
@@ -33901,13 +33901,13 @@
    "ev_adj_ebitda": null,
    "adj_margin": 0.096,
    "rev_growth": 0.084,
-   "index_median_ev_rev": 6.19,
+   "index_median_ev_rev": 5.44,
    "own_ev_rev_month_before": 2.11
   },
   {
    "ticker": "CVT",
    "name": "Cvent",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "Blackstone",
    "announced": "2023-03-14",
    "exit_month": "2023-06",
@@ -33917,13 +33917,13 @@
    "ev_adj_ebitda": 37.9,
    "adj_margin": 0.176,
    "rev_growth": 0.215,
-   "index_median_ev_rev": 6.19,
+   "index_median_ev_rev": 5.44,
    "own_ev_rev_month_before": 5.73
   },
   {
    "ticker": "MDLA",
    "name": "Medallia",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "Thoma Bravo",
    "announced": "2021-07-26",
    "exit_month": "2021-10",
@@ -33933,13 +33933,13 @@
    "ev_adj_ebitda": null,
    "adj_margin": -0.061,
    "rev_growth": 0.177,
-   "index_median_ev_rev": 16.95,
+   "index_median_ev_rev": 16.78,
    "own_ev_rev_month_before": 10.8
   },
   {
    "ticker": "LPSN",
    "name": "LivePerson",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "SoundHound AI",
    "announced": "2026-04-21",
    "exit_month": "2026-09",
@@ -33955,7 +33955,7 @@
   {
    "ticker": "ONTF",
    "name": "ON24",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "Cvent",
    "announced": "2025-12-30",
    "exit_month": "2026-03",
@@ -33971,7 +33971,7 @@
   {
    "ticker": "RAMP",
    "name": "LiveRamp",
-   "subsegment": "CRM, marketing and customer engagement",
+   "subsegment": "CRM and marketing",
    "buyer": "Publicis Groupe",
    "announced": "2026-05-19",
    "exit_month": "2026-11",
@@ -33997,7 +33997,7 @@
    "ev_adj_ebitda": 21.9,
    "adj_margin": 0.276,
    "rev_growth": 0.135,
-   "index_median_ev_rev": 4.16,
+   "index_median_ev_rev": 3.79,
    "own_ev_rev_month_before": 5.14
   },
   {
@@ -34013,7 +34013,7 @@
    "ev_adj_ebitda": 24.5,
    "adj_margin": 0.257,
    "rev_growth": 0.161,
-   "index_median_ev_rev": 6.15,
+   "index_median_ev_rev": 5.82,
    "own_ev_rev_month_before": 5.17
   },
   {
@@ -34029,7 +34029,7 @@
    "ev_adj_ebitda": 19.5,
    "adj_margin": 0.294,
    "rev_growth": 0.32,
-   "index_median_ev_rev": 17.17,
+   "index_median_ev_rev": 16.25,
    "own_ev_rev_month_before": 5.16
   },
   {
@@ -34045,13 +34045,13 @@
    "ev_adj_ebitda": 15.7,
    "adj_margin": 0.108,
    "rev_growth": -0.057,
-   "index_median_ev_rev": 5.02,
+   "index_median_ev_rev": 4.89,
    "own_ev_rev_month_before": 1.21
   },
   {
    "ticker": "PLAN",
    "name": "Anaplan",
-   "subsegment": "Finance and accounting software",
+   "subsegment": "Finance",
    "buyer": "Thoma Bravo",
    "announced": "2022-03-21",
    "exit_month": "2022-06",
@@ -34061,13 +34061,13 @@
    "ev_adj_ebitda": null,
    "adj_margin": -0.038,
    "rev_growth": 0.322,
-   "index_median_ev_rev": 9.79,
+   "index_median_ev_rev": 8.78,
    "own_ev_rev_month_before": 12.1
   },
   {
    "ticker": "COUP",
    "name": "Coupa",
-   "subsegment": "Finance and accounting software",
+   "subsegment": "Finance",
    "buyer": "Thoma Bravo",
    "announced": "2022-12-12",
    "exit_month": "2023-02",
@@ -34077,13 +34077,13 @@
    "ev_adj_ebitda": 75.6,
    "adj_margin": 0.121,
    "rev_growth": 0.176,
-   "index_median_ev_rev": 4.54,
+   "index_median_ev_rev": 4.47,
    "own_ev_rev_month_before": 7.82
   },
   {
    "ticker": "ZUO",
    "name": "Zuora",
-   "subsegment": "Finance and accounting software",
+   "subsegment": "Finance",
    "buyer": "Silver Lake and GIC",
    "announced": "2024-10-17",
    "exit_month": "2025-02",
@@ -34093,13 +34093,13 @@
    "ev_adj_ebitda": 18.2,
    "adj_margin": 0.162,
    "rev_growth": 0.073,
-   "index_median_ev_rev": 4.67,
+   "index_median_ev_rev": 4.54,
    "own_ev_rev_month_before": 2.49
   },
   {
    "ticker": "WORK",
    "name": "Slack",
-   "subsegment": "Collaboration, content and work management",
+   "subsegment": "Collaboration",
    "buyer": "Salesforce",
    "announced": "2020-12-01",
    "exit_month": "2021-07",
@@ -34109,13 +34109,13 @@
    "ev_adj_ebitda": null,
    "adj_margin": -0.049,
    "rev_growth": 0.462,
-   "index_median_ev_rev": 17.19,
+   "index_median_ev_rev": 13.43,
    "own_ev_rev_month_before": null
   },
   {
    "ticker": "SMAR",
    "name": "Smartsheet",
-   "subsegment": "Collaboration, content and work management",
+   "subsegment": "Collaboration",
    "buyer": "Blackstone and Vista",
    "announced": "2024-09-24",
    "exit_month": "2025-01",
@@ -34125,13 +34125,13 @@
    "ev_adj_ebitda": 45.9,
    "adj_margin": 0.149,
    "rev_growth": 0.202,
-   "index_median_ev_rev": 4.32,
+   "index_median_ev_rev": 4.18,
    "own_ev_rev_month_before": 6.07
   },
   {
    "ticker": "BCOV",
    "name": "Brightcove",
-   "subsegment": "Collaboration, content and work management",
+   "subsegment": "Collaboration",
    "buyer": "Bending Spoons",
    "announced": "2024-11-25",
    "exit_month": "2025-02",
@@ -34147,7 +34147,7 @@
   {
    "ticker": "AVLR",
    "name": "Avalara",
-   "subsegment": "Legal, risk and compliance",
+   "subsegment": "Legal and compliance",
    "buyer": "Vista Equity Partners",
    "announced": "2022-08-08",
    "exit_month": "2022-10",
@@ -34157,7 +34157,7 @@
    "ev_adj_ebitda": null,
    "adj_margin": 0.031,
    "rev_growth": 0.326,
-   "index_median_ev_rev": 5.5,
+   "index_median_ev_rev": 5.41,
    "own_ev_rev_month_before": 9.54
   }
  ],
