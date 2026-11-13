@@ -16,43 +16,43 @@
   "source": "SEC EDGAR XBRL filings; month-end market prices."
  },
  "subsegments": [
-  "IT operations and observability",
-  "Data and information management",
-  "Developer and infrastructure platforms"
+  "IT operations",
+  "Data management",
+  "Developer platforms"
  ],
  "index_series": [
   {
    "month": "2019-10",
    "n": 18,
-   "median_ev_rev": 8.53,
+   "median_ev_rev": 7.52,
    "n_ebitda": 11,
    "median_ev_adj_ebitda": 19.3
   },
   {
    "month": "2019-11",
    "n": 20,
-   "median_ev_rev": 11.19,
+   "median_ev_rev": 9.51,
    "n_ebitda": 12,
    "median_ev_adj_ebitda": 27.1
   },
   {
    "month": "2019-12",
    "n": 20,
-   "median_ev_rev": 10.03,
+   "median_ev_rev": 8.81,
    "n_ebitda": 12,
    "median_ev_adj_ebitda": 26.5
   },
   {
    "month": "2020-01",
    "n": 20,
-   "median_ev_rev": 10.21,
+   "median_ev_rev": 8.85,
    "n_ebitda": 12,
    "median_ev_adj_ebitda": 28
   },
   {
    "month": "2020-02",
    "n": 20,
-   "median_ev_rev": 9.25,
+   "median_ev_rev": 7.98,
    "n_ebitda": 12,
    "median_ev_adj_ebitda": 27.8
   },
@@ -618,7 +618,7 @@
   }
  ],
  "subsegment_series": {
-  "IT operations and observability": [
+  "IT operations": [
    {
     "month": "2019-10",
     "n": 8,
@@ -1215,39 +1215,39 @@
     "median_ev_adj_ebitda": 20
    }
   ],
-  "Data and information management": [
+  "Data management": [
    {
     "month": "2019-10",
     "n": 6,
-    "median_ev_rev": 11.33,
+    "median_ev_rev": 4.65,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 13.6
    },
    {
     "month": "2019-11",
     "n": 6,
-    "median_ev_rev": 12.53,
+    "median_ev_rev": 4.81,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 13
    },
    {
     "month": "2019-12",
     "n": 6,
-    "median_ev_rev": 11.33,
+    "median_ev_rev": 4.91,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 13.1
    },
    {
     "month": "2020-01",
     "n": 6,
-    "median_ev_rev": 14.82,
+    "median_ev_rev": 4.81,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 13.3
    },
    {
     "month": "2020-02",
     "n": 6,
-    "median_ev_rev": 13.05,
+    "median_ev_rev": 4.78,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 13.7
    },
@@ -1812,7 +1812,7 @@
     "median_ev_adj_ebitda": 27.5
    }
   ],
-  "Developer and infrastructure platforms": [
+  "Developer platforms": [
    {
     "month": "2019-10",
     "n": 4,
@@ -2415,7 +2415,7 @@
    "min": 2.76,
    "p10": 4.77,
    "median": 6.24,
-   "p90": 10.49,
+   "p90": 10.36,
    "max": 14.79,
    "current": 6.02,
    "percentile": 45,
@@ -2452,8 +2452,8 @@
   {
    "ticker": "NOW",
    "name": "ServiceNow",
-   "area": "IT service management",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Member",
    "listed": "2012-06-29",
    "exit_month": null,
@@ -3165,8 +3165,8 @@
   {
    "ticker": "DDOG",
    "name": "Datadog",
-   "area": "Observability",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Member",
    "listed": "2019-09-19",
    "exit_month": null,
@@ -3870,8 +3870,8 @@
   {
    "ticker": "DT",
    "name": "Dynatrace",
-   "area": "Observability",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Member",
    "listed": "2019-08-01",
    "exit_month": null,
@@ -4575,8 +4575,8 @@
   {
    "ticker": "PD",
    "name": "PagerDuty",
-   "area": "Incident response",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Member",
    "listed": "2019-04-11",
    "exit_month": null,
@@ -5288,8 +5288,8 @@
   {
    "ticker": "NTCT",
    "name": "NetScout",
-   "area": "Network monitoring",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Member",
    "listed": "1999-08-17",
    "exit_month": null,
@@ -6001,8 +6001,8 @@
   {
    "ticker": "ESTC",
    "name": "Elastic",
-   "area": "Observability and search",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Member",
    "listed": "2018-10-05",
    "exit_month": null,
@@ -6714,8 +6714,8 @@
   {
    "ticker": "NABL",
    "name": "N-able",
-   "area": "Remote IT management",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Member",
    "listed": "2021-07-19",
    "exit_month": null,
@@ -7227,8 +7227,8 @@
   {
    "ticker": "FRSH",
    "name": "Freshworks",
-   "area": "IT service management",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Member",
    "listed": "2021-09-22",
    "exit_month": null,
@@ -7740,8 +7740,8 @@
   {
    "ticker": "SPLK",
    "name": "Splunk",
-   "area": "Observability and security analytics",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Exited",
    "listed": "2012-04-19",
    "exit_month": "2024-03",
@@ -8149,8 +8149,8 @@
   {
    "ticker": "NEWR",
    "name": "New Relic",
-   "area": "Observability",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Exited",
    "listed": "2014-12-12",
    "exit_month": "2023-11",
@@ -8542,8 +8542,8 @@
   {
    "ticker": "SWI",
    "name": "SolarWinds",
-   "area": "IT operations management",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Exited",
    "listed": "2018-10-19",
    "exit_month": "2025-04",
@@ -9087,8 +9087,8 @@
   {
    "ticker": "EVBG",
    "name": "Everbridge",
-   "area": "Critical event management",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Exited",
    "listed": "2016-09-16",
    "exit_month": "2024-07",
@@ -9535,8 +9535,8 @@
   {
    "ticker": "JAMF",
    "name": "Jamf",
-   "area": "Apple device management",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Exited",
    "listed": "2020-07-22",
    "exit_month": "2026-01",
@@ -10040,8 +10040,8 @@
   {
    "ticker": "MSP",
    "name": "Datto",
-   "area": "Remote IT management",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Exited",
    "listed": "2020-10-21",
    "exit_month": "2022-06",
@@ -10185,8 +10185,8 @@
   {
    "ticker": "SUMO",
    "name": "Sumo Logic",
-   "area": "Observability",
-   "subsegment": "IT operations and observability",
+   "area": "IT operations",
+   "subsegment": "IT operations",
    "status": "Exited",
    "listed": "2020-09-17",
    "exit_month": "2023-05",
@@ -10417,8 +10417,8 @@
   {
    "ticker": "SNOW",
    "name": "Snowflake",
-   "area": "Data cloud",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Member",
    "listed": "2020-09-16",
    "exit_month": null,
@@ -11018,8 +11018,8 @@
   {
    "ticker": "MDB",
    "name": "MongoDB",
-   "area": "Databases",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Member",
    "listed": "2017-10-19",
    "exit_month": null,
@@ -11731,8 +11731,8 @@
   {
    "ticker": "TDC",
    "name": "Teradata",
-   "area": "Data warehousing and analytics",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Member",
    "listed": "2007-10-01",
    "exit_month": null,
@@ -12444,8 +12444,8 @@
   {
    "ticker": "OTEX",
    "name": "OpenText",
-   "area": "Information management",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Member",
    "listed": "1996-01-23",
    "exit_month": null,
@@ -13157,8 +13157,8 @@
   {
    "ticker": "TEAM",
    "name": "Atlassian",
-   "area": "Developer and team collaboration",
-   "subsegment": "Developer and infrastructure platforms",
+   "area": "Developer platforms",
+   "subsegment": "Developer platforms",
    "status": "Member",
    "listed": "2015-12-10",
    "exit_month": null,
@@ -13598,8 +13598,8 @@
   {
    "ticker": "NTNX",
    "name": "Nutanix",
-   "area": "Hybrid cloud infrastructure",
-   "subsegment": "Developer and infrastructure platforms",
+   "area": "Developer platforms",
+   "subsegment": "Developer platforms",
    "status": "Member",
    "listed": "2016-09-30",
    "exit_month": null,
@@ -14311,8 +14311,8 @@
   {
    "ticker": "PRGS",
    "name": "Progress",
-   "area": "Application development and infrastructure",
-   "subsegment": "Developer and infrastructure platforms",
+   "area": "Developer platforms",
+   "subsegment": "Developer platforms",
    "status": "Member",
    "listed": "1991-07-31",
    "exit_month": null,
@@ -15024,8 +15024,8 @@
   {
    "ticker": "GTLB",
    "name": "GitLab",
-   "area": "DevSecOps platform",
-   "subsegment": "Developer and infrastructure platforms",
+   "area": "Developer platforms",
+   "subsegment": "Developer platforms",
    "status": "Member",
    "listed": "2021-10-14",
    "exit_month": null,
@@ -15529,8 +15529,8 @@
   {
    "ticker": "FROG",
    "name": "JFrog",
-   "area": "Software supply chain",
-   "subsegment": "Developer and infrastructure platforms",
+   "area": "Developer platforms",
+   "subsegment": "Developer platforms",
    "status": "Member",
    "listed": "2020-09-16",
    "exit_month": null,
@@ -16138,15 +16138,15 @@
   {
    "ticker": "CLDR",
    "name": "Cloudera",
-   "area": "Data platform",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Exited",
    "listed": "2017-04-28",
    "exit_month": "2021-10",
    "series": [
     {
      "month": "2019-10",
-     "ev_rev": 3659.94,
+     "ev_rev": 3.22,
      "ev_adj_ebitda": null,
      "adj_margin": -0.1,
      "sbc_pct": 0.281,
@@ -16154,7 +16154,7 @@
     },
     {
      "month": "2019-11",
-     "ev_rev": 4264.28,
+     "ev_rev": 3.85,
      "ev_adj_ebitda": null,
      "adj_margin": -0.1,
      "sbc_pct": 0.281,
@@ -16162,7 +16162,7 @@
     },
     {
      "month": "2019-12",
-     "ev_rev": 4592.53,
+     "ev_rev": 4.16,
      "ev_adj_ebitda": null,
      "adj_margin": -0.095,
      "sbc_pct": 0.295,
@@ -16170,7 +16170,7 @@
     },
     {
      "month": "2020-01",
-     "ev_rev": 4063.32,
+     "ev_rev": 3.62,
      "ev_adj_ebitda": null,
      "adj_margin": -0.095,
      "sbc_pct": 0.295,
@@ -16178,7 +16178,7 @@
     },
     {
      "month": "2020-02",
-     "ev_rev": 3514.36,
+     "ev_rev": 3.06,
      "ev_adj_ebitda": null,
      "adj_margin": -0.095,
      "sbc_pct": 0.295,
@@ -16308,12 +16308,12 @@
    "stats": {
     "ev_rev": {
      "min": 2.47,
-     "p10": 3.04,
-     "median": 4.16,
-     "p90": 4083.42,
-     "max": 4592.53,
+     "p10": 3.01,
+     "median": 3.83,
+     "p90": 4.68,
+     "max": 5.45,
      "current": 4.19,
-     "percentile": 55,
+     "percentile": 80,
      "points": 20
     },
     "ev_adj_ebitda": {
@@ -16331,8 +16331,8 @@
   {
    "ticker": "TLND",
    "name": "Talend",
-   "area": "Data integration",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Exited",
    "listed": "2016-07-29",
    "exit_month": "2021-07",
@@ -16491,8 +16491,8 @@
   {
    "ticker": "AYX",
    "name": "Alteryx",
-   "area": "Analytics automation",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Exited",
    "listed": "2017-03-24",
    "exit_month": "2024-03",
@@ -16924,8 +16924,8 @@
   {
    "ticker": "BASE",
    "name": "Couchbase",
-   "area": "Databases",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Exited",
    "listed": "2021-07-22",
    "exit_month": "2025-09",
@@ -17309,7 +17309,7 @@
    "ticker": "INFA",
    "name": "Informatica",
    "area": "Data management",
-   "subsegment": "Data and information management",
+   "subsegment": "Data management",
    "status": "Exited",
    "listed": "2021-10-27",
    "exit_month": "2025-11",
@@ -17653,8 +17653,8 @@
   {
    "ticker": "CFLT",
    "name": "Confluent",
-   "area": "Data streaming",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Exited",
    "listed": "2021-06-24",
    "exit_month": "2026-03",
@@ -18093,8 +18093,8 @@
   {
    "ticker": "DOMO",
    "name": "Domo",
-   "area": "Business intelligence",
-   "subsegment": "Data and information management",
+   "area": "Data management",
+   "subsegment": "Data management",
    "status": "Exited",
    "listed": "2018-06-29",
    "exit_month": null,
@@ -18566,8 +18566,8 @@
   {
    "ticker": "HCP",
    "name": "HashiCorp",
-   "area": "Infrastructure automation",
-   "subsegment": "Developer and infrastructure platforms",
+   "area": "Developer platforms",
+   "subsegment": "Developer platforms",
    "status": "Exited",
    "listed": "2021-12-09",
    "exit_month": "2025-02",
@@ -18790,8 +18790,8 @@
   {
    "ticker": "VMW",
    "name": "VMware",
-   "area": "Virtualization and cloud infrastructure",
-   "subsegment": "Developer and infrastructure platforms",
+   "area": "Developer platforms",
+   "subsegment": "Developer platforms",
    "status": "Exited",
    "listed": "2007-08-14",
    "exit_month": "2023-11",
@@ -19071,8 +19071,8 @@
   {
    "ticker": "CTXS",
    "name": "Citrix",
-   "area": "Application and desktop delivery",
-   "subsegment": "Developer and infrastructure platforms",
+   "area": "Developer platforms",
+   "subsegment": "Developer platforms",
    "status": "Exited",
    "listed": "1995-12-08",
    "exit_month": "2022-09",
@@ -19322,7 +19322,7 @@
   {
    "ticker": "SPLK",
    "name": "Splunk",
-   "subsegment": "IT operations and observability",
+   "subsegment": "IT operations",
    "buyer": "Cisco",
    "announced": "2023-09-21",
    "exit_month": "2024-03",
@@ -19338,7 +19338,7 @@
   {
    "ticker": "NEWR",
    "name": "New Relic",
-   "subsegment": "IT operations and observability",
+   "subsegment": "IT operations",
    "buyer": "Francisco Partners and TPG",
    "announced": "2023-07-31",
    "exit_month": "2023-11",
@@ -19354,7 +19354,7 @@
   {
    "ticker": "SWI",
    "name": "SolarWinds",
-   "subsegment": "IT operations and observability",
+   "subsegment": "IT operations",
    "buyer": "Turn/River Capital",
    "announced": "2025-02-07",
    "exit_month": "2025-04",
@@ -19370,7 +19370,7 @@
   {
    "ticker": "EVBG",
    "name": "Everbridge",
-   "subsegment": "IT operations and observability",
+   "subsegment": "IT operations",
    "buyer": "Thoma Bravo",
    "announced": "2024-03-01",
    "exit_month": "2024-07",
@@ -19386,7 +19386,7 @@
   {
    "ticker": "JAMF",
    "name": "Jamf",
-   "subsegment": "IT operations and observability",
+   "subsegment": "IT operations",
    "buyer": "Francisco Partners",
    "announced": "2025-10-29",
    "exit_month": "2026-01",
@@ -19402,7 +19402,7 @@
   {
    "ticker": "MSP",
    "name": "Datto",
-   "subsegment": "IT operations and observability",
+   "subsegment": "IT operations",
    "buyer": "Kaseya",
    "announced": "2022-04-11",
    "exit_month": "2022-06",
@@ -19418,7 +19418,7 @@
   {
    "ticker": "SUMO",
    "name": "Sumo Logic",
-   "subsegment": "IT operations and observability",
+   "subsegment": "IT operations",
    "buyer": "Francisco Partners",
    "announced": "2023-02-09",
    "exit_month": "2023-05",
@@ -19434,7 +19434,7 @@
   {
    "ticker": "CLDR",
    "name": "Cloudera",
-   "subsegment": "Data and information management",
+   "subsegment": "Data management",
    "buyer": "KKR and CD&R",
    "announced": "2021-06-01",
    "exit_month": "2021-10",
@@ -19450,7 +19450,7 @@
   {
    "ticker": "TLND",
    "name": "Talend",
-   "subsegment": "Data and information management",
+   "subsegment": "Data management",
    "buyer": "Thoma Bravo",
    "announced": "2021-03-10",
    "exit_month": "2021-07",
@@ -19466,7 +19466,7 @@
   {
    "ticker": "AYX",
    "name": "Alteryx",
-   "subsegment": "Data and information management",
+   "subsegment": "Data management",
    "buyer": "Clearlake and Insight Partners",
    "announced": "2023-12-18",
    "exit_month": "2024-03",
@@ -19482,7 +19482,7 @@
   {
    "ticker": "BASE",
    "name": "Couchbase",
-   "subsegment": "Data and information management",
+   "subsegment": "Data management",
    "buyer": "Haveli Investments",
    "announced": "2025-06-20",
    "exit_month": "2025-09",
@@ -19498,7 +19498,7 @@
   {
    "ticker": "INFA",
    "name": "Informatica",
-   "subsegment": "Data and information management",
+   "subsegment": "Data management",
    "buyer": "Salesforce",
    "announced": "2025-05-27",
    "exit_month": "2025-11",
@@ -19514,7 +19514,7 @@
   {
    "ticker": "CFLT",
    "name": "Confluent",
-   "subsegment": "Data and information management",
+   "subsegment": "Data management",
    "buyer": "IBM",
    "announced": "2025-12-08",
    "exit_month": "2026-03",
@@ -19530,7 +19530,7 @@
   {
    "ticker": "HCP",
    "name": "HashiCorp",
-   "subsegment": "Developer and infrastructure platforms",
+   "subsegment": "Developer platforms",
    "buyer": "IBM",
    "announced": "2024-04-24",
    "exit_month": "2025-02",
@@ -19546,7 +19546,7 @@
   {
    "ticker": "VMW",
    "name": "VMware",
-   "subsegment": "Developer and infrastructure platforms",
+   "subsegment": "Developer platforms",
    "buyer": "Broadcom",
    "announced": "2022-05-26",
    "exit_month": "2023-11",
@@ -19562,7 +19562,7 @@
   {
    "ticker": "CTXS",
    "name": "Citrix",
-   "subsegment": "Developer and infrastructure platforms",
+   "subsegment": "Developer platforms",
    "buyer": "Vista and Elliott",
    "announced": "2022-01-31",
    "exit_month": "2022-09",
@@ -19582,7 +19582,7 @@
    "target": "Chronosphere",
    "buyer": "Palo Alto Networks",
    "announced": "2025-11-19",
-   "segment": "IT operations and observability",
+   "segment": "IT operations",
    "target_type": "Private",
    "ev": "$3.35B",
    "ev_rev": 20.9,
@@ -19594,7 +19594,7 @@
    "target": "1E",
    "buyer": "TeamViewer",
    "announced": "2024-12-10",
-   "segment": "IT operations and observability",
+   "segment": "IT operations",
    "target_type": "Private",
    "ev": "$720M",
    "ev_rev": 9.4,
@@ -19606,7 +19606,7 @@
    "target": "OTRS",
    "buyer": "EasyVista",
    "announced": "2024-11-22",
-   "segment": "IT operations and observability",
+   "segment": "IT operations",
    "target_type": "Listed",
    "ev": "€30M",
    "ev_rev": 2.4,
@@ -19618,7 +19618,7 @@
    "target": "Device42",
    "buyer": "Freshworks",
    "announced": "2024-05-01",
-   "segment": "IT operations and observability",
+   "segment": "IT operations",
    "target_type": "Private",
    "ev": "$238M",
    "ev_rev": 6.8,
@@ -19630,7 +19630,7 @@
    "target": "Efecte",
    "buyer": "Matrix42 (Corten Capital)",
    "announced": "2024-01-19",
-   "segment": "IT operations and observability",
+   "segment": "IT operations",
    "target_type": "Listed",
    "ev": "€99M",
    "ev_rev": 4.1,
@@ -19642,7 +19642,7 @@
    "target": "MobileIron",
    "buyer": "Ivanti",
    "announced": "2020-09-28",
-   "segment": "IT operations and observability",
+   "segment": "IT operations",
    "target_type": "Listed",
    "ev": "$746M",
    "ev_rev": 3.5,
