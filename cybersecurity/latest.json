@@ -17337,6 +17337,23 @@
    "source": "https://www.sec.gov/Archives/edgar/data/1660134/000166013421000004/okta-1312021_ex991.htm"
   },
   {
+   "target": "Signal Sciences",
+   "buyer": "Fastly",
+   "announced": "2020-08-27",
+   "segment": "Network security and operations",
+   "target_type": "Private",
+   "ev": "$775M",
+   "ev_m": 775,
+   "ev_rev": 27.7,
+   "basis": "ARR, reported by the buyer",
+   "pending": false,
+   "notes": [
+    "Multiple of annual recurring revenue (ARR) at announcement.",
+    "Excludes a $50 million retention pool for employees."
+   ],
+   "source": "https://siliconangle.com/2020/08/27/fastly-acquiring-signal-sciences-775m-big-cybersecurity-push/"
+  },
+  {
    "target": "GlobalSCAPE",
    "buyer": "HelpSystems",
    "announced": "2020-07-20",
