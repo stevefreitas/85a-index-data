@@ -21993,5 +21993,146 @@
   }
  ],
  "published": "2026-11-14",
- "transactions": []
+ "transactions": [
+  {
+   "target": "CoreCard",
+   "buyer": "Euronet",
+   "announced": "2025-07-30",
+   "segment": "Bank software",
+   "target_type": "Listed",
+   "ev": "$198M",
+   "ev_rev": 3.1,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/320340/000143774925024000/ex_845884.htm"
+  },
+  {
+   "target": "Cantaloupe",
+   "buyer": "365 Retail Markets",
+   "announced": "2025-06-16",
+   "segment": "Payments",
+   "target_type": "Listed",
+   "ev": "$811M",
+   "ev_rev": 2.8,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.businesswire.com/news/home/20250616074721/en"
+  },
+  {
+   "target": "Global Payments Issuer Solutions",
+   "buyer": "FIS",
+   "announced": "2025-04-17",
+   "segment": "Payments",
+   "target_type": "Private",
+   "ev": "$13.5B",
+   "ev_rev": 6.4,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Carve-out of Global Payments’ card-issuer processing business, on first-quarter 2025 adjusted net revenue annualized."
+   ],
+   "source": "https://www.silicon.co.uk/press-release/global-payments-announces-agreements-to-acquire-worldpay-and-divest-issuer-solutions"
+  },
+  {
+   "target": "BM Technologies",
+   "buyer": "First Carolina Bank",
+   "announced": "2024-10-25",
+   "segment": "Bank software",
+   "target_type": "Listed",
+   "ev": "$48M",
+   "ev_rev": 0.8,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/1725872/000121390024099087/ea022147701ex99-1_bmtech.htm"
+  },
+  {
+   "target": "Nuvei",
+   "buyer": "Advent International",
+   "announced": "2024-04-01",
+   "segment": "Payments",
+   "target_type": "Listed",
+   "ev": "$6.3B",
+   "ev_rev": 5.3,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/1765159/000095010324004743/dp209291_ex9901.htm"
+  },
+  {
+   "target": "EngageSmart",
+   "buyer": "Vista Equity Partners",
+   "announced": "2023-10-23",
+   "segment": "Payments",
+   "target_type": "Listed",
+   "ev": "$3.51B",
+   "ev_rev": 10.2,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.businesswire.com/news/home/20231023294863/en/EngageSmart-Agrees-to-Be-Acquired-by-Vista-Equity-Partners-for-%244.0-Billion"
+  },
+  {
+   "target": "Worldpay (majority stake)",
+   "buyer": "GTCR",
+   "announced": "2023-07-06",
+   "segment": "Payments",
+   "target_type": "Private",
+   "ev": "$18.5B",
+   "ev_rev": 3.9,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Carve-out of FIS’s merchant business, on its 2022 segment revenue. Includes $1 billion of contingent consideration; 3.6x on the upfront valuation."
+   ],
+   "source": "https://www.businesswire.com/news/home/20230706846732/en/FIS-Accelerates-Path-to-Create-Two-Highly-Focused-Independent-Companies-Announces-Agreement-for-GTCR-to-Acquire-Majority-Stake-in-Worldpay-at-18.5-Billion-Valuation/"
+  },
+  {
+   "target": "Adenza",
+   "buyer": "Nasdaq",
+   "announced": "2023-06-12",
+   "segment": "Bank software",
+   "target_type": "Private",
+   "ev": "$10.5B",
+   "ev_rev": 17.8,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Measured on Nasdaq’s estimate of 2023 revenue, so on a partly forward basis."
+   ],
+   "source": "https://www.sec.gov/Archives/edgar/data/1120193/000119312523164839/d476077dex991.htm"
+  },
+  {
+   "target": "Itiviti",
+   "buyer": "Broadridge",
+   "announced": "2021-03-29",
+   "segment": "Bank software",
+   "target_type": "Private",
+   "ev": "€2.1B",
+   "ev_rev": 10.2,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Measured on 2020 recurring revenue only; on total revenue the multiple would be lower."
+   ],
+   "source": "https://s203.q4cdn.com/209299927/files/doc_news/Broadridge-Extends-Capital-Markets-Franchise-with-Acquisition-of-Itiviti-2021.pdf"
+  },
+  {
+   "target": "Verafin",
+   "buyer": "Nasdaq",
+   "announced": "2020-11-19",
+   "segment": "Bank software",
+   "target_type": "Private",
+   "ev": "$2.75B",
+   "ev_rev": 19.6,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Measured on Nasdaq’s expected 2021 revenue of more than $140 million, so on a forward basis and an upper bound."
+   ],
+   "source": "https://www.sec.gov/Archives/edgar/data/1120193/000119312520297562/d19047dex991.htm"
+  }
+ ]
 }
