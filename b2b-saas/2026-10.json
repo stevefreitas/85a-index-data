@@ -34781,6 +34781,23 @@
    "source": "https://fortune.com/2025/03/10/servicenow-buys-ai-agent-company-moveworks-for-2-85-billion/"
   },
   {
+   "target": "ShareFile",
+   "buyer": "Progress Software",
+   "announced": "2024-09-09",
+   "segment": "Collaboration",
+   "target_type": "Private",
+   "ev": "$875M",
+   "ev_m": 875,
+   "ev_rev": 3.6,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Carve-out of Cloud Software Group's file-sharing business.",
+    "Revenue disclosed only as “more than” a figure, so the multiple is an upper bound."
+   ],
+   "source": "https://www.nasdaq.com/press-release/progress-acquire-sharefile-2024-09-09"
+  },
+  {
    "target": "WalkMe",
    "buyer": "SAP",
    "announced": "2024-06-05",
