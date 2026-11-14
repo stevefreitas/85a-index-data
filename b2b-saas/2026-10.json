@@ -612,8 +612,8 @@
   },
   {
    "month": "2026-10",
-   "n": 36,
-   "median_ev_rev": 3.72,
+   "n": 35,
+   "median_ev_rev": 3.7,
    "n_ebitda": 26,
    "median_ev_adj_ebitda": 13.5
   }
@@ -1210,8 +1210,8 @@
    },
    {
     "month": "2026-10",
-    "n": 13,
-    "median_ev_rev": 2.32,
+    "n": 12,
+    "median_ev_rev": 2.11,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 12.3
    }
@@ -3011,11 +3011,11 @@
  "index_stats": {
   "ev_rev": {
    "min": 2.61,
-   "p10": 3.74,
+   "p10": 3.72,
    "median": 5.39,
    "p90": 13.64,
    "max": 16.78,
-   "current": 3.72,
+   "current": 3.7,
    "percentile": 11,
    "points": 85
   },
@@ -3034,16 +3034,16 @@
   "scope": "all indexes",
   "month": "2026-10",
   "after": {
-   "a": 0.9849,
-   "b": 0.01079,
-   "r2": 0.073,
-   "n": 123
+   "a": 0.9642,
+   "b": 0.01153,
+   "r2": 0.084,
+   "n": 119
   },
   "adjusted": {
-   "a": 0.1779,
-   "b": 0.03034,
-   "r2": 0.4,
-   "n": 123
+   "a": 0.1477,
+   "b": 0.03103,
+   "r2": 0.421,
+   "n": 119
   }
  },
  "companies": [
@@ -4799,9 +4799,10 @@
    "name": "Braze",
    "area": "CRM and marketing",
    "subsegment": "CRM and marketing",
-   "status": "Member",
+   "status": "Exited",
    "listed": "2021-11-17",
    "exit_month": null,
+   "deal_pending": true,
    "series": [
     {
      "month": "2022-03",
@@ -5242,26 +5243,18 @@
      "adj_margin": 0.071,
      "sbc_pct": 0.176,
      "rev_growth": 0.274
-    },
-    {
-     "month": "2026-10",
-     "ev_rev": 6.03,
-     "ev_adj_ebitda": null,
-     "adj_margin": 0.071,
-     "sbc_pct": 0.176,
-     "rev_growth": 0.274
     }
    ],
    "stats": {
     "ev_rev": {
      "min": 2.81,
-     "p10": 3.42,
-     "median": 7.71,
-     "p90": 12.41,
+     "p10": 3.41,
+     "median": 7.74,
+     "p90": 12.43,
      "max": 14.8,
-     "current": 6.03,
-     "percentile": 36,
-     "points": 56
+     "current": 3.22,
+     "percentile": 9,
+     "points": 55
     },
     "ev_adj_ebitda": null
    }
@@ -33340,6 +33333,23 @@
   }
  ],
  "exits": [
+  {
+   "ticker": "BRZE",
+   "name": "Braze",
+   "subsegment": "CRM and marketing",
+   "buyer": "Salesforce",
+   "announced": "2026-10-20",
+   "exit_month": null,
+   "pending": true,
+   "price_per_share": 47.5,
+   "ev_m": 5228,
+   "ev_rev": 6.27,
+   "ev_adj_ebitda": null,
+   "adj_margin": 0.071,
+   "rev_growth": 0.274,
+   "index_median_ev_rev": 3.7,
+   "own_ev_rev_month_before": 3.22
+  },
   {
    "ticker": "SEMR",
    "name": "Semrush",
