@@ -15381,5 +15381,236 @@
   }
  ],
  "published": "2026-11-14",
- "transactions": []
+ "transactions": [
+  {
+   "target": "Armis",
+   "buyer": "ServiceNow",
+   "announced": "2025-12-23",
+   "segment": "Network security and operations",
+   "target_type": "Private",
+   "ev": "$7.75B",
+   "ev_rev": 22.8,
+   "basis": "ARR, reported by the buyer",
+   "pending": false,
+   "notes": [
+    "Revenue disclosed only as “more than” a figure, so the multiple is an upper bound."
+   ],
+   "source": "https://secure.businesswire.com/news/home/20260419639334/en/ServiceNow-completes-Armis-acquisition-closing-the-gap-between-asset-visibility-and-cyber-risk"
+  },
+  {
+   "target": "CyberArk",
+   "buyer": "Palo Alto Networks",
+   "announced": "2025-07-30",
+   "segment": "Identity and data security",
+   "target_type": "Listed",
+   "ev": "$23.2B",
+   "ev_rev": 19.4,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [
+    "Index member that filed as a foreign issuer; multiple calculated by 85 Advisors from its results releases on the index basis.",
+    "Palo Alto Networks shares valued at the 10-day average price stated at announcement."
+   ],
+   "source": "https://investors.paloaltonetworks.com/news-releases/news-release-details/palo-alto-networks-announces-agreement-acquire-cyberark-identity"
+  },
+  {
+   "target": "Wiz",
+   "buyer": "Google",
+   "announced": "2025-03-18",
+   "segment": "Network security and operations",
+   "target_type": "Private",
+   "ev": "$32B",
+   "ev_rev": 45.7,
+   "basis": "ARR, reported by the buyer",
+   "pending": false,
+   "notes": [
+    "ARR as reported in the press at announcement; Google did not disclose it."
+   ],
+   "source": "https://techcrunch.com/2025/03/18/google-is-buying-wiz-for-32b-to-beef-up-in-cloud-security"
+  },
+  {
+   "target": "Recorded Future",
+   "buyer": "Mastercard",
+   "announced": "2024-09-12",
+   "segment": "Network security and operations",
+   "target_type": "Private",
+   "ev": "$2.65B",
+   "ev_rev": 8.8,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Revenue disclosed only as “more than” a figure, so the multiple is an upper bound.",
+    "Revenue as reported in the press; Mastercard did not disclose it."
+   ],
+   "source": "https://siliconangle.com/2024/09/12/mastercard-acquires-threat-intelligence-provider-recorded-future-2-65b/"
+  },
+  {
+   "target": "Venafi",
+   "buyer": "CyberArk",
+   "announced": "2024-05-20",
+   "segment": "Identity and data security",
+   "target_type": "Private",
+   "ev": "$1.54B",
+   "ev_rev": 10.3,
+   "basis": "ARR, reported by the buyer",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.helpnetsecurity.com/?p=301813"
+  },
+  {
+   "target": "Synopsys Software Integrity Group",
+   "buyer": "Clearlake Capital and Francisco Partners",
+   "announced": "2024-05-06",
+   "segment": "Network security and operations",
+   "target_type": "Private",
+   "ev": "$2.1B",
+   "ev_rev": 4,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Includes up to $475 million payable only if the buyers reach a set return; 3.1x on the upfront price."
+   ],
+   "source": "https://www.govinfosecurity.com/synopsys-greenlights-sale-525m-application-security-unit-a-24672"
+  },
+  {
+   "target": "Darktrace",
+   "buyer": "Thoma Bravo",
+   "announced": "2024-04-26",
+   "segment": "Network security and operations",
+   "target_type": "Listed",
+   "ev": "$5.0B",
+   "ev_rev": 8.1,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.securityweek.com/darktrace-to-be-taken-private-in-5-3-billion-sale-to-thoma-bravo/"
+  },
+  {
+   "target": "Imperva",
+   "buyer": "Thales",
+   "announced": "2023-07-25",
+   "segment": "Identity and data security",
+   "target_type": "Private",
+   "ev": "$3.6B",
+   "ev_rev": 7.2,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Revenue disclosed only as “more than” a figure, so the multiple is an upper bound."
+   ],
+   "source": "https://www.helpnetsecurity.com/2023/07/25/thales-imperva-acquisiton-3-6-billion/"
+  },
+  {
+   "target": "Absolute Software",
+   "buyer": "Crosspoint Capital Partners",
+   "announced": "2023-05-11",
+   "segment": "Network security and operations",
+   "target_type": "Listed",
+   "ev": "$870M",
+   "ev_rev": 3.9,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.businesswire.com/news/home/20230511005487/en/Absolute-Software-to-be-Acquired-by-Crosspoint-Capital-Partners-for-Enterprise-Value-of-US870-Million"
+  },
+  {
+   "target": "Tufin",
+   "buyer": "Turn/River Capital",
+   "announced": "2022-04-06",
+   "segment": "Network security and operations",
+   "target_type": "Listed",
+   "ev": "$406M",
+   "ev_rev": 3.7,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [
+    "Index member that filed as a foreign issuer; multiple calculated by 85 Advisors from its results releases on the index basis."
+   ],
+   "source": "https://www.businesswire.com/news/home/20220210005373/en/Tufin-Announces-Fourth-Quarter-and-Full-Year-2021-Results"
+  },
+  {
+   "target": "Mimecast",
+   "buyer": "Permira",
+   "announced": "2021-12-07",
+   "segment": "Identity and data security",
+   "target_type": "Listed",
+   "ev": "$4.99B",
+   "ev_rev": 9,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/1644675/000119312521349648/d262865dex991.htm"
+  },
+  {
+   "target": "McAfee",
+   "buyer": "Advent, Permira and consortium",
+   "announced": "2021-11-08",
+   "segment": "Network security and operations",
+   "target_type": "Listed",
+   "ev": "$14B",
+   "ev_rev": 7.7,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [
+    "Consumer business only; McAfee sold its enterprise business separately."
+   ],
+   "source": "https://www.sec.gov/Archives/edgar/data/1783317/000119312521322454/d613958dex991.htm"
+  },
+  {
+   "target": "FireEye products business",
+   "buyer": "Symphony Technology Group",
+   "announced": "2021-06-02",
+   "segment": "Network security and operations",
+   "target_type": "Private",
+   "ev": "$1.2B",
+   "ev_rev": 2.2,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.fool.com/investing/2021/06/04/fireeye-sells-its-products-business-for-12-billion"
+  },
+  {
+   "target": "NetMotion",
+   "buyer": "Absolute Software",
+   "announced": "2021-05-11",
+   "segment": "Network security and operations",
+   "target_type": "Private",
+   "ev": "$340M",
+   "ev_rev": 5.7,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.businesswire.com/news/home/20210511006204/en/Absolute-Software-to-Acquire-NetMotion-to-Deliver-the-Next-Generation-of-Endpoint-Resilience"
+  },
+  {
+   "target": "Auth0",
+   "buyer": "Okta",
+   "announced": "2021-03-03",
+   "segment": "Identity and data security",
+   "target_type": "Private",
+   "ev": "$6.5B",
+   "ev_rev": 32.5,
+   "basis": "ARR, reported by the buyer",
+   "pending": false,
+   "notes": [
+    "Measured on the ARR Okta expected Auth0 to reach in 2021, so on a forward basis."
+   ],
+   "source": "https://www.sec.gov/Archives/edgar/data/1660134/000166013421000004/okta-1312021_ex991.htm"
+  },
+  {
+   "target": "GlobalSCAPE",
+   "buyer": "HelpSystems",
+   "announced": "2020-07-20",
+   "segment": "Identity and data security",
+   "target_type": "Listed",
+   "ev": "$205M",
+   "ev_rev": 5.1,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Small deal: target revenue under $50 million."
+   ],
+   "source": "https://www.sec.gov/Archives/edgar/data/1112920/000119380520000866/e619792_ex99-3.htm"
+  }
+ ]
 }
