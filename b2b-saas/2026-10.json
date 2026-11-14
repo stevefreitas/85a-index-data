@@ -3,7 +3,7 @@
  "slug": "b2b-saas",
  "as_of_month": "2026-10",
  "status": "published",
- "generated": "2026-11-13",
+ "generated": "2026-11-14",
  "method": {
   "multiples": "Trailing twelve months. EV = month-end price x basic shares outstanding + debt - cash and short-term investments.",
   "adj_ebitda": "Operating income + D&A + stock-based compensation; EV/adjusted EBITDA shown only where the adjusted margin is 10% or more.",
@@ -34161,6 +34161,6 @@
    "own_ev_rev_month_before": 9.54
   }
  ],
- "published": "2026-11-13",
+ "published": "2026-11-14",
  "transactions": []
 }
