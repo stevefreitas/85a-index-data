@@ -22,99 +22,99 @@
  "index_series": [
   {
    "month": "2019-10",
-   "n": 18,
-   "median_ev_rev": 1.58,
+   "n": 20,
+   "median_ev_rev": 2.01,
    "n_ebitda": 9,
    "median_ev_adj_ebitda": 9.5
   },
   {
    "month": "2019-11",
-   "n": 18,
-   "median_ev_rev": 1.81,
+   "n": 20,
+   "median_ev_rev": 1.84,
    "n_ebitda": 9,
    "median_ev_adj_ebitda": 9.9
   },
   {
    "month": "2019-12",
-   "n": 18,
-   "median_ev_rev": 1.84,
+   "n": 19,
+   "median_ev_rev": 1.87,
    "n_ebitda": 9,
    "median_ev_adj_ebitda": 11.2
   },
   {
    "month": "2020-01",
-   "n": 18,
-   "median_ev_rev": 1.74,
+   "n": 19,
+   "median_ev_rev": 1.77,
    "n_ebitda": 9,
    "median_ev_adj_ebitda": 10.8
   },
   {
    "month": "2020-02",
-   "n": 18,
-   "median_ev_rev": 1.63,
+   "n": 19,
+   "median_ev_rev": 1.75,
    "n_ebitda": 9,
    "median_ev_adj_ebitda": 13.1
   },
   {
    "month": "2020-03",
-   "n": 18,
-   "median_ev_rev": 1.15,
+   "n": 19,
+   "median_ev_rev": 1.51,
    "n_ebitda": 9,
    "median_ev_adj_ebitda": 12.9
   },
   {
    "month": "2020-04",
-   "n": 18,
-   "median_ev_rev": 1.27,
+   "n": 19,
+   "median_ev_rev": 1.41,
    "n_ebitda": 10,
    "median_ev_adj_ebitda": 11.5
   },
   {
    "month": "2020-05",
-   "n": 18,
-   "median_ev_rev": 1.45,
+   "n": 19,
+   "median_ev_rev": 1.59,
    "n_ebitda": 10,
    "median_ev_adj_ebitda": 11.5
   },
   {
    "month": "2020-06",
-   "n": 18,
-   "median_ev_rev": 1.39,
+   "n": 19,
+   "median_ev_rev": 1.51,
    "n_ebitda": 9,
    "median_ev_adj_ebitda": 11.4
   },
   {
    "month": "2020-07",
-   "n": 18,
-   "median_ev_rev": 1.51,
+   "n": 19,
+   "median_ev_rev": 1.68,
    "n_ebitda": 8,
    "median_ev_adj_ebitda": 13.1
   },
   {
    "month": "2020-08",
-   "n": 17,
-   "median_ev_rev": 1.26,
+   "n": 18,
+   "median_ev_rev": 1.27,
    "n_ebitda": 8,
    "median_ev_adj_ebitda": 10.3
   },
   {
    "month": "2020-09",
-   "n": 17,
-   "median_ev_rev": 1.04,
+   "n": 18,
+   "median_ev_rev": 1.21,
    "n_ebitda": 8,
    "median_ev_adj_ebitda": 8.6
   },
   {
    "month": "2020-10",
-   "n": 17,
-   "median_ev_rev": 1.06,
+   "n": 18,
+   "median_ev_rev": 1.17,
    "n_ebitda": 8,
    "median_ev_adj_ebitda": 7.6
   },
   {
    "month": "2020-11",
-   "n": 17,
-   "median_ev_rev": 1.42,
+   "n": 18,
+   "median_ev_rev": 1.44,
    "n_ebitda": 8,
    "median_ev_adj_ebitda": 8.2
   },
@@ -620,99 +620,99 @@
   "Learning content and apps": [
    {
     "month": "2019-10",
-    "n": 9,
-    "median_ev_rev": 2.25,
+    "n": 11,
+    "median_ev_rev": 2.47,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 9.5
    },
    {
     "month": "2019-11",
-    "n": 9,
-    "median_ev_rev": 1.87,
+    "n": 11,
+    "median_ev_rev": 2.17,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 8.8
    },
    {
     "month": "2019-12",
-    "n": 9,
-    "median_ev_rev": 1.88,
+    "n": 10,
+    "median_ev_rev": 2.05,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 8.9
    },
    {
     "month": "2020-01",
-    "n": 9,
-    "median_ev_rev": 1.77,
+    "n": 10,
+    "median_ev_rev": 1.93,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 8.2
    },
    {
     "month": "2020-02",
-    "n": 9,
-    "median_ev_rev": 1.75,
+    "n": 10,
+    "median_ev_rev": 1.89,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 13.1
    },
    {
     "month": "2020-03",
-    "n": 9,
-    "median_ev_rev": 1.51,
+    "n": 10,
+    "median_ev_rev": 1.56,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 12.9
    },
    {
     "month": "2020-04",
-    "n": 9,
-    "median_ev_rev": 1.51,
+    "n": 10,
+    "median_ev_rev": 1.76,
     "n_ebitda": 4,
     "median_ev_adj_ebitda": 11.5
    },
    {
     "month": "2020-05",
-    "n": 9,
-    "median_ev_rev": 1.59,
+    "n": 10,
+    "median_ev_rev": 1.93,
     "n_ebitda": 4,
     "median_ev_adj_ebitda": 11.5
    },
    {
     "month": "2020-06",
-    "n": 9,
-    "median_ev_rev": 1.51,
+    "n": 10,
+    "median_ev_rev": 1.78,
     "n_ebitda": 3,
     "median_ev_adj_ebitda": 11.4
    },
    {
     "month": "2020-07",
-    "n": 9,
-    "median_ev_rev": 1.35,
+    "n": 10,
+    "median_ev_rev": 1.79,
     "n_ebitda": 2,
     "median_ev_adj_ebitda": 39.4
    },
    {
     "month": "2020-08",
-    "n": 8,
-    "median_ev_rev": 1.23,
+    "n": 9,
+    "median_ev_rev": 1.28,
     "n_ebitda": 2,
     "median_ev_adj_ebitda": 35.4
    },
    {
     "month": "2020-09",
-    "n": 8,
-    "median_ev_rev": 1.21,
+    "n": 9,
+    "median_ev_rev": 1.37,
     "n_ebitda": 2,
     "median_ev_adj_ebitda": 36.6
    },
    {
     "month": "2020-10",
-    "n": 8,
-    "median_ev_rev": 1.2,
+    "n": 9,
+    "median_ev_rev": 1.35,
     "n_ebitda": 2,
     "median_ev_adj_ebitda": 33.1
    },
    {
     "month": "2020-11",
-    "n": 8,
-    "median_ev_rev": 1.44,
+    "n": 9,
+    "median_ev_rev": 1.46,
     "n_ebitda": 2,
     "median_ev_adj_ebitda": 31.3
    },
@@ -1814,13 +1814,13 @@
  },
  "index_stats": {
   "ev_rev": {
-   "min": 1.04,
-   "p10": 1.28,
-   "median": 1.54,
-   "p90": 2.01,
+   "min": 1.17,
+   "p10": 1.3,
+   "median": 1.55,
+   "p90": 2.02,
    "max": 2.28,
    "current": 1.17,
-   "percentile": 5,
+   "percentile": 2,
    "points": 85
   },
   "ev_adj_ebitda": {
@@ -15909,9 +15909,35 @@
    "status": "Exited",
    "listed": null,
    "exit_month": "2020-03",
-   "series": [],
+   "series": [
+    {
+     "month": "2019-10",
+     "ev_rev": 7.33,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.025,
+     "sbc_pct": 0.179,
+     "rev_growth": null
+    },
+    {
+     "month": "2019-11",
+     "ev_rev": 7.64,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.013,
+     "sbc_pct": 0.204,
+     "rev_growth": null
+    }
+   ],
    "stats": {
-    "ev_rev": null,
+    "ev_rev": {
+     "min": 7.33,
+     "p10": 7.36,
+     "median": 7.48,
+     "p90": 7.61,
+     "max": 7.64,
+     "current": 7.64,
+     "percentile": 100,
+     "points": 2
+    },
     "ev_adj_ebitda": null
    }
   },
@@ -16204,9 +16230,131 @@
    "status": "Exited",
    "listed": null,
    "exit_month": "2021-04",
-   "series": [],
+   "series": [
+    {
+     "month": "2019-10",
+     "ev_rev": 8.92,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.176,
+     "sbc_pct": 0.303,
+     "rev_growth": null
+    },
+    {
+     "month": "2019-11",
+     "ev_rev": 7.85,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.166,
+     "sbc_pct": 0.295,
+     "rev_growth": null
+    },
+    {
+     "month": "2019-12",
+     "ev_rev": 7.96,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.166,
+     "sbc_pct": 0.295,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-01",
+     "ev_rev": 8.99,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.166,
+     "sbc_pct": 0.295,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-02",
+     "ev_rev": 7.8,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.158,
+     "sbc_pct": 0.285,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-03",
+     "ev_rev": 4.73,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.158,
+     "sbc_pct": 0.285,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-04",
+     "ev_rev": 7.17,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.158,
+     "sbc_pct": 0.285,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-05",
+     "ev_rev": 8.59,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.156,
+     "sbc_pct": 0.282,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-06",
+     "ev_rev": 7.43,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.156,
+     "sbc_pct": 0.282,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-07",
+     "ev_rev": 8.74,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.156,
+     "sbc_pct": 0.282,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-08",
+     "ev_rev": 7.58,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.129,
+     "sbc_pct": 0.277,
+     "rev_growth": 0.308
+    },
+    {
+     "month": "2020-09",
+     "ev_rev": 6.77,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.129,
+     "sbc_pct": 0.277,
+     "rev_growth": 0.308
+    },
+    {
+     "month": "2020-10",
+     "ev_rev": 6.2,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.129,
+     "sbc_pct": 0.277,
+     "rev_growth": 0.308
+    },
+    {
+     "month": "2020-11",
+     "ev_rev": 6.27,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.091,
+     "sbc_pct": 0.264,
+     "rev_growth": 0.272
+    }
+   ],
    "stats": {
-    "ev_rev": null,
+    "ev_rev": {
+     "min": 4.73,
+     "p10": 6.22,
+     "median": 7.69,
+     "p90": 8.86,
+     "max": 8.99,
+     "current": 6.27,
+     "percentile": 21,
+     "points": 14
+    },
     "ev_adj_ebitda": null
    }
   },
@@ -16957,8 +17105,8 @@
    "ev_adj_ebitda": null,
    "adj_margin": -0.013,
    "rev_growth": null,
-   "index_median_ev_rev": 1.84,
-   "own_ev_rev_month_before": null
+   "index_median_ev_rev": 1.87,
+   "own_ev_rev_month_before": 7.64
   },
   {
    "ticker": "PWSC",
@@ -16979,7 +17127,20 @@
   },
   {
    "ticker": "PS",
-   "error": "no quarter before announcement"
+   "name": "Pluralsight",
+   "subsegment": "Learning content and apps",
+   "buyer": "Vista Equity Partners",
+   "announced": "2020-12-13",
+   "exit_month": "2021-04",
+   "pending": false,
+   "price_per_share": 22.5,
+   "ev_m": 3249,
+   "ev_rev": 8.65,
+   "ev_adj_ebitda": null,
+   "adj_margin": -0.091,
+   "rev_growth": 0.272,
+   "index_median_ev_rev": 1.44,
+   "own_ev_rev_month_before": 6.27
   },
   {
    "ticker": "UDMY",
@@ -17029,7 +17190,7 @@
    "ev_adj_ebitda": null,
    "adj_margin": 0.034,
    "rev_growth": 0.06,
-   "index_median_ev_rev": 1.26,
+   "index_median_ev_rev": 1.27,
    "own_ev_rev_month_before": 3.36
   }
  ],
@@ -17187,23 +17348,6 @@
     "Two sales of one business, valued together on its 2020 revenue."
    ],
    "source": "https://edsurge.com/news/2021-02-20-hobsons-higher-ed-business-split-and-sold-in-separate-deals-totaling-410m"
-  },
-  {
-   "target": "Pluralsight",
-   "buyer": "Vista Equity Partners",
-   "announced": "2020-12-13",
-   "segment": "Learning content and apps",
-   "target_type": "Listed",
-   "ev": "$2.96B",
-   "ev_m": 2960,
-   "ev_rev": 7.9,
-   "basis": "Trailing revenue, calculated from filings",
-   "pending": false,
-   "notes": [
-    "Index member; multiple calculated by 85 Advisors from its quarterly filing on the index basis, because its filings lack the share count the index uses.",
-    "At the final price of $22.50 per share, raised from $20.26 in March 2021."
-   ],
-   "source": "https://www.sec.gov/Archives/edgar/data/1725579/000119312520316375/d51165dex991.htm"
   },
   {
    "target": "Rasmussen University",
