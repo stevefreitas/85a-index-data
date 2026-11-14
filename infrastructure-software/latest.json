@@ -8,12 +8,13 @@
   "multiples": "Trailing twelve months. EV = month-end price x basic shares outstanding + debt - cash and marketable securities (short and long term).",
   "adj_ebitda": "Operating income + D&A + stock-based compensation; EV/adjusted EBITDA shown only where the adjusted margin is 10% or more.",
   "rev_growth": "Trailing twelve months of revenue against the same period a year earlier, as reported (includes acquisitions).",
+  "revenue": "revenue_usd_m is trailing twelve-month revenue in $ millions from the quarter used for the latest month; revenue reported in another currency is converted at that month-end exchange rate.",
   "filing_lag_days": 45,
   "aggregate": "Median of members. A company leaves the index in the month its acquisition is announced, because its share price then reflects the offer; the deal is shown at the price paid, marked pending until it closes.",
   "shares": "Basic shares outstanding; figures are slightly understated against fully diluted counts.",
   "deals": "Deal price per share x basic shares, using the last quarter ended at least 30 days before announcement. Deal enterprise value (ev_m, $ millions) is on the same basis, so it can be below the headline value, which usually counts all options and awards.",
   "rule_of_40": "Each current member is placed by revenue growth plus margin (Rule of 40 threshold: 40 percentage points) and by EV/revenue against the index median, giving four quadrants. Margin is adjusted EBITDA margin by default; the chart can also show margin after stock-based compensation. A fitted line is computed for reference only (rule_of_40_fit) and is not shown, because it explains little of the spread in most indexes.",
-  "source": "SEC EDGAR XBRL filings; month-end market prices."
+  "source": "SEC EDGAR XBRL filings and results releases; month-end market prices."
  },
  "subsegments": [
   "IT operations",
@@ -53,84 +54,84 @@
    "n": 20,
    "median_ev_rev": 6.58,
    "n_ebitda": 12,
-   "median_ev_adj_ebitda": 19.2
+   "median_ev_adj_ebitda": 16.1
   },
   {
    "month": "2020-03",
    "n": 20,
    "median_ev_rev": 5.97,
    "n_ebitda": 12,
-   "median_ev_adj_ebitda": 18.9
+   "median_ev_adj_ebitda": 16.1
   },
   {
    "month": "2020-04",
    "n": 20,
    "median_ev_rev": 6.71,
    "n_ebitda": 12,
-   "median_ev_adj_ebitda": 19.7
+   "median_ev_adj_ebitda": 17
   },
   {
    "month": "2020-05",
    "n": 20,
    "median_ev_rev": 6.89,
    "n_ebitda": 12,
-   "median_ev_adj_ebitda": 21.2
+   "median_ev_adj_ebitda": 18.7
   },
   {
    "month": "2020-06",
    "n": 20,
    "median_ev_rev": 6.83,
    "n_ebitda": 11,
-   "median_ev_adj_ebitda": 18.2
+   "median_ev_adj_ebitda": 17.9
   },
   {
    "month": "2020-07",
    "n": 20,
    "median_ev_rev": 7.04,
    "n_ebitda": 11,
-   "median_ev_adj_ebitda": 17.3
+   "median_ev_adj_ebitda": 16.8
   },
   {
    "month": "2020-08",
    "n": 20,
    "median_ev_rev": 7.07,
    "n_ebitda": 12,
-   "median_ev_adj_ebitda": 20.6
+   "median_ev_adj_ebitda": 17.5
   },
   {
    "month": "2020-09",
    "n": 20,
    "median_ev_rev": 6.81,
    "n_ebitda": 12,
-   "median_ev_adj_ebitda": 20
+   "median_ev_adj_ebitda": 17
   },
   {
    "month": "2020-10",
    "n": 20,
    "median_ev_rev": 6.66,
    "n_ebitda": 12,
-   "median_ev_adj_ebitda": 19.2
+   "median_ev_adj_ebitda": 16.2
   },
   {
    "month": "2020-11",
    "n": 22,
-   "median_ev_rev": 10.85,
+   "median_ev_rev": 10.5,
    "n_ebitda": 13,
-   "median_ev_adj_ebitda": 29.8
+   "median_ev_adj_ebitda": 18.4
   },
   {
    "month": "2020-12",
    "n": 24,
    "median_ev_rev": 12.6,
    "n_ebitda": 14,
-   "median_ev_adj_ebitda": 26.6
+   "median_ev_adj_ebitda": 24.2
   },
   {
    "month": "2021-01",
    "n": 24,
    "median_ev_rev": 13.97,
    "n_ebitda": 14,
-   "median_ev_adj_ebitda": 29.4
+   "median_ev_adj_ebitda": 25.9
   },
   {
    "month": "2021-02",
@@ -142,21 +143,21 @@
   {
    "month": "2021-03",
    "n": 24,
-   "median_ev_rev": 9.16,
+   "median_ev_rev": 8.83,
    "n_ebitda": 15,
    "median_ev_adj_ebitda": 26.7
   },
   {
    "month": "2021-04",
    "n": 24,
-   "median_ev_rev": 8.72,
+   "median_ev_rev": 8.65,
    "n_ebitda": 15,
    "median_ev_adj_ebitda": 28
   },
   {
    "month": "2021-05",
    "n": 24,
-   "median_ev_rev": 8.8,
+   "median_ev_rev": 8.43,
    "n_ebitda": 15,
    "median_ev_adj_ebitda": 28.4
   },
@@ -165,7 +166,7 @@
    "n": 23,
    "median_ev_rev": 10.51,
    "n_ebitda": 14,
-   "median_ev_adj_ebitda": 25.7
+   "median_ev_adj_ebitda": 24.2
   },
   {
    "month": "2021-07",
@@ -1826,11 +1827,11 @@
   "ev_adj_ebitda": {
    "min": 13.1,
    "p10": 14.7,
-   "median": 24.5,
+   "median": 23.4,
    "p90": 35.4,
    "max": 40.9,
    "current": 24.5,
-   "percentile": 51,
+   "percentile": 54,
    "points": 85
   }
  },
@@ -1838,16 +1839,16 @@
   "scope": "all indexes",
   "month": "2026-10",
   "after": {
-   "a": 0.9642,
-   "b": 0.01153,
-   "r2": 0.084,
-   "n": 119
+   "a": 0.9652,
+   "b": 0.0111,
+   "r2": 0.075,
+   "n": 120
   },
   "adjusted": {
-   "a": 0.1477,
-   "b": 0.03103,
-   "r2": 0.421,
-   "n": 119
+   "a": 0.0968,
+   "b": 0.03199,
+   "r2": 0.422,
+   "n": 120
   }
  },
  "companies": [
@@ -1859,6 +1860,9 @@
    "status": "Member",
    "listed": "2012-06-29",
    "exit_month": null,
+   "revenue_usd_m": 14732,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2019-10",
@@ -1866,7 +1870,7 @@
      "ev_adj_ebitda": 57.2,
      "adj_margin": 0.259,
      "sbc_pct": 0.205,
-     "rev_growth": null
+     "rev_growth": 0.331
     },
     {
      "month": "2019-11",
@@ -1874,7 +1878,7 @@
      "ev_adj_ebitda": 59.2,
      "adj_margin": 0.27,
      "sbc_pct": 0.197,
-     "rev_growth": null
+     "rev_growth": 0.32
     },
     {
      "month": "2019-12",
@@ -1882,7 +1886,7 @@
      "ev_adj_ebitda": 59,
      "adj_margin": 0.27,
      "sbc_pct": 0.197,
-     "rev_growth": null
+     "rev_growth": 0.32
     },
     {
      "month": "2020-01",
@@ -1890,7 +1894,7 @@
      "ev_adj_ebitda": 71.1,
      "adj_margin": 0.27,
      "sbc_pct": 0.197,
-     "rev_growth": null
+     "rev_growth": 0.32
     },
     {
      "month": "2020-02",
@@ -1898,7 +1902,7 @@
      "ev_adj_ebitda": 62.6,
      "adj_margin": 0.276,
      "sbc_pct": 0.191,
-     "rev_growth": null
+     "rev_growth": 0.326
     },
     {
      "month": "2020-03",
@@ -1906,7 +1910,7 @@
      "ev_adj_ebitda": 54.7,
      "adj_margin": 0.276,
      "sbc_pct": 0.191,
-     "rev_growth": null
+     "rev_growth": 0.326
     },
     {
      "month": "2020-04",
@@ -1914,7 +1918,7 @@
      "ev_adj_ebitda": 67.6,
      "adj_margin": 0.276,
      "sbc_pct": 0.191,
-     "rev_growth": null
+     "rev_growth": 0.326
     },
     {
      "month": "2020-05",
@@ -1922,7 +1926,7 @@
      "ev_adj_ebitda": 66.9,
      "adj_margin": 0.288,
      "sbc_pct": 0.186,
-     "rev_growth": null
+     "rev_growth": 0.324
     },
     {
      "month": "2020-06",
@@ -1930,7 +1934,7 @@
      "ev_adj_ebitda": 70,
      "adj_margin": 0.288,
      "sbc_pct": 0.186,
-     "rev_growth": null
+     "rev_growth": 0.324
     },
     {
      "month": "2020-07",
@@ -1938,7 +1942,7 @@
      "ev_adj_ebitda": 76.1,
      "adj_margin": 0.288,
      "sbc_pct": 0.186,
-     "rev_growth": null
+     "rev_growth": 0.324
     },
     {
      "month": "2020-08",
@@ -2572,6 +2576,9 @@
    "status": "Member",
    "listed": "2019-09-19",
    "exit_month": null,
+   "revenue_usd_m": 3967,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2019-11",
@@ -3277,6 +3284,9 @@
    "status": "Member",
    "listed": "2019-08-01",
    "exit_month": null,
+   "revenue_usd_m": 2096,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2019-11",
@@ -3332,7 +3342,7 @@
      "ev_adj_ebitda": 95,
      "adj_margin": 0.214,
      "sbc_pct": 0.408,
-     "rev_growth": null
+     "rev_growth": 0.266
     },
     {
      "month": "2020-06",
@@ -3340,7 +3350,7 @@
      "ev_adj_ebitda": 100.2,
      "adj_margin": 0.214,
      "sbc_pct": 0.408,
-     "rev_growth": null
+     "rev_growth": 0.266
     },
     {
      "month": "2020-07",
@@ -3348,7 +3358,7 @@
      "ev_adj_ebitda": 103.1,
      "adj_margin": 0.214,
      "sbc_pct": 0.408,
-     "rev_growth": null
+     "rev_growth": 0.266
     },
     {
      "month": "2020-08",
@@ -3982,6 +3992,9 @@
    "status": "Member",
    "listed": "2019-04-11",
    "exit_month": null,
+   "revenue_usd_m": 495,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-07-31",
    "series": [
     {
      "month": "2019-10",
@@ -4029,7 +4042,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.156,
      "sbc_pct": 0.163,
-     "rev_growth": null
+     "rev_growth": 0.413
     },
     {
      "month": "2020-04",
@@ -4037,7 +4050,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.156,
      "sbc_pct": 0.163,
-     "rev_growth": null
+     "rev_growth": 0.413
     },
     {
      "month": "2020-05",
@@ -4045,7 +4058,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.156,
      "sbc_pct": 0.163,
-     "rev_growth": null
+     "rev_growth": 0.413
     },
     {
      "month": "2020-06",
@@ -4695,6 +4708,9 @@
    "status": "Member",
    "listed": "1999-08-17",
    "exit_month": null,
+   "revenue_usd_m": 883,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2019-10",
@@ -4702,7 +4718,7 @@
      "ev_adj_ebitda": 11.7,
      "adj_margin": 0.184,
      "sbc_pct": 0.063,
-     "rev_growth": null
+     "rev_growth": -0.078
     },
     {
      "month": "2019-11",
@@ -4710,7 +4726,7 @@
      "ev_adj_ebitda": 11.7,
      "adj_margin": 0.196,
      "sbc_pct": 0.062,
-     "rev_growth": null
+     "rev_growth": -0.053
     },
     {
      "month": "2019-12",
@@ -4718,7 +4734,7 @@
      "ev_adj_ebitda": 11.2,
      "adj_margin": 0.196,
      "sbc_pct": 0.062,
-     "rev_growth": null
+     "rev_growth": -0.053
     },
     {
      "month": "2020-01",
@@ -4726,7 +4742,7 @@
      "ev_adj_ebitda": 11.9,
      "adj_margin": 0.196,
      "sbc_pct": 0.062,
-     "rev_growth": null
+     "rev_growth": -0.053
     },
     {
      "month": "2020-02",
@@ -4734,7 +4750,7 @@
      "ev_adj_ebitda": 9.8,
      "adj_margin": 0.229,
      "sbc_pct": 0.058,
-     "rev_growth": null
+     "rev_growth": -0.014
     },
     {
      "month": "2020-03",
@@ -4742,7 +4758,7 @@
      "ev_adj_ebitda": 9,
      "adj_margin": 0.229,
      "sbc_pct": 0.058,
-     "rev_growth": null
+     "rev_growth": -0.014
     },
     {
      "month": "2020-04",
@@ -4750,7 +4766,7 @@
      "ev_adj_ebitda": 10,
      "adj_margin": 0.229,
      "sbc_pct": 0.058,
-     "rev_growth": null
+     "rev_growth": -0.014
     },
     {
      "month": "2020-05",
@@ -4758,7 +4774,7 @@
      "ev_adj_ebitda": 11.1,
      "adj_margin": 0.207,
      "sbc_pct": 0.057,
-     "rev_growth": null
+     "rev_growth": -0.02
     },
     {
      "month": "2020-06",
@@ -4766,7 +4782,7 @@
      "ev_adj_ebitda": 10.3,
      "adj_margin": 0.207,
      "sbc_pct": 0.057,
-     "rev_growth": null
+     "rev_growth": -0.02
     },
     {
      "month": "2020-07",
@@ -4774,7 +4790,7 @@
      "ev_adj_ebitda": 10.3,
      "adj_margin": 0.207,
      "sbc_pct": 0.057,
-     "rev_growth": null
+     "rev_growth": -0.02
     },
     {
      "month": "2020-08",
@@ -5408,6 +5424,9 @@
    "status": "Member",
    "listed": "2018-10-05",
    "exit_month": null,
+   "revenue_usd_m": 1802,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-07-31",
    "series": [
     {
      "month": "2019-10",
@@ -5415,7 +5434,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.239,
      "sbc_pct": 0.154,
-     "rev_growth": null
+     "rev_growth": 0.648
     },
     {
      "month": "2019-11",
@@ -5423,7 +5442,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.239,
      "sbc_pct": 0.154,
-     "rev_growth": null
+     "rev_growth": 0.648
     },
     {
      "month": "2019-12",
@@ -5431,7 +5450,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.274,
      "sbc_pct": 0.147,
-     "rev_growth": null
+     "rev_growth": 0.618
     },
     {
      "month": "2020-01",
@@ -5439,7 +5458,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.274,
      "sbc_pct": 0.147,
-     "rev_growth": null
+     "rev_growth": 0.618
     },
     {
      "month": "2020-02",
@@ -5447,7 +5466,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.274,
      "sbc_pct": 0.147,
-     "rev_growth": null
+     "rev_growth": 0.618
     },
     {
      "month": "2020-03",
@@ -5455,7 +5474,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.27,
      "sbc_pct": 0.142,
-     "rev_growth": null
+     "rev_growth": 0.599
     },
     {
      "month": "2020-04",
@@ -5463,7 +5482,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.27,
      "sbc_pct": 0.142,
-     "rev_growth": null
+     "rev_growth": 0.599
     },
     {
      "month": "2020-05",
@@ -5471,7 +5490,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.27,
      "sbc_pct": 0.142,
-     "rev_growth": null
+     "rev_growth": 0.599
     },
     {
      "month": "2020-06",
@@ -6121,6 +6140,9 @@
    "status": "Member",
    "listed": "2021-07-19",
    "exit_month": null,
+   "revenue_usd_m": 531,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2021-11",
@@ -6634,6 +6656,9 @@
    "status": "Member",
    "listed": "2021-09-22",
    "exit_month": null,
+   "revenue_usd_m": 904,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2021-11",
@@ -7147,6 +7172,9 @@
    "status": "Exited",
    "listed": "2012-04-19",
    "exit_month": "2024-03",
+   "revenue_usd_m": 3731,
+   "revenue_month": "2023-08",
+   "revenue_quarter": "2023-04-30",
    "series": [
     {
      "month": "2019-10",
@@ -7154,7 +7182,7 @@
      "ev_adj_ebitda": 60,
      "adj_margin": 0.14,
      "sbc_pct": 0.239,
-     "rev_growth": null
+     "rev_growth": 0.361
     },
     {
      "month": "2019-11",
@@ -7162,7 +7190,7 @@
      "ev_adj_ebitda": 75.5,
      "adj_margin": 0.14,
      "sbc_pct": 0.239,
-     "rev_growth": null
+     "rev_growth": 0.361
     },
     {
      "month": "2019-12",
@@ -7170,7 +7198,7 @@
      "ev_adj_ebitda": 72.6,
      "adj_margin": 0.146,
      "sbc_pct": 0.234,
-     "rev_growth": null
+     "rev_growth": 0.335
     },
     {
      "month": "2020-01",
@@ -7178,7 +7206,7 @@
      "ev_adj_ebitda": 75.3,
      "adj_margin": 0.146,
      "sbc_pct": 0.234,
-     "rev_growth": null
+     "rev_growth": 0.335
     },
     {
      "month": "2020-02",
@@ -7186,7 +7214,7 @@
      "ev_adj_ebitda": 71.4,
      "adj_margin": 0.146,
      "sbc_pct": 0.234,
-     "rev_growth": null
+     "rev_growth": 0.335
     },
     {
      "month": "2020-03",
@@ -7194,7 +7222,7 @@
      "ev_adj_ebitda": 60.9,
      "adj_margin": 0.138,
      "sbc_pct": 0.231,
-     "rev_growth": null
+     "rev_growth": 0.308
     },
     {
      "month": "2020-04",
@@ -7202,7 +7230,7 @@
      "ev_adj_ebitda": 67.7,
      "adj_margin": 0.138,
      "sbc_pct": 0.231,
-     "rev_growth": null
+     "rev_growth": 0.308
     },
     {
      "month": "2020-05",
@@ -7210,7 +7238,7 @@
      "ev_adj_ebitda": 89.7,
      "adj_margin": 0.138,
      "sbc_pct": 0.231,
-     "rev_growth": null
+     "rev_growth": 0.308
     },
     {
      "month": "2020-06",
@@ -7556,6 +7584,9 @@
    "status": "Exited",
    "listed": "2014-12-12",
    "exit_month": "2023-11",
+   "revenue_usd_m": 926,
+   "revenue_month": "2023-06",
+   "revenue_quarter": "2023-03-31",
    "series": [
     {
      "month": "2019-10",
@@ -7563,7 +7594,7 @@
      "ev_adj_ebitda": 53,
      "adj_margin": 0.125,
      "sbc_pct": 0.13,
-     "rev_growth": null
+     "rev_growth": 0.336
     },
     {
      "month": "2019-11",
@@ -7571,7 +7602,7 @@
      "ev_adj_ebitda": 53.2,
      "adj_margin": 0.126,
      "sbc_pct": 0.14,
-     "rev_growth": null
+     "rev_growth": 0.313
     },
     {
      "month": "2019-12",
@@ -7579,7 +7610,7 @@
      "ev_adj_ebitda": 51.2,
      "adj_margin": 0.126,
      "sbc_pct": 0.14,
-     "rev_growth": null
+     "rev_growth": 0.313
     },
     {
      "month": "2020-01",
@@ -7587,7 +7618,7 @@
      "ev_adj_ebitda": 51.5,
      "adj_margin": 0.126,
      "sbc_pct": 0.14,
-     "rev_growth": null
+     "rev_growth": 0.313
     },
     {
      "month": "2020-02",
@@ -7595,7 +7626,7 @@
      "ev_adj_ebitda": 44.5,
      "adj_margin": 0.118,
      "sbc_pct": 0.152,
-     "rev_growth": null
+     "rev_growth": 0.284
     },
     {
      "month": "2020-03",
@@ -7603,7 +7634,7 @@
      "ev_adj_ebitda": 35.7,
      "adj_margin": 0.118,
      "sbc_pct": 0.152,
-     "rev_growth": null
+     "rev_growth": 0.284
     },
     {
      "month": "2020-04",
@@ -7611,7 +7642,7 @@
      "ev_adj_ebitda": 42.2,
      "adj_margin": 0.118,
      "sbc_pct": 0.152,
-     "rev_growth": null
+     "rev_growth": 0.284
     },
     {
      "month": "2020-05",
@@ -7619,7 +7650,7 @@
      "ev_adj_ebitda": 49.5,
      "adj_margin": 0.121,
      "sbc_pct": 0.166,
-     "rev_growth": null
+     "rev_growth": 0.251
     },
     {
      "month": "2020-06",
@@ -7627,7 +7658,7 @@
      "ev_adj_ebitda": 51.7,
      "adj_margin": 0.121,
      "sbc_pct": 0.166,
-     "rev_growth": null
+     "rev_growth": 0.251
     },
     {
      "month": "2020-07",
@@ -7635,7 +7666,7 @@
      "ev_adj_ebitda": 53.4,
      "adj_margin": 0.121,
      "sbc_pct": 0.166,
-     "rev_growth": null
+     "rev_growth": 0.251
     },
     {
      "month": "2020-08",
@@ -7949,6 +7980,9 @@
    "status": "Exited",
    "listed": "2018-10-19",
    "exit_month": "2025-04",
+   "revenue_usd_m": 785,
+   "revenue_month": "2025-01",
+   "revenue_quarter": "2024-09-30",
    "series": [
     {
      "month": "2019-10",
@@ -7956,7 +7990,7 @@
      "ev_adj_ebitda": 18.4,
      "adj_margin": 0.467,
      "sbc_pct": 0.024,
-     "rev_growth": null
+     "rev_growth": 0.118
     },
     {
      "month": "2019-11",
@@ -7964,7 +7998,7 @@
      "ev_adj_ebitda": 18.1,
      "adj_margin": 0.465,
      "sbc_pct": 0.032,
-     "rev_growth": null
+     "rev_growth": 0.118
     },
     {
      "month": "2019-12",
@@ -7972,7 +8006,7 @@
      "ev_adj_ebitda": 17.5,
      "adj_margin": 0.465,
      "sbc_pct": 0.032,
-     "rev_growth": null
+     "rev_growth": 0.118
     },
     {
      "month": "2020-01",
@@ -7980,151 +8014,151 @@
      "ev_adj_ebitda": 17.8,
      "adj_margin": 0.465,
      "sbc_pct": 0.032,
-     "rev_growth": null
+     "rev_growth": 0.118
     },
     {
      "month": "2020-02",
      "ev_rev": 7.89,
-     "ev_adj_ebitda": 23.2,
-     "adj_margin": 0.34,
-     "sbc_pct": 0.03,
-     "rev_growth": null
+     "ev_adj_ebitda": 17,
+     "adj_margin": 0.464,
+     "sbc_pct": 0.037,
+     "rev_growth": 0.119
     },
     {
      "month": "2020-03",
      "ev_rev": 7.05,
-     "ev_adj_ebitda": 20.7,
-     "adj_margin": 0.34,
-     "sbc_pct": 0.03,
-     "rev_growth": null
+     "ev_adj_ebitda": 15.2,
+     "adj_margin": 0.464,
+     "sbc_pct": 0.037,
+     "rev_growth": 0.119
     },
     {
      "month": "2020-04",
      "ev_rev": 7.48,
-     "ev_adj_ebitda": 22,
-     "adj_margin": 0.34,
-     "sbc_pct": 0.03,
-     "rev_growth": null
+     "ev_adj_ebitda": 16.1,
+     "adj_margin": 0.464,
+     "sbc_pct": 0.037,
+     "rev_growth": 0.119
     },
     {
      "month": "2020-05",
      "ev_rev": 7.62,
-     "ev_adj_ebitda": 22.8,
-     "adj_margin": 0.334,
-     "sbc_pct": 0.033,
-     "rev_growth": null
+     "ev_adj_ebitda": 16.8,
+     "adj_margin": 0.454,
+     "sbc_pct": 0.039,
+     "rev_growth": 0.131
     },
     {
      "month": "2020-06",
      "ev_rev": 7.42,
-     "ev_adj_ebitda": 22.2,
-     "adj_margin": 0.334,
-     "sbc_pct": 0.033,
-     "rev_growth": null
+     "ev_adj_ebitda": 16.3,
+     "adj_margin": 0.454,
+     "sbc_pct": 0.039,
+     "rev_growth": 0.131
     },
     {
      "month": "2020-07",
      "ev_rev": 7.64,
-     "ev_adj_ebitda": 22.9,
-     "adj_margin": 0.334,
-     "sbc_pct": 0.033,
-     "rev_growth": null
+     "ev_adj_ebitda": 16.8,
+     "adj_margin": 0.454,
+     "sbc_pct": 0.039,
+     "rev_growth": 0.131
     },
     {
      "month": "2020-08",
      "ev_rev": 8.26,
-     "ev_adj_ebitda": 24.2,
-     "adj_margin": 0.342,
-     "sbc_pct": 0.038,
+     "ev_adj_ebitda": 18,
+     "adj_margin": 0.459,
+     "sbc_pct": 0.044,
      "rev_growth": 0.116
     },
     {
      "month": "2020-09",
      "ev_rev": 8.05,
-     "ev_adj_ebitda": 23.6,
-     "adj_margin": 0.342,
-     "sbc_pct": 0.038,
+     "ev_adj_ebitda": 17.5,
+     "adj_margin": 0.459,
+     "sbc_pct": 0.044,
      "rev_growth": 0.116
     },
     {
      "month": "2020-10",
      "ev_rev": 8.07,
-     "ev_adj_ebitda": 23.6,
-     "adj_margin": 0.342,
-     "sbc_pct": 0.038,
+     "ev_adj_ebitda": 17.6,
+     "adj_margin": 0.459,
+     "sbc_pct": 0.044,
      "rev_growth": 0.116
     },
     {
      "month": "2020-11",
-     "ev_rev": 9.3,
-     "ev_adj_ebitda": 29.8,
-     "adj_margin": 0.312,
-     "sbc_pct": 0.046,
-     "rev_growth": 0.021
+     "ev_rev": 8.59,
+     "ev_adj_ebitda": 18.4,
+     "adj_margin": 0.466,
+     "sbc_pct": 0.056,
+     "rev_growth": 0.105
     },
     {
      "month": "2020-12",
-     "ev_rev": 6.63,
-     "ev_adj_ebitda": 21.3,
-     "adj_margin": 0.312,
-     "sbc_pct": 0.046,
-     "rev_growth": 0.021
+     "ev_rev": 6.13,
+     "ev_adj_ebitda": 13.1,
+     "adj_margin": 0.466,
+     "sbc_pct": 0.056,
+     "rev_growth": 0.105
     },
     {
      "month": "2021-01",
-     "ev_rev": 7.25,
-     "ev_adj_ebitda": 23.3,
-     "adj_margin": 0.312,
-     "sbc_pct": 0.046,
-     "rev_growth": 0.021
+     "ev_rev": 6.7,
+     "ev_adj_ebitda": 14.4,
+     "adj_margin": 0.466,
+     "sbc_pct": 0.056,
+     "rev_growth": 0.105
     },
     {
      "month": "2021-02",
-     "ev_rev": 7.76,
-     "ev_adj_ebitda": 18.1,
-     "adj_margin": 0.429,
+     "ev_rev": 6.57,
+     "ev_adj_ebitda": 14.6,
+     "adj_margin": 0.451,
      "sbc_pct": 0.073,
-     "rev_growth": -0.074
+     "rev_growth": 0.093
     },
     {
      "month": "2021-03",
-     "ev_rev": 8.21,
-     "ev_adj_ebitda": 19.2,
-     "adj_margin": 0.429,
+     "ev_rev": 6.96,
+     "ev_adj_ebitda": 15.4,
+     "adj_margin": 0.451,
      "sbc_pct": 0.073,
-     "rev_growth": -0.074
+     "rev_growth": 0.093
     },
     {
      "month": "2021-04",
-     "ev_rev": 8,
-     "ev_adj_ebitda": 18.7,
-     "adj_margin": 0.429,
+     "ev_rev": 6.78,
+     "ev_adj_ebitda": 15,
+     "adj_margin": 0.451,
      "sbc_pct": 0.073,
-     "rev_growth": -0.074
+     "rev_growth": 0.093
     },
     {
      "month": "2021-05",
-     "ev_rev": 8.54,
-     "ev_adj_ebitda": 20.8,
-     "adj_margin": 0.411,
-     "sbc_pct": 0.083,
-     "rev_growth": -0.18
+     "ev_rev": 6.55,
+     "ev_adj_ebitda": 15.4,
+     "adj_margin": 0.425,
+     "sbc_pct": 0.078,
+     "rev_growth": 0.068
     },
     {
      "month": "2021-06",
-     "ev_rev": 8.67,
-     "ev_adj_ebitda": 21.1,
-     "adj_margin": 0.411,
-     "sbc_pct": 0.083,
-     "rev_growth": -0.18
+     "ev_rev": 6.66,
+     "ev_adj_ebitda": 15.7,
+     "adj_margin": 0.425,
+     "sbc_pct": 0.078,
+     "rev_growth": 0.068
     },
     {
      "month": "2021-07",
-     "ev_rev": 6.42,
-     "ev_adj_ebitda": 15.6,
-     "adj_margin": 0.411,
-     "sbc_pct": 0.083,
-     "rev_growth": -0.18
+     "ev_rev": 4.93,
+     "ev_adj_ebitda": 11.6,
+     "adj_margin": 0.425,
+     "sbc_pct": 0.078,
+     "rev_growth": 0.068
     },
     {
      "month": "2021-08",
@@ -8132,7 +8166,7 @@
      "ev_adj_ebitda": 15.4,
      "adj_margin": 0.377,
      "sbc_pct": 0.092,
-     "rev_growth": -0.265
+     "rev_growth": null
     },
     {
      "month": "2021-09",
@@ -8140,7 +8174,7 @@
      "ev_adj_ebitda": 15.2,
      "adj_margin": 0.377,
      "sbc_pct": 0.092,
-     "rev_growth": -0.265
+     "rev_growth": null
     },
     {
      "month": "2021-10",
@@ -8148,7 +8182,7 @@
      "ev_adj_ebitda": 14.8,
      "adj_margin": 0.377,
      "sbc_pct": 0.092,
-     "rev_growth": -0.265
+     "rev_growth": null
     },
     {
      "month": "2021-11",
@@ -8156,7 +8190,7 @@
      "ev_adj_ebitda": 12.4,
      "adj_margin": 0.388,
      "sbc_pct": 0.095,
-     "rev_growth": -0.225
+     "rev_growth": null
     },
     {
      "month": "2021-12",
@@ -8164,7 +8198,7 @@
      "ev_adj_ebitda": 12.3,
      "adj_margin": 0.388,
      "sbc_pct": 0.095,
-     "rev_growth": -0.225
+     "rev_growth": null
     },
     {
      "month": "2022-01",
@@ -8172,7 +8206,7 @@
      "ev_adj_ebitda": 12,
      "adj_margin": 0.388,
      "sbc_pct": 0.095,
-     "rev_growth": -0.225
+     "rev_growth": null
     },
     {
      "month": "2022-02",
@@ -8180,7 +8214,7 @@
      "ev_adj_ebitda": 13,
      "adj_margin": 0.356,
      "sbc_pct": 0.082,
-     "rev_growth": -0.168
+     "rev_growth": null
     },
     {
      "month": "2022-03",
@@ -8188,7 +8222,7 @@
      "ev_adj_ebitda": 12.8,
      "adj_margin": 0.356,
      "sbc_pct": 0.082,
-     "rev_growth": -0.168
+     "rev_growth": null
     },
     {
      "month": "2022-04",
@@ -8196,7 +8230,7 @@
      "ev_adj_ebitda": 12.2,
      "adj_margin": 0.356,
      "sbc_pct": 0.082,
-     "rev_growth": -0.168
+     "rev_growth": null
     },
     {
      "month": "2022-05",
@@ -8204,7 +8238,7 @@
      "ev_adj_ebitda": 11.7,
      "adj_margin": 0.354,
      "sbc_pct": 0.083,
-     "rev_growth": -0.087
+     "rev_growth": null
     },
     {
      "month": "2022-06",
@@ -8212,7 +8246,7 @@
      "ev_adj_ebitda": 10.9,
      "adj_margin": 0.354,
      "sbc_pct": 0.083,
-     "rev_growth": -0.087
+     "rev_growth": null
     },
     {
      "month": "2022-07",
@@ -8220,7 +8254,7 @@
      "ev_adj_ebitda": 11.2,
      "adj_margin": 0.354,
      "sbc_pct": 0.083,
-     "rev_growth": -0.087
+     "rev_growth": null
     },
     {
      "month": "2022-08",
@@ -8468,8 +8502,8 @@
      "min": 3.27,
      "p10": 3.51,
      "median": 4.37,
-     "p90": 8.25,
-     "max": 9.3,
+     "p90": 8.07,
+     "max": 8.62,
      "current": 4.52,
      "percentile": 53,
      "points": 64
@@ -8477,9 +8511,9 @@
     "ev_adj_ebitda": {
      "min": 8.92,
      "p10": 9.5,
-     "median": 14.81,
-     "p90": 23.21,
-     "max": 29.84,
+     "median": 12.95,
+     "p90": 17.63,
+     "max": 18.45,
      "current": 10.28,
      "percentile": 29,
      "points": 49
@@ -8494,6 +8528,9 @@
    "status": "Exited",
    "listed": "2016-09-16",
    "exit_month": "2024-07",
+   "revenue_usd_m": 449,
+   "revenue_month": "2024-02",
+   "revenue_quarter": "2023-12-31",
    "series": [
     {
      "month": "2019-10",
@@ -8501,7 +8538,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.041,
      "sbc_pct": 0.147,
-     "rev_growth": null
+     "rev_growth": 0.401
     },
     {
      "month": "2019-11",
@@ -8509,7 +8546,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.038,
      "sbc_pct": 0.161,
-     "rev_growth": null
+     "rev_growth": 0.381
     },
     {
      "month": "2019-12",
@@ -8517,7 +8554,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.038,
      "sbc_pct": 0.161,
-     "rev_growth": null
+     "rev_growth": 0.381
     },
     {
      "month": "2020-01",
@@ -8525,7 +8562,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.038,
      "sbc_pct": 0.161,
-     "rev_growth": null
+     "rev_growth": 0.381
     },
     {
      "month": "2020-02",
@@ -8533,7 +8570,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.01,
      "sbc_pct": 0.168,
-     "rev_growth": null
+     "rev_growth": 0.366
     },
     {
      "month": "2020-03",
@@ -8541,7 +8578,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.01,
      "sbc_pct": 0.168,
-     "rev_growth": null
+     "rev_growth": 0.366
     },
     {
      "month": "2020-04",
@@ -8549,7 +8586,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.01,
      "sbc_pct": 0.168,
-     "rev_growth": null
+     "rev_growth": 0.366
     },
     {
      "month": "2020-05",
@@ -8557,7 +8594,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.023,
      "sbc_pct": 0.167,
-     "rev_growth": null
+     "rev_growth": 0.361
     },
     {
      "month": "2020-06",
@@ -8565,7 +8602,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.023,
      "sbc_pct": 0.167,
-     "rev_growth": null
+     "rev_growth": 0.361
     },
     {
      "month": "2020-07",
@@ -8573,7 +8610,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.023,
      "sbc_pct": 0.167,
-     "rev_growth": null
+     "rev_growth": 0.361
     },
     {
      "month": "2020-08",
@@ -8942,6 +8979,9 @@
    "status": "Exited",
    "listed": "2020-07-22",
    "exit_month": "2026-01",
+   "revenue_usd_m": 666,
+   "revenue_month": "2025-09",
+   "revenue_quarter": "2025-06-30",
    "series": [
     {
      "month": "2020-11",
@@ -9447,6 +9487,9 @@
    "status": "Exited",
    "listed": "2020-10-21",
    "exit_month": "2022-06",
+   "revenue_usd_m": 619,
+   "revenue_month": "2022-03",
+   "revenue_quarter": "2021-12-31",
    "series": [
     {
      "month": "2021-02",
@@ -9592,6 +9635,9 @@
    "status": "Exited",
    "listed": "2020-09-17",
    "exit_month": "2023-05",
+   "revenue_usd_m": 288,
+   "revenue_month": "2023-01",
+   "revenue_quarter": "2022-10-31",
    "series": [
     {
      "month": "2020-12",
@@ -9824,6 +9870,9 @@
    "status": "Member",
    "listed": "2020-09-16",
    "exit_month": null,
+   "revenue_usd_m": 5435,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-07-31",
    "series": [
     {
      "month": "2020-12",
@@ -10425,6 +10474,9 @@
    "status": "Member",
    "listed": "2017-10-19",
    "exit_month": null,
+   "revenue_usd_m": 2783,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-07-31",
    "series": [
     {
      "month": "2019-10",
@@ -10432,7 +10484,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.143,
      "sbc_pct": 0.152,
-     "rev_growth": null
+     "rev_growth": 0.665
     },
     {
      "month": "2019-11",
@@ -10440,7 +10492,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.143,
      "sbc_pct": 0.152,
-     "rev_growth": null
+     "rev_growth": 0.665
     },
     {
      "month": "2019-12",
@@ -10448,7 +10500,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.148,
      "sbc_pct": 0.161,
-     "rev_growth": null
+     "rev_growth": 0.612
     },
     {
      "month": "2020-01",
@@ -10456,7 +10508,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.148,
      "sbc_pct": 0.161,
-     "rev_growth": null
+     "rev_growth": 0.612
     },
     {
      "month": "2020-02",
@@ -10464,7 +10516,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.148,
      "sbc_pct": 0.161,
-     "rev_growth": null
+     "rev_growth": 0.612
     },
     {
      "month": "2020-03",
@@ -10472,7 +10524,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.141,
      "sbc_pct": 0.18,
-     "rev_growth": null
+     "rev_growth": 0.579
     },
     {
      "month": "2020-04",
@@ -10480,7 +10532,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.141,
      "sbc_pct": 0.18,
-     "rev_growth": null
+     "rev_growth": 0.579
     },
     {
      "month": "2020-05",
@@ -10488,7 +10540,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.141,
      "sbc_pct": 0.18,
-     "rev_growth": null
+     "rev_growth": 0.579
     },
     {
      "month": "2020-06",
@@ -11138,6 +11190,9 @@
    "status": "Member",
    "listed": "2007-10-01",
    "exit_month": null,
+   "revenue_usd_m": 1691,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2019-10",
@@ -11145,7 +11200,7 @@
      "ev_adj_ebitda": 13.6,
      "adj_margin": 0.117,
      "sbc_pct": 0.027,
-     "rev_growth": null
+     "rev_growth": -0.064
     },
     {
      "month": "2019-11",
@@ -11153,7 +11208,7 @@
      "ev_adj_ebitda": 11.3,
      "adj_margin": 0.13,
      "sbc_pct": 0.037,
-     "rev_growth": null
+     "rev_growth": -0.095
     },
     {
      "month": "2019-12",
@@ -11161,7 +11216,7 @@
      "ev_adj_ebitda": 11.4,
      "adj_margin": 0.13,
      "sbc_pct": 0.037,
-     "rev_growth": null
+     "rev_growth": -0.095
     },
     {
      "month": "2020-01",
@@ -11169,7 +11224,7 @@
      "ev_adj_ebitda": 10.4,
      "adj_margin": 0.13,
      "sbc_pct": 0.037,
-     "rev_growth": null
+     "rev_growth": -0.095
     },
     {
      "month": "2020-02",
@@ -11177,7 +11232,7 @@
      "ev_adj_ebitda": 9,
      "adj_margin": 0.128,
      "sbc_pct": 0.044,
-     "rev_growth": null
+     "rev_growth": -0.122
     },
     {
      "month": "2020-03",
@@ -11185,7 +11240,7 @@
      "ev_adj_ebitda": 9.3,
      "adj_margin": 0.128,
      "sbc_pct": 0.044,
-     "rev_growth": null
+     "rev_growth": -0.122
     },
     {
      "month": "2020-04",
@@ -11193,7 +11248,7 @@
      "ev_adj_ebitda": 11.2,
      "adj_margin": 0.128,
      "sbc_pct": 0.044,
-     "rev_growth": null
+     "rev_growth": -0.122
     },
     {
      "month": "2020-05",
@@ -11201,7 +11256,7 @@
      "ev_adj_ebitda": 9.5,
      "adj_margin": 0.136,
      "sbc_pct": 0.048,
-     "rev_growth": null
+     "rev_growth": -0.123
     },
     {
      "month": "2020-06",
@@ -11209,7 +11264,7 @@
      "ev_adj_ebitda": 9.2,
      "adj_margin": 0.136,
      "sbc_pct": 0.048,
-     "rev_growth": null
+     "rev_growth": -0.123
     },
     {
      "month": "2020-07",
@@ -11217,7 +11272,7 @@
      "ev_adj_ebitda": 9.3,
      "adj_margin": 0.136,
      "sbc_pct": 0.048,
-     "rev_growth": null
+     "rev_growth": -0.123
     },
     {
      "month": "2020-08",
@@ -11851,6 +11906,9 @@
    "status": "Member",
    "listed": "1996-01-23",
    "exit_month": null,
+   "revenue_usd_m": 5246,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2019-10",
@@ -11858,7 +11916,7 @@
      "ev_adj_ebitda": 12.5,
      "adj_margin": 0.371,
      "sbc_pct": 0.009,
-     "rev_growth": null
+     "rev_growth": 0.019
     },
     {
      "month": "2019-11",
@@ -11866,7 +11924,7 @@
      "ev_adj_ebitda": 13,
      "adj_margin": 0.376,
      "sbc_pct": 0.009,
-     "rev_growth": null
+     "rev_growth": 0.02
     },
     {
      "month": "2019-12",
@@ -11874,7 +11932,7 @@
      "ev_adj_ebitda": 13.1,
      "adj_margin": 0.376,
      "sbc_pct": 0.009,
-     "rev_growth": null
+     "rev_growth": 0.02
     },
     {
      "month": "2020-01",
@@ -11882,7 +11940,7 @@
      "ev_adj_ebitda": 13.3,
      "adj_margin": 0.376,
      "sbc_pct": 0.009,
-     "rev_growth": null
+     "rev_growth": 0.02
     },
     {
      "month": "2020-02",
@@ -11890,7 +11948,7 @@
      "ev_adj_ebitda": 13.7,
      "adj_margin": 0.374,
      "sbc_pct": 0.01,
-     "rev_growth": null
+     "rev_growth": 0.032
     },
     {
      "month": "2020-03",
@@ -11898,7 +11956,7 @@
      "ev_adj_ebitda": 12,
      "adj_margin": 0.374,
      "sbc_pct": 0.01,
-     "rev_growth": null
+     "rev_growth": 0.032
     },
     {
      "month": "2020-04",
@@ -11906,7 +11964,7 @@
      "ev_adj_ebitda": 12.7,
      "adj_margin": 0.374,
      "sbc_pct": 0.01,
-     "rev_growth": null
+     "rev_growth": 0.032
     },
     {
      "month": "2020-05",
@@ -11914,7 +11972,7 @@
      "ev_adj_ebitda": 14,
      "adj_margin": 0.359,
      "sbc_pct": 0.009,
-     "rev_growth": null
+     "rev_growth": 0.054
     },
     {
      "month": "2020-06",
@@ -11922,7 +11980,7 @@
      "ev_adj_ebitda": 14.2,
      "adj_margin": 0.359,
      "sbc_pct": 0.009,
-     "rev_growth": null
+     "rev_growth": 0.054
     },
     {
      "month": "2020-07",
@@ -11930,7 +11988,7 @@
      "ev_adj_ebitda": 14.9,
      "adj_margin": 0.359,
      "sbc_pct": 0.009,
-     "rev_growth": null
+     "rev_growth": 0.054
     },
     {
      "month": "2020-08",
@@ -12564,6 +12622,9 @@
    "status": "Member",
    "listed": "2015-12-10",
    "exit_month": null,
+   "revenue_usd_m": 6572,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2022-08",
@@ -13005,6 +13066,9 @@
    "status": "Member",
    "listed": "2016-09-30",
    "exit_month": null,
+   "revenue_usd_m": 2854,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-07-31",
    "series": [
     {
      "month": "2019-10",
@@ -13012,7 +13076,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.173,
      "sbc_pct": 0.248,
-     "rev_growth": null
+     "rev_growth": 0.07
     },
     {
      "month": "2019-11",
@@ -13020,7 +13084,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.173,
      "sbc_pct": 0.248,
-     "rev_growth": null
+     "rev_growth": 0.07
     },
     {
      "month": "2019-12",
@@ -13028,7 +13092,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.256,
      "sbc_pct": 0.26,
-     "rev_growth": null
+     "rev_growth": 0.037
     },
     {
      "month": "2020-01",
@@ -13036,7 +13100,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.256,
      "sbc_pct": 0.26,
-     "rev_growth": null
+     "rev_growth": 0.037
     },
     {
      "month": "2020-02",
@@ -13044,7 +13108,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.256,
      "sbc_pct": 0.26,
-     "rev_growth": null
+     "rev_growth": 0.037
     },
     {
      "month": "2020-03",
@@ -13052,7 +13116,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.313,
      "sbc_pct": 0.268,
-     "rev_growth": null
+     "rev_growth": 0.006
     },
     {
      "month": "2020-04",
@@ -13060,7 +13124,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.313,
      "sbc_pct": 0.268,
-     "rev_growth": null
+     "rev_growth": 0.006
     },
     {
      "month": "2020-05",
@@ -13068,7 +13132,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.313,
      "sbc_pct": 0.268,
-     "rev_growth": null
+     "rev_growth": 0.006
     },
     {
      "month": "2020-06",
@@ -13718,6 +13782,9 @@
    "status": "Member",
    "listed": "1991-07-31",
    "exit_month": null,
+   "revenue_usd_m": 1000,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-08-31",
    "series": [
     {
      "month": "2019-10",
@@ -13725,7 +13792,7 @@
      "ev_adj_ebitda": 14.9,
      "adj_margin": 0.33,
      "sbc_pct": 0.059,
-     "rev_growth": null
+     "rev_growth": -0.007
     },
     {
      "month": "2019-11",
@@ -13733,7 +13800,7 @@
      "ev_adj_ebitda": 15.6,
      "adj_margin": 0.33,
      "sbc_pct": 0.059,
-     "rev_growth": null
+     "rev_growth": -0.007
     },
     {
      "month": "2019-12",
@@ -13741,7 +13808,7 @@
      "ev_adj_ebitda": 15.5,
      "adj_margin": 0.33,
      "sbc_pct": 0.059,
-     "rev_growth": null
+     "rev_growth": -0.007
     },
     {
      "month": "2020-01",
@@ -13749,7 +13816,7 @@
      "ev_adj_ebitda": 18.1,
      "adj_margin": 0.288,
      "sbc_pct": 0.056,
-     "rev_growth": null
+     "rev_growth": 0.091
     },
     {
      "month": "2020-02",
@@ -13757,7 +13824,7 @@
      "ev_adj_ebitda": 15.2,
      "adj_margin": 0.288,
      "sbc_pct": 0.056,
-     "rev_growth": null
+     "rev_growth": 0.091
     },
     {
      "month": "2020-03",
@@ -13765,7 +13832,7 @@
      "ev_adj_ebitda": 13.1,
      "adj_margin": 0.288,
      "sbc_pct": 0.056,
-     "rev_growth": null
+     "rev_growth": 0.091
     },
     {
      "month": "2020-04",
@@ -13773,7 +13840,7 @@
      "ev_adj_ebitda": 14.8,
      "adj_margin": 0.304,
      "sbc_pct": 0.054,
-     "rev_growth": null
+     "rev_growth": 0.162
     },
     {
      "month": "2020-05",
@@ -13781,7 +13848,7 @@
      "ev_adj_ebitda": 14.6,
      "adj_margin": 0.304,
      "sbc_pct": 0.054,
-     "rev_growth": null
+     "rev_growth": 0.162
     },
     {
      "month": "2020-06",
@@ -13789,7 +13856,7 @@
      "ev_adj_ebitda": 14,
      "adj_margin": 0.304,
      "sbc_pct": 0.054,
-     "rev_growth": null
+     "rev_growth": 0.162
     },
     {
      "month": "2020-07",
@@ -14431,6 +14498,9 @@
    "status": "Member",
    "listed": "2021-10-14",
    "exit_month": null,
+   "revenue_usd_m": 1055,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-07-31",
    "series": [
     {
      "month": "2021-12",
@@ -14936,6 +15006,9 @@
    "status": "Member",
    "listed": "2020-09-16",
    "exit_month": null,
+   "revenue_usd_m": 600,
+   "revenue_month": "2026-10",
+   "revenue_quarter": "2026-06-30",
    "series": [
     {
      "month": "2020-11",
@@ -15545,6 +15618,9 @@
    "status": "Exited",
    "listed": "2017-04-28",
    "exit_month": "2021-10",
+   "revenue_usd_m": 869,
+   "revenue_month": "2021-05",
+   "revenue_quarter": "2021-01-31",
    "series": [
     {
      "month": "2019-10",
@@ -15552,7 +15628,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.1,
      "sbc_pct": 0.281,
-     "rev_growth": null
+     "rev_growth": 0.546
     },
     {
      "month": "2019-11",
@@ -15560,7 +15636,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.1,
      "sbc_pct": 0.281,
-     "rev_growth": null
+     "rev_growth": 0.546
     },
     {
      "month": "2019-12",
@@ -15568,7 +15644,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.095,
      "sbc_pct": 0.295,
-     "rev_growth": null
+     "rev_growth": 0.648
     },
     {
      "month": "2020-01",
@@ -15576,7 +15652,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.095,
      "sbc_pct": 0.295,
-     "rev_growth": null
+     "rev_growth": 0.648
     },
     {
      "month": "2020-02",
@@ -15584,7 +15660,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.095,
      "sbc_pct": 0.295,
-     "rev_growth": null
+     "rev_growth": 0.648
     },
     {
      "month": "2020-03",
@@ -15592,7 +15668,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.034,
      "sbc_pct": 0.278,
-     "rev_growth": null
+     "rev_growth": 0.655
     },
     {
      "month": "2020-04",
@@ -15600,7 +15676,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.034,
      "sbc_pct": 0.278,
-     "rev_growth": null
+     "rev_growth": 0.655
     },
     {
      "month": "2020-05",
@@ -15608,7 +15684,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.034,
      "sbc_pct": 0.278,
-     "rev_growth": null
+     "rev_growth": 0.655
     },
     {
      "month": "2020-06",
@@ -15738,6 +15814,9 @@
    "status": "Exited",
    "listed": "2016-07-29",
    "exit_month": "2021-07",
+   "revenue_usd_m": 288,
+   "revenue_month": "2021-02",
+   "revenue_quarter": "2020-12-31",
    "series": [
     {
      "month": "2019-10",
@@ -15777,7 +15856,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.067,
      "sbc_pct": 0.136,
-     "rev_growth": null
+     "rev_growth": 0.205
     },
     {
      "month": "2020-03",
@@ -15785,7 +15864,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.067,
      "sbc_pct": 0.136,
-     "rev_growth": null
+     "rev_growth": 0.205
     },
     {
      "month": "2020-04",
@@ -15793,7 +15872,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.067,
      "sbc_pct": 0.136,
-     "rev_growth": null
+     "rev_growth": 0.205
     },
     {
      "month": "2020-05",
@@ -15801,7 +15880,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.046,
      "sbc_pct": 0.145,
-     "rev_growth": null
+     "rev_growth": 0.194
     },
     {
      "month": "2020-06",
@@ -15809,7 +15888,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.046,
      "sbc_pct": 0.145,
-     "rev_growth": null
+     "rev_growth": 0.194
     },
     {
      "month": "2020-07",
@@ -15817,7 +15896,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.046,
      "sbc_pct": 0.145,
-     "rev_growth": null
+     "rev_growth": 0.194
     },
     {
      "month": "2020-08",
@@ -15898,6 +15977,9 @@
    "status": "Exited",
    "listed": "2017-03-24",
    "exit_month": "2024-03",
+   "revenue_usd_m": 920,
+   "revenue_month": "2023-11",
+   "revenue_quarter": "2023-09-30",
    "series": [
     {
      "month": "2019-10",
@@ -15905,7 +15987,7 @@
      "ev_adj_ebitda": 123.2,
      "adj_margin": 0.144,
      "sbc_pct": 0.072,
-     "rev_growth": null
+     "rev_growth": 0.774
     },
     {
      "month": "2019-11",
@@ -15913,7 +15995,7 @@
      "ev_adj_ebitda": 131.2,
      "adj_margin": 0.151,
      "sbc_pct": 0.076,
-     "rev_growth": null
+     "rev_growth": 0.727
     },
     {
      "month": "2019-12",
@@ -15921,7 +16003,7 @@
      "ev_adj_ebitda": 115,
      "adj_margin": 0.151,
      "sbc_pct": 0.076,
-     "rev_growth": null
+     "rev_growth": 0.727
     },
     {
      "month": "2020-01",
@@ -15929,7 +16011,7 @@
      "ev_adj_ebitda": 162.5,
      "adj_margin": 0.151,
      "sbc_pct": 0.076,
-     "rev_growth": null
+     "rev_growth": 0.727
     },
     {
      "month": "2020-02",
@@ -15937,7 +16019,7 @@
      "ev_adj_ebitda": 113.8,
      "adj_margin": 0.18,
      "sbc_pct": 0.079,
-     "rev_growth": null
+     "rev_growth": 0.648
     },
     {
      "month": "2020-03",
@@ -15945,7 +16027,7 @@
      "ev_adj_ebitda": 76.4,
      "adj_margin": 0.18,
      "sbc_pct": 0.079,
-     "rev_growth": null
+     "rev_growth": 0.648
     },
     {
      "month": "2020-04",
@@ -15953,7 +16035,7 @@
      "ev_adj_ebitda": 91.5,
      "adj_margin": 0.18,
      "sbc_pct": 0.079,
-     "rev_growth": null
+     "rev_growth": 0.648
     },
     {
      "month": "2020-05",
@@ -15961,7 +16043,7 @@
      "ev_adj_ebitda": 131.9,
      "adj_margin": 0.154,
      "sbc_pct": 0.092,
-     "rev_growth": null
+     "rev_growth": 0.614
     },
     {
      "month": "2020-06",
@@ -15969,7 +16051,7 @@
      "ev_adj_ebitda": 151.1,
      "adj_margin": 0.154,
      "sbc_pct": 0.092,
-     "rev_growth": null
+     "rev_growth": 0.614
     },
     {
      "month": "2020-07",
@@ -15977,7 +16059,7 @@
      "ev_adj_ebitda": 161.7,
      "adj_margin": 0.154,
      "sbc_pct": 0.092,
-     "rev_growth": null
+     "rev_growth": 0.614
     },
     {
      "month": "2020-08",
@@ -16331,6 +16413,9 @@
    "status": "Exited",
    "listed": "2021-07-22",
    "exit_month": "2025-09",
+   "revenue_usd_m": 210,
+   "revenue_month": "2025-05",
+   "revenue_quarter": "2025-01-31",
    "series": [
     {
      "month": "2021-09",
@@ -16715,6 +16800,9 @@
    "status": "Exited",
    "listed": "2021-10-27",
    "exit_month": "2025-11",
+   "revenue_usd_m": 1640,
+   "revenue_month": "2025-04",
+   "revenue_quarter": "2024-12-31",
    "series": [
     {
      "month": "2022-02",
@@ -17060,6 +17148,9 @@
    "status": "Exited",
    "listed": "2021-06-24",
    "exit_month": "2026-03",
+   "revenue_usd_m": 1113,
+   "revenue_month": "2025-11",
+   "revenue_quarter": "2025-09-30",
    "series": [
     {
      "month": "2021-08",
@@ -17501,6 +17592,9 @@
    "listed": "2018-06-29",
    "exit_month": null,
    "deal_pending": true,
+   "revenue_usd_m": 318,
+   "revenue_month": "2026-06",
+   "revenue_quarter": "2026-04-30",
    "series": [
     {
      "month": "2021-11",
@@ -17973,6 +18067,9 @@
    "status": "Exited",
    "listed": "2021-12-09",
    "exit_month": "2025-02",
+   "revenue_usd_m": 583,
+   "revenue_month": "2024-03",
+   "revenue_quarter": "2024-01-31",
    "series": [
     {
      "month": "2022-03",
@@ -18197,6 +18294,9 @@
    "status": "Exited",
    "listed": "2007-08-14",
    "exit_month": "2023-11",
+   "revenue_usd_m": 12851,
+   "revenue_month": "2022-04",
+   "revenue_quarter": "2022-01-28",
    "series": [
     {
      "month": "2019-10",
@@ -18204,7 +18304,7 @@
      "ev_adj_ebitda": 19.3,
      "adj_margin": 0.34,
      "sbc_pct": 0.089,
-     "rev_growth": null
+     "rev_growth": 0.179
     },
     {
      "month": "2019-11",
@@ -18212,7 +18312,7 @@
      "ev_adj_ebitda": 19,
      "adj_margin": 0.34,
      "sbc_pct": 0.089,
-     "rev_growth": null
+     "rev_growth": 0.179
     },
     {
      "month": "2019-12",
@@ -18220,7 +18320,7 @@
      "ev_adj_ebitda": 18.4,
      "adj_margin": 0.331,
      "sbc_pct": 0.093,
-     "rev_growth": null
+     "rev_growth": 0.156
     },
     {
      "month": "2020-01",
@@ -18228,7 +18328,7 @@
      "ev_adj_ebitda": 18,
      "adj_margin": 0.331,
      "sbc_pct": 0.093,
-     "rev_growth": null
+     "rev_growth": 0.156
     },
     {
      "month": "2020-02",
@@ -18236,7 +18336,7 @@
      "ev_adj_ebitda": 14.7,
      "adj_margin": 0.331,
      "sbc_pct": 0.093,
-     "rev_growth": null
+     "rev_growth": 0.156
     },
     {
      "month": "2020-03",
@@ -18244,7 +18344,7 @@
      "ev_adj_ebitda": 15.1,
      "adj_margin": 0.308,
      "sbc_pct": 0.094,
-     "rev_growth": null
+     "rev_growth": 0.125
     },
     {
      "month": "2020-04",
@@ -18252,7 +18352,7 @@
      "ev_adj_ebitda": 16.4,
      "adj_margin": 0.308,
      "sbc_pct": 0.094,
-     "rev_growth": null
+     "rev_growth": 0.125
     },
     {
      "month": "2020-05",
@@ -18260,7 +18360,7 @@
      "ev_adj_ebitda": 19.5,
      "adj_margin": 0.308,
      "sbc_pct": 0.094,
-     "rev_growth": null
+     "rev_growth": 0.125
     },
     {
      "month": "2020-06",
@@ -18478,6 +18578,9 @@
    "status": "Exited",
    "listed": "1995-12-08",
    "exit_month": "2022-09",
+   "revenue_usd_m": 3176,
+   "revenue_month": "2021-12",
+   "revenue_quarter": "2021-09-30",
    "series": [
     {
      "month": "2019-10",
@@ -18485,7 +18588,7 @@
      "ev_adj_ebitda": 13.8,
      "adj_margin": 0.349,
      "sbc_pct": 0.082,
-     "rev_growth": null
+     "rev_growth": 0.032
     },
     {
      "month": "2019-11",
@@ -18493,7 +18596,7 @@
      "ev_adj_ebitda": 14.5,
      "adj_margin": 0.341,
      "sbc_pct": 0.087,
-     "rev_growth": null
+     "rev_growth": 0.018
     },
     {
      "month": "2019-12",
@@ -18501,7 +18604,7 @@
      "ev_adj_ebitda": 14.3,
      "adj_margin": 0.341,
      "sbc_pct": 0.087,
-     "rev_growth": null
+     "rev_growth": 0.018
     },
     {
      "month": "2020-01",
@@ -18509,7 +18612,7 @@
      "ev_adj_ebitda": 15.6,
      "adj_margin": 0.341,
      "sbc_pct": 0.087,
-     "rev_growth": null
+     "rev_growth": 0.018
     },
     {
      "month": "2020-02",
@@ -18517,7 +18620,7 @@
      "ev_adj_ebitda": 12.5,
      "adj_margin": 0.339,
      "sbc_pct": 0.093,
-     "rev_growth": null
+     "rev_growth": 0.012
     },
     {
      "month": "2020-03",
@@ -18525,7 +18628,7 @@
      "ev_adj_ebitda": 17.1,
      "adj_margin": 0.339,
      "sbc_pct": 0.093,
-     "rev_growth": null
+     "rev_growth": 0.012
     },
     {
      "month": "2020-04",
@@ -18533,7 +18636,7 @@
      "ev_adj_ebitda": 17.5,
      "adj_margin": 0.339,
      "sbc_pct": 0.093,
-     "rev_growth": null
+     "rev_growth": 0.012
     },
     {
      "month": "2020-05",
@@ -18541,7 +18644,7 @@
      "ev_adj_ebitda": 17.9,
      "adj_margin": 0.344,
      "sbc_pct": 0.086,
-     "rev_growth": null
+     "rev_growth": 0.052
     },
     {
      "month": "2020-06",
@@ -18549,7 +18652,7 @@
      "ev_adj_ebitda": 17.9,
      "adj_margin": 0.344,
      "sbc_pct": 0.086,
-     "rev_growth": null
+     "rev_growth": 0.052
     },
     {
      "month": "2020-07",
@@ -18557,7 +18660,7 @@
      "ev_adj_ebitda": 17.3,
      "adj_margin": 0.344,
      "sbc_pct": 0.086,
-     "rev_growth": null
+     "rev_growth": 0.052
     },
     {
      "month": "2020-08",
@@ -18871,7 +18974,7 @@
    "ev_adj_ebitda": null,
    "adj_margin": -0.052,
    "rev_growth": 0.16,
-   "index_median_ev_rev": 9.16,
+   "index_median_ev_rev": 8.83,
    "own_ev_rev_month_before": 5.6
   },
   {
@@ -19073,6 +19176,22 @@
     "Small deal: target revenue under $50 million."
    ],
    "source": "https://www.mainsights.io/ma-news/corten-capital-backed-digital-transformation-firm-matrix42-announces-a-public-takeover-bid-for-finnish-software-provider-efecte-publ-at-an-ev-of-around-eur-100m"
+  },
+  {
+   "target": "Micro Focus",
+   "buyer": "OpenText",
+   "announced": "2022-08-25",
+   "segment": "IT operations",
+   "target_type": "Listed",
+   "ev": "$6.0B",
+   "ev_m": 6000,
+   "ev_rev": 2.2,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Enterprise value on a fully diluted basis as stated by the buyer; trailing revenue is the target's pro forma figure."
+   ],
+   "source": "https://www.sec.gov/Archives/edgar/data/1002638/000119312522231494/d325956dex991.htm"
   },
   {
    "target": "MobileIron",
