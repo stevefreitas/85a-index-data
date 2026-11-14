@@ -18990,6 +18990,7 @@
    "ev_rev": 20.9,
    "basis": "ARR, reported by the buyer",
    "pending": false,
+   "notes": [],
    "source": "https://www.itpro.com/business/acquisition/palo-alto-networks-to-acquire-chronosphere-in-usd3-35bn-deal"
   },
   {
@@ -19002,6 +19003,7 @@
    "ev_rev": 9.4,
    "basis": "ARR, reported by the buyer",
    "pending": false,
+   "notes": [],
    "source": "https://www.teamviewer.com/de/global/company/press/2024/teamviewer-to-acquire-1e/"
   },
   {
@@ -19014,6 +19016,7 @@
    "ev_rev": 2.4,
    "basis": "Trailing revenue, reported",
    "pending": false,
+   "notes": [],
    "source": "https://stockanalysis.com/quote/fra/TR9/financials/balance-sheet/"
   },
   {
@@ -19026,6 +19029,7 @@
    "ev_rev": 6.8,
    "basis": "Revenue derived from the buyer's pro forma disclosure",
    "pending": false,
+   "notes": [],
    "source": "https://www.sec.gov/Archives/edgar/data/1544522/000154452224000047/frsh-20240630.htm"
   },
   {
@@ -19038,6 +19042,7 @@
    "ev_rev": 4.1,
    "basis": "Trailing revenue, reported",
    "pending": false,
+   "notes": [],
    "source": "https://www.mainsights.io/ma-news/corten-capital-backed-digital-transformation-firm-matrix42-announces-a-public-takeover-bid-for-finnish-software-provider-efecte-publ-at-an-ev-of-around-eur-100m"
   },
   {
@@ -19050,6 +19055,7 @@
    "ev_rev": 3.5,
    "basis": "Trailing revenue, calculated from filings",
    "pending": false,
+   "notes": [],
    "source": "https://www.sec.gov/Archives/edgar/data/1470099/000155837020012159/mobl-20200930x10q.htm"
   }
  ]
