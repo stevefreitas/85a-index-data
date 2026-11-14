@@ -10071,5 +10071,133 @@
   }
  ],
  "published": "2026-11-14",
- "transactions": []
+ "transactions": [
+  {
+   "target": "2600Hz",
+   "buyer": "Ooma",
+   "announced": "2023-10-23",
+   "segment": "Web and communications",
+   "target_type": "Private",
+   "ev": "$33M",
+   "ev_rev": 4.7,
+   "basis": "ARR, reported by the buyer",
+   "pending": false,
+   "notes": [
+    "Small deal: target revenue under $50 million."
+   ],
+   "source": "https://www.businesswire.com/news/home/20231023923901/en/Ooma-Acquires-2600Hz-Inc.-A-Leader-in-Communications-Applications-For-Service-Providers"
+  },
+  {
+   "target": "Cloudways",
+   "buyer": "DigitalOcean",
+   "announced": "2022-08-23",
+   "segment": "Edge and hosting",
+   "target_type": "Private",
+   "ev": "$350M",
+   "ev_rev": 6.7,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Measured on the buyer’s expected revenue for the year of the deal, so on a forward basis."
+   ],
+   "source": "https://www.businesswire.com/news/home/20220823005306/en/DigitalOcean-to-Acquire-Cloudways"
+  },
+  {
+   "target": "Edgecast",
+   "buyer": "Limelight Networks",
+   "announced": "2022-03-07",
+   "segment": "Edge and hosting",
+   "target_type": "Private",
+   "ev": "$300M",
+   "ev_rev": 1.1,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [],
+   "source": "https://unified.www.yahooinc.com/press/limelight-to-acquire-yahoos-edgecast"
+  },
+  {
+   "target": "Linode",
+   "buyer": "Akamai",
+   "announced": "2022-02-15",
+   "segment": "Edge and hosting",
+   "target_type": "Private",
+   "ev": "$900M",
+   "ev_rev": 9,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Measured on the buyer’s expected revenue for the year of the deal, so on a forward basis."
+   ],
+   "source": "https://www.ir.akamai.com/node/27786"
+  },
+  {
+   "target": "Fuze",
+   "buyer": "8x8",
+   "announced": "2021-12-01",
+   "segment": "Web and communications",
+   "target_type": "Private",
+   "ev": "$250M",
+   "ev_rev": 1.9,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/1023731/000102373121000260/exhibit99212121.htm"
+  },
+  {
+   "target": "Pathwire (Mailgun, Mailjet)",
+   "buyer": "Sinch",
+   "announced": "2021-09-30",
+   "segment": "Web and communications",
+   "target_type": "Private",
+   "ev": "$1.9B",
+   "ev_rev": 14.4,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Measured on the buyer’s expected revenue for the year of the deal, so on a forward basis."
+   ],
+   "source": "https://www.group.sinch.com/media/press-releases-and-news/2021/sinch-acquires-pathwire-the-leading-email-delivery-platform-and-intends-to-carry-out-a-directed-share-issue-secured-by-investor-undertakings/"
+  },
+  {
+   "target": "MessageMedia",
+   "buyer": "Sinch",
+   "announced": "2021-06-09",
+   "segment": "Web and communications",
+   "target_type": "Private",
+   "ev": "$1.3B",
+   "ev_rev": 8.6,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [],
+   "source": "https://sinch.com/news/sinch-to-acquire-messagemedia-accelerating-growth-with-small-and-medium-sized-businesses/"
+  },
+  {
+   "target": "Inteliquent",
+   "buyer": "Sinch",
+   "announced": "2021-02-17",
+   "segment": "Web and communications",
+   "target_type": "Private",
+   "ev": "$1.14B",
+   "ev_rev": 2.1,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [],
+   "source": "https://investors.sinch.com/node/9286"
+  },
+  {
+   "target": "Voxbone",
+   "buyer": "Bandwidth",
+   "announced": "2020-10-12",
+   "segment": "Web and communications",
+   "target_type": "Private",
+   "ev": "$527M",
+   "ev_rev": 6.2,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Measured on the buyer’s expected revenue for the year of the deal, so on a forward basis."
+   ],
+   "source": "https://www.bandwidth.com/bandwidth-to-acquire-voxbone/"
+  }
+ ]
 }
