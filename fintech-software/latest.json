@@ -100,127 +100,127 @@
   },
   {
    "month": "2020-09",
-   "n": 22,
-   "median_ev_rev": 5.95,
+   "n": 23,
+   "median_ev_rev": 6.25,
    "n_ebitda": 18,
    "median_ev_adj_ebitda": 23.3
   },
   {
    "month": "2020-10",
-   "n": 23,
-   "median_ev_rev": 5.89,
+   "n": 24,
+   "median_ev_rev": 6.23,
    "n_ebitda": 18,
    "median_ev_adj_ebitda": 21.7
   },
   {
    "month": "2020-11",
-   "n": 23,
-   "median_ev_rev": 7.06,
+   "n": 24,
+   "median_ev_rev": 7.08,
    "n_ebitda": 18,
    "median_ev_adj_ebitda": 24.1
   },
   {
    "month": "2020-12",
-   "n": 23,
-   "median_ev_rev": 8.12,
+   "n": 24,
+   "median_ev_rev": 8.13,
    "n_ebitda": 18,
    "median_ev_adj_ebitda": 24.8
   },
   {
    "month": "2021-01",
-   "n": 23,
-   "median_ev_rev": 7.02,
+   "n": 24,
+   "median_ev_rev": 7.16,
    "n_ebitda": 18,
    "median_ev_adj_ebitda": 23.1
   },
   {
    "month": "2021-02",
-   "n": 24,
-   "median_ev_rev": 7.92,
+   "n": 25,
+   "median_ev_rev": 8.05,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 24.6
   },
   {
    "month": "2021-03",
-   "n": 24,
-   "median_ev_rev": 7.77,
+   "n": 25,
+   "median_ev_rev": 8.18,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 23.9
   },
   {
    "month": "2021-04",
-   "n": 24,
-   "median_ev_rev": 8.29,
+   "n": 25,
+   "median_ev_rev": 8.78,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 24.4
   },
   {
    "month": "2021-05",
-   "n": 25,
-   "median_ev_rev": 8.27,
+   "n": 26,
+   "median_ev_rev": 8.4,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 23.1
   },
   {
    "month": "2021-06",
-   "n": 25,
-   "median_ev_rev": 8.17,
+   "n": 26,
+   "median_ev_rev": 8.27,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 23.1
   },
   {
    "month": "2021-07",
-   "n": 25,
-   "median_ev_rev": 8.53,
+   "n": 26,
+   "median_ev_rev": 8.57,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 23.7
   },
   {
    "month": "2021-08",
-   "n": 30,
-   "median_ev_rev": 7.43,
+   "n": 31,
+   "median_ev_rev": 7.45,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 22.2
   },
   {
    "month": "2021-09",
-   "n": 30,
-   "median_ev_rev": 6.9,
+   "n": 31,
+   "median_ev_rev": 6.93,
    "n_ebitda": 18,
    "median_ev_adj_ebitda": 21.3
   },
   {
    "month": "2021-10",
-   "n": 30,
-   "median_ev_rev": 6.68,
+   "n": 31,
+   "median_ev_rev": 7.04,
    "n_ebitda": 18,
    "median_ev_adj_ebitda": 21.4
   },
   {
    "month": "2021-11",
-   "n": 35,
-   "median_ev_rev": 6.59,
+   "n": 36,
+   "median_ev_rev": 6.81,
    "n_ebitda": 20,
    "median_ev_adj_ebitda": 19.2
   },
   {
    "month": "2021-12",
-   "n": 34,
+   "n": 35,
    "median_ev_rev": 7.1,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 19
   },
   {
    "month": "2022-01",
-   "n": 34,
-   "median_ev_rev": 7.2,
+   "n": 35,
+   "median_ev_rev": 7.26,
    "n_ebitda": 19,
    "median_ev_adj_ebitda": 17.2
   },
   {
    "month": "2022-02",
-   "n": 36,
-   "median_ev_rev": 6.35,
+   "n": 37,
+   "median_ev_rev": 6.56,
    "n_ebitda": 20,
    "median_ev_adj_ebitda": 15.7
   },
@@ -698,127 +698,127 @@
    },
    {
     "month": "2020-09",
-    "n": 11,
-    "median_ev_rev": 7.22,
+    "n": 12,
+    "median_ev_rev": 7.98,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 25.4
    },
    {
     "month": "2020-10",
-    "n": 12,
-    "median_ev_rev": 7.08,
+    "n": 13,
+    "median_ev_rev": 7.59,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 24.8
    },
    {
     "month": "2020-11",
-    "n": 12,
-    "median_ev_rev": 7.8,
+    "n": 13,
+    "median_ev_rev": 8.53,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 24.1
    },
    {
     "month": "2020-12",
-    "n": 12,
-    "median_ev_rev": 7.65,
+    "n": 13,
+    "median_ev_rev": 8.19,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 25.1
    },
    {
     "month": "2021-01",
-    "n": 12,
-    "median_ev_rev": 6.82,
+    "n": 13,
+    "median_ev_rev": 7.3,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 23.3
    },
    {
     "month": "2021-02",
-    "n": 12,
-    "median_ev_rev": 7.27,
+    "n": 13,
+    "median_ev_rev": 8.05,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 22.2
    },
    {
     "month": "2021-03",
-    "n": 12,
-    "median_ev_rev": 7.41,
+    "n": 13,
+    "median_ev_rev": 8.18,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 23.6
    },
    {
     "month": "2021-04",
-    "n": 12,
-    "median_ev_rev": 7.96,
+    "n": 13,
+    "median_ev_rev": 8.78,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 24.2
    },
    {
     "month": "2021-05",
-    "n": 12,
-    "median_ev_rev": 7.63,
+    "n": 13,
+    "median_ev_rev": 8.52,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 23.1
    },
    {
     "month": "2021-06",
-    "n": 12,
-    "median_ev_rev": 7.66,
+    "n": 13,
+    "median_ev_rev": 8.17,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 23.8
    },
    {
     "month": "2021-07",
-    "n": 12,
-    "median_ev_rev": 8.06,
+    "n": 13,
+    "median_ev_rev": 8.53,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 25.1
    },
    {
     "month": "2021-08",
-    "n": 13,
-    "median_ev_rev": 7.45,
+    "n": 14,
+    "median_ev_rev": 8.85,
     "n_ebitda": 9,
     "median_ev_adj_ebitda": 22.2
    },
    {
     "month": "2021-09",
-    "n": 13,
-    "median_ev_rev": 6.93,
+    "n": 14,
+    "median_ev_rev": 8.38,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 21.3
    },
    {
     "month": "2021-10",
-    "n": 13,
-    "median_ev_rev": 7.04,
+    "n": 14,
+    "median_ev_rev": 8.32,
     "n_ebitda": 8,
     "median_ev_adj_ebitda": 21.4
    },
    {
     "month": "2021-11",
-    "n": 17,
-    "median_ev_rev": 9.43,
+    "n": 18,
+    "median_ev_rev": 9.67,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 19.8
    },
    {
     "month": "2021-12",
-    "n": 17,
-    "median_ev_rev": 7.93,
+    "n": 18,
+    "median_ev_rev": 8.87,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 20.3
    },
    {
     "month": "2022-01",
-    "n": 17,
-    "median_ev_rev": 7.43,
+    "n": 18,
+    "median_ev_rev": 7.65,
     "n_ebitda": 10,
     "median_ev_adj_ebitda": 18.2
    },
    {
     "month": "2022-02",
-    "n": 18,
-    "median_ev_rev": 7.35,
+    "n": 19,
+    "median_ev_rev": 7.45,
     "n_ebitda": 11,
     "median_ev_adj_ebitda": 17.2
    },
@@ -1818,8 +1818,8 @@
    "min": 2.75,
    "p10": 3.31,
    "median": 4.75,
-   "p90": 7.3,
-   "max": 8.53,
+   "p90": 7.31,
+   "max": 8.78,
    "current": 3.08,
    "percentile": 11,
    "points": 85
@@ -2581,12 +2581,156 @@
    "revenue_quarter": "2026-07-31",
    "series": [
     {
+     "month": "2020-09",
+     "ev_rev": 40.47,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.08,
+     "sbc_pct": 0.097,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-10",
+     "ev_rev": 35.56,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.08,
+     "sbc_pct": 0.097,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-11",
+     "ev_rev": 41.44,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.08,
+     "sbc_pct": 0.097,
+     "rev_growth": null
+    },
+    {
+     "month": "2020-12",
+     "ev_rev": 33.73,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.059,
+     "sbc_pct": 0.111,
+     "rev_growth": null
+    },
+    {
+     "month": "2021-01",
+     "ev_rev": 33.38,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.059,
+     "sbc_pct": 0.111,
+     "rev_growth": null
+    },
+    {
+     "month": "2021-02",
+     "ev_rev": 31.74,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.059,
+     "sbc_pct": 0.111,
+     "rev_growth": null
+    },
+    {
+     "month": "2021-03",
+     "ev_rev": 28.76,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.049,
+     "sbc_pct": 0.123,
+     "rev_growth": 0.478
+    },
+    {
+     "month": "2021-04",
+     "ev_rev": 28.15,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.049,
+     "sbc_pct": 0.123,
+     "rev_growth": 0.478
+    },
+    {
+     "month": "2021-05",
+     "ev_rev": 26.2,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.049,
+     "sbc_pct": 0.123,
+     "rev_growth": 0.478
+    },
+    {
+     "month": "2021-06",
+     "ev_rev": 24,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.067,
+     "sbc_pct": 0.141,
+     "rev_growth": 0.449
+    },
+    {
+     "month": "2021-07",
+     "ev_rev": 25.57,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.067,
+     "sbc_pct": 0.141,
+     "rev_growth": 0.449
+    },
+    {
+     "month": "2021-08",
+     "ev_rev": 24.9,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.067,
+     "sbc_pct": 0.141,
+     "rev_growth": 0.449
+    },
+    {
+     "month": "2021-09",
+     "ev_rev": 26.76,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.074,
+     "sbc_pct": 0.107,
+     "rev_growth": 0.412
+    },
+    {
+     "month": "2021-10",
+     "ev_rev": 27.41,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.074,
+     "sbc_pct": 0.107,
+     "rev_growth": 0.412
+    },
+    {
+     "month": "2021-11",
+     "ev_rev": 23.19,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.074,
+     "sbc_pct": 0.107,
+     "rev_growth": 0.412
+    },
+    {
+     "month": "2021-12",
+     "ev_rev": 19.27,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.082,
+     "sbc_pct": 0.102,
+     "rev_growth": 0.372
+    },
+    {
+     "month": "2022-01",
+     "ev_rev": 15.85,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.082,
+     "sbc_pct": 0.102,
+     "rev_growth": 0.372
+    },
+    {
+     "month": "2022-02",
+     "ev_rev": 15.89,
+     "ev_adj_ebitda": null,
+     "adj_margin": -0.082,
+     "sbc_pct": 0.102,
+     "rev_growth": 0.372
+    },
+    {
      "month": "2022-03",
      "ev_rev": 16.09,
      "ev_adj_ebitda": null,
      "adj_margin": -0.12,
      "sbc_pct": 0.104,
-     "rev_growth": null
+     "rev_growth": 0.341
     },
     {
      "month": "2022-04",
@@ -2594,7 +2738,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.12,
      "sbc_pct": 0.104,
-     "rev_growth": null
+     "rev_growth": 0.341
     },
     {
      "month": "2022-05",
@@ -2602,7 +2746,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.12,
      "sbc_pct": 0.104,
-     "rev_growth": null
+     "rev_growth": 0.341
     },
     {
      "month": "2022-06",
@@ -2610,7 +2754,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.105,
      "sbc_pct": 0.114,
-     "rev_growth": null
+     "rev_growth": 0.378
     },
     {
      "month": "2022-07",
@@ -2618,7 +2762,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.105,
      "sbc_pct": 0.114,
-     "rev_growth": null
+     "rev_growth": 0.378
     },
     {
      "month": "2022-08",
@@ -2626,7 +2770,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.105,
      "sbc_pct": 0.114,
-     "rev_growth": null
+     "rev_growth": 0.378
     },
     {
      "month": "2022-09",
@@ -2634,7 +2778,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.096,
      "sbc_pct": 0.117,
-     "rev_growth": null
+     "rev_growth": 0.413
     },
     {
      "month": "2022-10",
@@ -2642,7 +2786,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.096,
      "sbc_pct": 0.117,
-     "rev_growth": null
+     "rev_growth": 0.413
     },
     {
      "month": "2022-11",
@@ -2650,7 +2794,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.096,
      "sbc_pct": 0.117,
-     "rev_growth": null
+     "rev_growth": 0.413
     },
     {
      "month": "2022-12",
@@ -2658,7 +2802,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.067,
      "sbc_pct": 0.124,
-     "rev_growth": null
+     "rev_growth": 0.464
     },
     {
      "month": "2023-01",
@@ -2666,7 +2810,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.067,
      "sbc_pct": 0.124,
-     "rev_growth": null
+     "rev_growth": 0.464
     },
     {
      "month": "2023-02",
@@ -2674,7 +2818,7 @@
      "ev_adj_ebitda": null,
      "adj_margin": -0.067,
      "sbc_pct": 0.124,
-     "rev_growth": null
+     "rev_growth": 0.464
     },
     {
      "month": "2023-03",
@@ -3032,13 +3176,13 @@
    "stats": {
     "ev_rev": {
      "min": 3.17,
-     "p10": 3.77,
-     "median": 7.03,
-     "p90": 10.87,
-     "max": 16.09,
+     "p10": 4.17,
+     "median": 7.64,
+     "p90": 27.93,
+     "max": 41.44,
      "current": 4.13,
-     "percentile": 14,
-     "points": 56
+     "percentile": 11,
+     "points": 74
     },
     "ev_adj_ebitda": {
      "min": 12.94,
@@ -22453,6 +22597,22 @@
     "Paid largely in Global Payments businesses and shares rather than cash."
    ],
    "source": "https://www.sec.gov/Archives/edgar/data/1123360/000110465925035771/tm2512552d1_ex99-2.htm"
+  },
+  {
+   "target": "Global Blue",
+   "buyer": "Shift4",
+   "announced": "2025-02-18",
+   "segment": "Payments",
+   "target_type": "Listed",
+   "ev": "$2.5B",
+   "ev_m": 2500,
+   "ev_rev": 4.9,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [
+    "NYSE-listed Swiss company; enterprise value as stated by the buyer, on trailing revenue converted from euros at the exchange rate on the announcement date."
+   ],
+   "source": "https://www.businesswire.com/news/home/20250218353027/en/Shift4-to-Acquire-Global-Blue-the-Leading-Specialty-Payments-and-Technology-Provider-Serving-Luxury-Brands"
   },
   {
    "target": "BM Technologies",
