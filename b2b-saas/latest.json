@@ -33540,5 +33540,173 @@
   }
  ],
  "published": "2026-11-14",
- "transactions": []
+ "transactions": [
+  {
+   "target": "Vimeo",
+   "buyer": "Bending Spoons",
+   "announced": "2025-09-10",
+   "segment": "Collaboration",
+   "target_type": "Listed",
+   "ev": "$966M",
+   "ev_rev": 2.3,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.aap.com.au/aapreleases/globenewswire9526710/"
+  },
+  {
+   "target": "Verint",
+   "buyer": "Thoma Bravo",
+   "announced": "2025-08-25",
+   "segment": "CRM and marketing",
+   "target_type": "Listed",
+   "ev": "$2.0B",
+   "ev_rev": 2.2,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [
+    "Enterprise value as stated at announcement; on basic shares, debt, and cash alone the multiple is 1.6x."
+   ],
+   "source": "https://www.businesswire.com/news/home/20250825634473/en/Verint-Agrees-to-Be-Acquired-by-Thoma-Bravo-for-2-Billion"
+  },
+  {
+   "target": "Moveworks",
+   "buyer": "ServiceNow",
+   "announced": "2025-03-10",
+   "segment": "Collaboration",
+   "target_type": "Private",
+   "ev": "$2.85B",
+   "ev_rev": 28.5,
+   "basis": "ARR, reported by the buyer",
+   "pending": false,
+   "notes": [
+    "Annual revenue run rate of more than $100 million, as Moveworks stated in September 2024, so the multiple is an upper bound."
+   ],
+   "source": "https://fortune.com/2025/03/10/servicenow-buys-ai-agent-company-moveworks-for-2-85-billion/"
+  },
+  {
+   "target": "WalkMe",
+   "buyer": "SAP",
+   "announced": "2024-06-05",
+   "segment": "Collaboration",
+   "target_type": "Listed",
+   "ev": "$978M",
+   "ev_rev": 3.7,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://techcrunch.com/2024/06/05/sap-to-acquire-digital-adoption-platform-walkme-for-1-5b"
+  },
+  {
+   "target": "Model N",
+   "buyer": "Vista Equity Partners",
+   "announced": "2024-04-08",
+   "segment": "Finance, legal and compliance",
+   "target_type": "Listed",
+   "ev": "$1.15B",
+   "ev_rev": 4.5,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/1118417/000119312524089150/d766245dex991.htm"
+  },
+  {
+   "target": "LiveVox",
+   "buyer": "NICE",
+   "announced": "2023-10-04",
+   "segment": "CRM and marketing",
+   "target_type": "Listed",
+   "ev": "$345M",
+   "ev_rev": 2.4,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/1723648/000110465923106641/tm2327430d1_ex99-1.htm"
+  },
+  {
+   "target": "Apptio",
+   "buyer": "IBM",
+   "announced": "2023-06-26",
+   "segment": "Finance, legal and compliance",
+   "target_type": "Private",
+   "ev": "$4.6B",
+   "ev_rev": 11.5,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Revenue disclosed only as “more than” a figure, so the multiple is an upper bound.",
+    "Revenue as reported in the press; IBM did not disclose it."
+   ],
+   "source": "https://www.geekwire.com/2023/ibms-4-6b-apptio-deal-marks-another-new-era-for-seattle-area-cloud-and-it-management-company/"
+  },
+  {
+   "target": "UserTesting",
+   "buyer": "Thoma Bravo and Sunstone Partners",
+   "announced": "2022-10-27",
+   "segment": "CRM and marketing",
+   "target_type": "Listed",
+   "ev": "$915M",
+   "ev_rev": 5.2,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.thomabravo.com/press-releases/usertesting-to-be-acquired-by-thoma-bravo-and-sunstone-partners-for-1.3bn"
+  },
+  {
+   "target": "ChannelAdvisor",
+   "buyer": "CommerceHub",
+   "announced": "2022-09-06",
+   "segment": "CRM and marketing",
+   "target_type": "Listed",
+   "ev": "$579M",
+   "ev_rev": 3.4,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/1169652/000119312522238390/d485690dex991.htm"
+  },
+  {
+   "target": "Mailchimp",
+   "buyer": "Intuit",
+   "announced": "2021-09-13",
+   "segment": "CRM and marketing",
+   "target_type": "Private",
+   "ev": "$12B",
+   "ev_rev": 15,
+   "basis": "Trailing revenue, reported",
+   "pending": false,
+   "notes": [
+    "Calendar 2020 revenue as stated by Intuit; the deal was announced in September 2021, so the multiple of revenue at announcement was lower."
+   ],
+   "source": "https://www.theregister.com/2021/09/14/intuit_mailchimp_acquisition/"
+  },
+  {
+   "target": "QAD",
+   "buyer": "Thoma Bravo",
+   "announced": "2021-06-28",
+   "segment": "Finance, legal and compliance",
+   "target_type": "Listed",
+   "ev": "$1.67B",
+   "ev_rev": 5.3,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [],
+   "source": "https://www.sec.gov/Archives/edgar/data/1036188/000095014221002125/eh210163283_ex9901.htm"
+  },
+  {
+   "target": "SharpSpring",
+   "buyer": "Constant Contact",
+   "announced": "2021-06-22",
+   "segment": "CRM and marketing",
+   "target_type": "Listed",
+   "ev": "$192M",
+   "ev_rev": 6.3,
+   "basis": "Trailing revenue, calculated from filings",
+   "pending": false,
+   "notes": [
+    "Small deal: target revenue under $50 million."
+   ],
+   "source": "https://www.sec.gov/Archives/edgar/data/1506439/000165495421008854/shsp_ex991.htm"
+  }
+ ]
 }
