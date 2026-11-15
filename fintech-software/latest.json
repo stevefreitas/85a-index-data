@@ -8,7 +8,7 @@
   "multiples": "Trailing twelve months. EV = month-end price x basic shares outstanding + debt - cash and marketable securities (short and long term).",
   "adj_ebitda": "Operating income + D&A + stock-based compensation; EV/adjusted EBITDA shown only where the adjusted margin is 10% or more.",
   "rev_growth": "Trailing twelve months of revenue against the same period a year earlier, as reported (includes acquisitions).",
-  "revenue": "revenue_usd_m is trailing twelve-month revenue in $ millions from the quarter used for the latest month; revenue reported in another currency is converted at that month-end exchange rate.",
+  "revenue": "revenue_usd_m is trailing twelve-month revenue in $ millions from the quarter used for the latest month; revenue reported in another currency is converted at that month-end exchange rate. Revenue is as reported; revenue_basis names the pass-through costs included where they are a large part of it.",
   "filing_lag_days": 45,
   "aggregate": "Median of members. A company leaves the index in the month its acquisition is announced, because its share price then reflects the offer; the deal is shown at the price paid, marked pending until it closes.",
   "shares": "Basic shares outstanding; figures are slightly understated against fully diluted counts.",
@@ -6411,6 +6411,7 @@
    "revenue_usd_m": 7477,
    "revenue_month": "2026-10",
    "revenue_quarter": "2026-06-30",
+   "revenue_basis": "postage and mailing costs",
    "series": [
     {
      "month": "2019-10",
@@ -9783,6 +9784,7 @@
    "revenue_usd_m": 1360,
    "revenue_month": "2026-10",
    "revenue_quarter": "2026-06-30",
+   "revenue_basis": "card network and interchange fees",
    "series": [
     {
      "month": "2021-08",
@@ -14149,6 +14151,7 @@
    "revenue_usd_m": 4782,
    "revenue_month": "2026-10",
    "revenue_quarter": "2026-06-30",
+   "revenue_basis": "card network and interchange fees",
    "series": [
     {
      "month": "2020-08",
@@ -14785,6 +14788,7 @@
    "revenue_usd_m": 6804,
    "revenue_month": "2026-10",
    "revenue_quarter": "2026-06-30",
+   "revenue_basis": "card network and interchange fees",
    "series": [
     {
      "month": "2021-11",
